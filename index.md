@@ -1,6 +1,3 @@
----
-layout: home
----
 
 **Research Data Management Library Academy**
 
