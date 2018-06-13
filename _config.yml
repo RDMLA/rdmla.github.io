@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: RDMLA
+github_username: RDMLA
+description: >
+ Research Data Management Library Academy
+url: "https://rdmla.github.io/home"
+
+# Build settings
+markdown: kramdown
+theme: minimal
