@@ -1,3 +1,2 @@
-
-**Research Data Management Library Academy**
+Research Data Management Library Academy
 
