@@ -7,4 +7,4 @@ url: "https://rdmla.github.io/home"
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: jekyll-theme-cayman
