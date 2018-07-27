@@ -5,6 +5,6 @@ permalink: /about/
 ---
 ## What is Research Data Management?
 
-## Why is it important for libraries?
+## Why is it important for libraries and librarians?
 
-## What is the Library Academy?
+## What is the Librarian Academy?
