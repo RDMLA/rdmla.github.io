@@ -10,6 +10,8 @@ The team will compile an inventory of existing courses for academic librarians a
 
 The project partners consider the project essential to gain efficiencies, meet growing RDM needs and address the librarian skills gap.
 
+Learn more <a href="https://rdmla.github.io/home/about/">About RDMLA</a>.
+
 
 ## Survey
 
@@ -19,6 +21,8 @@ Share your personal experience by taking the <a href="http://www.surveymonkey.co
 
 
 ## Become a Member
+
+View the <a href="https://rdmla.github.io/home/partners/">Project Partners</a>.
 
 Interested in joining the RDM Library Academy?
 
