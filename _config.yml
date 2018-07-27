@@ -1,8 +1,14 @@
 # Site settings
 title: RDMLA
-github_username: RDMLA
-description: Research Data Management Library Academy
+author: RDMLA
+email: TBD
+description: >
+ Research Data Management Library Academy: Exploring the need for a research data management librarian academy
 url: "https://rdmla.github.io/home"
+
+# Social links
+twitter_username: RDMLA
+github_username:  RDMLA
 
 # Build settings
 markdown: kramdown
