@@ -7,7 +7,7 @@ permalink: /partners/
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/Elsevier.png" alt="Elsevier Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Jean-Shipman.jpg" alt="Jean Shipman Photo"></div><div><b>Jean Shipman</b><br> Vice President, Global Library Relations</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Jean-Shipman.jpg" alt="Jean Shipman Photo"></div><div><b>Jean Shipman, MSLS</b><br> Vice President, Global Library Relations</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Theresa-Hunt.jpeg" alt="Theresa Hunt photo"></div><div><b>Theresa Hunt</b><br> Vice President Global Marketing</div></td></tr>
   </table>
 
