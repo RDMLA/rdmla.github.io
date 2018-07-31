@@ -29,7 +29,7 @@ permalink: /partners/
   
   <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/MCPHS.png" alt="MCPHS University Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Rich-Kaplan.jpg" alt="Richard Kaplan Photo"></div><div><b>Richard Kaplan</b><br> Dean of Library and Learning Resources</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Rich-Kaplan.jpg" alt="Richard Kaplan Photo"></div><div><b>Richard Kaplan</b><br> Dean of Library and Learning Resources, Director of Libraries</div></td></tr>
   </table>
   
   <table>
