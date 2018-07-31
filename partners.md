@@ -18,8 +18,8 @@ permalink: /partners/
   
   <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/HMS.png" alt="Harvard Medical School Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Elaine-Martin.jpg" alt="Elaine Martin Photo"></div><div><b>Elaine Martin</b> Director and Chief Administrative Officer, Countway Library</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/julie-goldman.jpg" alt="Julie Goldman photo"></div><div><b>Julie Goldman</b> Countway Research Data Services Librarian</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Elaine-Martin.jpg" alt="Elaine Martin Photo"></div><div><b>Elaine Martin</b><br> Director and Chief Administrative Officer, Countway Library</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/julie-goldman.jpg" alt="Julie Goldman photo"></div><div><b>Julie Goldman</b><br> Countway Research Data Services Librarian</div></td></tr>
   </table>
 
 <table>
