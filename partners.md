@@ -18,15 +18,10 @@ permalink: /partners/
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/boston-university.png" alt="BU Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/person.jpg" alt="Person Photo"></div><div><b>Name</b><br> Role</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/bu-square.png" alt="BU Logo Photo"></div><div><b>Mary Blanchard</b><br> Library Director, Alumni Medical Library</div></td></tr>
   </table>
   
   <table>
-  <tr><td rowspan="3" width="20%"><img src="/home/images/MCPHS.png" alt="MCPHS University Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Rich-Kaplan.jpg" alt="Richard Kaplan Photo"></div><div><b>Richard Kaplan</b><br> Dean of Library and Learning Resources</div></td></tr>
-  </table>
-
-<table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/MCPHS.png" alt="MCPHS University Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Rich-Kaplan.jpg" alt="Richard Kaplan Photo"></div><div><b>Richard Kaplan</b><br> Dean of Library and Learning Resources</div></td></tr>
   </table>
