@@ -17,9 +17,13 @@ permalink: /partners/
   </table>
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/home/images/HMS.png" alt="Harvard Medical School Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Elaine-Martin.jpg" alt="Elaine Martin Photo"></div><div><b>Elaine Martin</b><br> Director and Chief Administrative Officer Francis A. Countway Library of Medicine</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/julie-goldman.jpg" alt="Julie Goldman photo"></div><div><b>Julie Goldman</b><br> Countway Research Data Services Librarian</div></td></tr>
+  <tr><td rowspan="3" width="20%"><img src="/home/images/boston-university.png" alt="BU Logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/person.jpg" alt="Person Photo"></div><div><b>Name</b><br> Role</div></td></tr>
+  </table>
+  
+  <table>
+  <tr><td rowspan="3" width="20%"><img src="/home/images/MCPHS.png" alt="MCPHS University Logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Rich-Kaplan.jpg" alt="Richard Kaplan Photo"></div><div><b>Richard Kaplan</b><br> Dean of Library and Learning Resources</div></td></tr>
   </table>
 
 <table>
