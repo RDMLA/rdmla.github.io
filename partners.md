@@ -24,7 +24,7 @@ permalink: /partners/
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/boston-university.png" alt="BU Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/bu-square.png" alt="BU Logo Photo"></div><div><b>Mary Blanchard</b><br> Library Director, Alumni Medical Library</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/person.png" alt="BU Logo Photo"></div><div><b>Mary Blanchard</b><br> Library Director, Alumni Medical Library</div></td></tr>
   </table>
   
   <table>
