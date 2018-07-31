@@ -15,6 +15,12 @@ permalink: /partners/
   <tr><td rowspan="3" width="20%"><img src="/home/images/simmons-college.png" alt="Simmons College Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Alyson-Gamble.png " alt="Alyson Gamble Photo"></div><div><b>Alyson Gamble</b><br> Data Fellow</div></td></tr>
   </table>
+  
+  <table>
+  <tr><td rowspan="3" width="20%"><img src="/home/images/HMS.png" alt="Harvard Medical School Logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Elaine-Martin.jpg" alt="Elaine Martin Photo"></div><div><b>Elaine Martin</b> Director and Chief Administrative Officer Francis A. Countway Library of Medicine</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/julie-goldman.jpg" alt="x photo"></div><div><b>Julie Goldman</b> Countway Research Data Services Librarian, Harvard Medical School</div></td></tr>
+  </table>
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/boston-university.png" alt="BU Logo"></td>
