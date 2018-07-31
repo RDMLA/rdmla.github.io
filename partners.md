@@ -16,15 +16,15 @@ permalink: /partners/
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Alyson-Gamble.png " alt="Alyson Gamble Photo"></div><div><b>Alyson Gamble</b><br> Data Fellow</div></td></tr>
   </table>
   
-  <table>
-  <tr><td rowspan="3" width="20%"><img src="/home/images/harvard-library.png" alt="Harvard Library Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/ceilyn-boyd.jpg" alt="Ceilyn Boyd Photo"></div><div><b>Ceilyn Boyd</b><br> Research Data Program Manager</div></td></tr>
-  </table>
-  
-  <table>
+<table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/HMS.png" alt="Harvard Medical School Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Elaine-Martin.jpg" alt="Elaine Martin Photo"></div><div><b>Elaine Martin</b><br> Director and Chief Administrative Officer, Countway Library</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/julie-goldman.jpg" alt="Julie Goldman photo"></div><div><b>Julie Goldman</b><br> Countway Research Data Services Librarian</div></td></tr>
+  </table>
+  
+<table>
+  <tr><td rowspan="3" width="20%"><img src="/home/images/harvard-library.png" alt="Harvard Library Logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/ceilyn-boyd.jpg" alt="Ceilyn Boyd Photo"></div><div><b>Ceilyn Boyd</b><br> Research Data Program Manager</div></td></tr>
   </table>
 
 <table>
