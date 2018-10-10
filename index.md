@@ -14,12 +14,7 @@ The project partners consider the project essential to gain efficiencies, meet g
 
 Learn more <a href="https://rdmla.github.io/home/about/">About RDMLA</a>.
 
-
-## Survey
-
-Feedback from librarians from all over the globe is welcome! 
-
-Share your personal experience by taking the <a href="http://www.surveymonkey.com/r/76SBBSH">RDM Training Survey</a>.
+See the preliminary '<a href="https://rdmla.github.io/home/about/">Research Data Management Librarian Academy Project Report Survey Results</a>'.
 
 
 ## Become a Member
