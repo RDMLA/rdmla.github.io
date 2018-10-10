@@ -33,7 +33,7 @@ permalink: /partners/
   <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/MCPHS.png" alt="MCPHS University Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Rich-Kaplan.jpg" alt="Richard Kaplan Photo"></div><div><b>Richard Kaplan</b><br> Dean of Library and Learning Resources, Director of Libraries</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/person.png" alt="Joanne Doucette Photo"></div><div><b>Joanne Doucette</b><br> Associate Professor & Associate Director of University Libraries</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Joanne-Doucette.jpeg" alt="Joanne Doucette Photo"></div><div><b>Joanne Doucette</b><br> Associate Professor & Associate Director of University Libraries</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Mccord-Sarah.jpg" alt="Sarah McCord Photo"></div><div><b>Sarah McCord</b><br> Research Data and Informatics Librarian & Associate Professor</div></td></tr>
   </table>
 
