@@ -23,4 +23,4 @@ View the <a href="https://rdmla.github.io/home/partners/">Project Partners</a>.
 
 Interested in joining the RDM Librarian Academy?
 
-Contact Inforamtion: [TBD]
+Contact Information: [TBD]
