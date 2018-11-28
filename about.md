@@ -17,8 +17,15 @@ The project partners consider the project essential to gain efficiencies, meet g
 
 ## About the Survey Instrument
 
-The Research Data Management Librarian Academy (RDMLA) Survey was intended to gauge general perceptions, particularly from librarians, about RDM and RDM training. The RDMLA survey was launched via SurveyMonkey on May 23, 2018 and closed on September 4, 2018. It contained 19 questions developed by Elsevier’s Jean Shipman and Harvard Medical School’s Dr. Elaine Martin. The survey was distributed to relevant groups via email, a Library Connect blog post, listservs, and word of mouth. At the conclusion of the survey on September 4, 2018, there were 241 responses. The majority of these responses ( n = 116) were collected during May 2018. The 628 open answer responses were hand-coded by Alyson Gamble of Simmons University.
+The Research Data Management Librarian Academy (RDMLA) Survey was intended to gauge general perceptions, particularly from librarians, about RDM and RDM training. The RDMLA survey was launched via SurveyMonkey on May 23, 2018 and closed on September 4, 2018. It contained 19 questions developed by Elsevier’s Jean Shipman and Harvard Medical School’s Dr. Elaine Martin. The survey was distributed to relevant groups via email, a Library Connect blog post, listservs, and word of mouth. At the conclusion of the survey on September 4, 2018, there were 241 responses. The majority of these responses (n = 116) were collected during May 2018. The 628 open answer responses were hand-coded by Alyson Gamble of Simmons University.
 
 ## View the Preliminary Survey Report Results 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSz5BkBFtCRZODwwHTQH78kyhin72qxCVIKQhzT9kYHNyzGh14rR11C9YTWYUgRsh4NGruLXnE3uE3F/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Read the Training and Publications Files
+
+[Training PDF](https://github.com/RDMLA/home/blob/master/Training.pdf)
+[Training Spreadsheet](https://github.com/RDMLA/home/blob/master/Training.xlsx)
+[Publications PDF](https://github.com/RDMLA/home/blob/master/Publications.pdf)
+[Publications Spreadsheet](hhttps://github.com/RDMLA/home/blob/master/Publications.xlsx)
