@@ -23,4 +23,4 @@ Learn more <a href="https://rdmla.github.io/home/about/">About RDMLA</a>.
 
 View the <a href="https://rdmla.github.io/home/partners/">Project Partners</a>.
 
-Interested in joining the RDM Librarian Academy? <a href="https://rdmla.github.io/home/form">Contact us</a>!
+Interested in joining the RDM Librarian Academy? <a href="https://rdmla.github.io/home/form/">Contact us</a>!
