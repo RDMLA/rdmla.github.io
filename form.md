@@ -1,10 +1,12 @@
 <html>
   <body>
     
+   If you are interested in joining the RDM Librarian Academy please contact us!
+    
     <form action="https://formspree.io/julie_goldman@harvard.edu" method="POST">
   <p>Name: <input type="text" name="name">
   <p>Email: <input type="email" name="_replyto">
-  <p> Message: </ br>
+  <p> Message:
   <p> <textarea name="message"></textarea>
   <p> <input type="submit" value="Send">
 
