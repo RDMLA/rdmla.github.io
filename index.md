@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 The **Research Data Management Librarian Academy** or **RDMLA** is a group of several university libraries partnering with Elsevier studying the need for a Research Data Management Librarian Academy and providing relevant and timely online RDM training. 
 
 Read about the partnership in the Library Connect article: <i><a href="https://libraryconnect.elsevier.com/articles/exploring-need-research-data-management-librarian-academy">Exploring the need for a research data management librarian academy</a></i>.
