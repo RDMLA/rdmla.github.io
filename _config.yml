@@ -4,7 +4,7 @@ email:
 description: >
  Research Data Management Librarian Academy: Exploring the need for research data management training for librarians
 url: "https://rdmla.github.io"
-baseurl: /home
+baseurl: home
 
 # Social links
 twitter_username: #RDM
