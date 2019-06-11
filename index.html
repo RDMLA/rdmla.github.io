@@ -1,0 +1,20 @@
+{{ define "header" }}
+  {{- partial "header.html" . -}}
+{{ end }}
+{{ define "main" }}
+  <main class="w-70 center">
+    <h1 class="ttu fw4 f2 moon-gray">{{ .Title }}</h1>
+    <h2 class="gold">Welcome</h2>
+      {{ .Content }}
+      {{ range first 20 .Data.Pages }}
+          {{ if eq .Type "post"}}
+            <h2><a class="link dim dark-green" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            {{- partial "summary.html" . -}}
+          {{ end }}
+      {{ end }}
+  </main>
+{{ end }}
+{{ define "footer" }}
+ {{- partial "footer.html" . -}}
+ {{- partial "bodyend.html" . -}}
+{{ end }}
