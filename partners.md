@@ -36,12 +36,12 @@ permalink: /partners/
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/brownlogo.png" alt="Brown University Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Creamer-Andrew.png" alt="Andrew Creamer Photo"></div><div><b>Andrew Creamer</b><br> Scientific Data Management Specialist</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/creamer-andrew.jpg" alt="Andrew Creamer Photo"></div><div><b>Andrew Creamer</b><br> Scientific Data Management Specialist</div></td></tr>
   </table>
   
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/simmons-college.png" alt="Simmons University Logo"></td>
-  <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Danielle-pollock.png" alt="Danielle Pollock Photo"></div><div><b>Danielle Pollock</b><br>Assistant Professor</div></td></tr>
+  <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/danielle-pollock.jpg" alt="Danielle Pollock Photo"></div><div><b>Danielle Pollock</b><br>Assistant Professor</div></td></tr>
 </table>
 
 <table>
