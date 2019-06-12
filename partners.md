@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Partners
+title: RDMLA Community
 permalink: /partners/
 ---
 
@@ -27,6 +27,7 @@ permalink: /partners/
 <tr><td rowspan="3" width="20%"><img src="/home/images/HMS.png" alt="Harvard Medical School Logo"></td>
  <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/julie-goldman.jpg" alt="Julie Goldman Photo"></div><div>    <b>Julie Goldman</b><br> Countway Research Data Services Librarian</div></td></tr>
  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/scott lapinski.png" alt="Scott Lapinski Photo"></div>    <div><b>Scott Lapinski</b><br>Associate Director, Digital Scholarship & Scholarly Communication</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/roger-vargas.jpg" alt="Roger Vargas Photo"></div>    <div><b>Roger Vargas</b><br>Graduate Student in Systems Biology</div></td></tr>
 </table>
   
 <table>
