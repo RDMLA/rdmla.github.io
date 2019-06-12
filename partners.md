@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RDMLA Community
-permalink: /rdmla community/
+permalink: /partners/
 ---
 
 #### RDMLA Leadership
