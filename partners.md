@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RDMLA Community
+title: Partners
 permalink: /partners/
 ---
 
