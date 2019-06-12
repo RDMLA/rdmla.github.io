@@ -36,7 +36,7 @@ permalink: /partners/
  </table>
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/home/images/brownlogo.png" alt="Brown University Logo"></td>
+  <tr><td rowspan="3" width="20%"><img src="/home/images/brown-logo.png" alt="Brown University Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/creamer-andrew.jpg" alt="Andrew Creamer Photo"></div><div><b>Andrew Creamer</b><br> Scientific Data Management Specialist</div></td></tr>
   </table>
   
