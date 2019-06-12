@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RDMLA Community
-permalink: /partners/
+permalink: /rdmla community/
 ---
 
 #### RDMLA Leadership
@@ -76,7 +76,7 @@ permalink: /partners/
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Courtney-Bohr.jpg" alt="Courtney Bohr Photo"></div><div><b>Courtney Bohr</b><br> Instructional Designer, Simmons Online</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Ellen-Berrigan.jpg" alt="Ellen Berrigan Photo"></div><div><b>Ellen Berrigan</b><br> Instructional Designer, Simmons Online</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Ashley-Thomas.jpg" alt="Ashley Thomas Photo"></div><div><b>Ashley M.Thomas</b><br> Student Assistant, Simmons Online</div></td></tr>
-<table>
+</table>
 
 #### RDMLA Staff
 
