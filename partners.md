@@ -26,7 +26,7 @@ permalink: /partners/
 <table>
 <tr><td rowspan="3" width="20%"><img src="/home/images/HMS.png" alt="Harvard Medical School Logo"></td>
  <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/julie-goldman.jpg" alt="Julie Goldman Photo"></div><div>    <b>Julie Goldman</b><br> Countway Research Data Services Librarian</div></td></tr>
- <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Scott-Lapinski.jpg" alt="Scott Lapinski Photo"></div>    <div><b>Scott Lapinski</b><br>Associate Director, Digital Scholarship & Scholarly Communication</div></td></tr>
+ <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/scott lapinski.png" alt="Scott Lapinski Photo"></div>    <div><b>Scott Lapinski</b><br>Associate Director, Digital Scholarship & Scholarly Communication</div></td></tr>
 </table>
   
 <table>
@@ -72,8 +72,8 @@ permalink: /partners/
 <table>
 <tr><td rowspan="3" width="20%"><img src="/home/images/simmons-college.png" alt="Simmons University Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Sanda-Erdelez.jpg" alt="Sanda Erdelez Photo"></div><div><b>Sanda Erdelez</b><br> Professor & Director, School of Library and Information Science</div></td></tr>
-    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Kristen-Palson.jpg" alt="Kristen Palson Photo"></div><div><b>Kristen Palson</b><br> Assistant VP, Simmons Online</div></td></tr>
-    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Courtney-Bohr.jpg" alt="Courtney Bohr Photo"></div><div><b>Courtney Bohr</b><br> Instructional Designer, Simmons Online</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Kristen Palson.jpg" alt="Kristen Palson Photo"></div><div><b>Kristen Palson</b><br> Assistant VP, Simmons Online</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Courtney Bohr.jpg" alt="Courtney Bohr Photo"></div><div><b>Courtney Bohr</b><br> Instructional Designer, Simmons Online</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Ellen-Berrigan.jpg" alt="Ellen Berrigan Photo"></div><div><b>Ellen Berrigan</b><br> Instructional Designer, Simmons Online</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Ashley-Thomas.jpg" alt="Ashley Thomas Photo"></div><div><b>Ashley M.Thomas</b><br> Student Assistant, Simmons Online</div></td></tr>
 </table>
