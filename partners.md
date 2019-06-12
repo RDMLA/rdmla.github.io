@@ -33,6 +33,12 @@ permalink: /partners/
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/harvard-library.png" alt="Harvard Library Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/ceilyn-boyd.jpg" alt="Ceilyn Boyd Photo"></div><div><b>Ceilyn Boyd</b><br> Research Data Program Manager</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/rachel-lewellen.jpg" alt="Rachel Lewellen Photo"></div><div><b>Rachel Lewellen</b><br> Head of Assessment and Program Management
+</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/danielle-adams.jpg" alt="Danielle Adams Photo"></div><div><b>Danielle Adams</b><br>Assessment and Planning Program Manager
+</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/alison-thorton.jpg" alt="Alison Thorton Photo"></div><div><b>Alison Thorton</b><br>Assessment and Planning Project Manager
+</div></td></tr>
  </table>
 
 <table>
@@ -48,7 +54,7 @@ permalink: /partners/
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/boston-university.png" alt="BU Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Blanchard-Mary.jpg" alt="Mary Blanchard Photo"></div><div><b>Mary Blanchard</b><br> Library Director, Alumni Medical Library</div></td></tr>
-    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Philip-Coombs.jpg" alt="Philip E. Coombs Photo"></div><div><b>Philip E. Coombs</b><br>Education and Information Services Librarian </div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/philip-coombs.jpg" alt="Philip E. Coombs Photo"></div><div><b>Philip E. Coombs</b><br>Education and Information Services Librarian </div></td></tr>
 </table>
   
 <table>
