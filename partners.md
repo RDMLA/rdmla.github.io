@@ -96,4 +96,4 @@ permalink: /partners/
   <tr><td rowspan="3" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Zhan-hu.png" alt="Zhan Hu Photo"></div><div><b>Zhan Hu</b><br> Project Coordinator</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Alyson-Gamble.png" alt="Alyson Gamble Photo"></div><div><b>Alyson Gamble</b><br> Data Fellow</div></td></tr>
-</table>
+ </table>
