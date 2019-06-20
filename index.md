@@ -17,11 +17,11 @@ From the needs assessment, work has commenced on developing coursework in the fo
 
 The project partners consider the project essential to gain efficiencies, meet growing RDM needs and address the librarian skills gap.
 
-Learn more <a href="https://rdmla.github.io/home/about/">About RDMLA</a>.
+Learn more <a href="https://rdmla.github.io/about/">About RDMLA</a>.
 
 
 ## Become a Member
 
-View the <a href="https://rdmla.github.io/home/partners/">Project Partners</a>.
+View the <a href="https://rdmla.github.io/partners/">Project Partners</a>.
 
-Interested in joining the RDM Librarian Academy? <a href="https://rdmla.github.io/home/contact/">Contact us</a>!
+Interested in joining the RDM Librarian Academy? <a href="https://rdmla.github.io/contact/">Contact us</a>!
