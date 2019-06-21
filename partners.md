@@ -37,7 +37,7 @@ permalink: /partners/
 </div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/danielle-adams.jpg" alt="Danielle Adams Photo"></div><div><b>Danielle Adams</b><br>Assessment and Planning Program Manager
 </div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/alison-thorton.jpg" alt="Alison Thorton Photo"></div><div><b>Alison Thorton</b><br>Assessment and Planning Project Manager
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Alison Thorton Photo"></div><div><b>Alison Thorton</b><br>Assessment and Planning Project Manager
 </div></td></tr>
  </table>
 
@@ -81,8 +81,8 @@ permalink: /partners/
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/Sanda-Erdelez.jpg" alt="Sanda Erdelez Photo"></div><div><b>Sanda Erdelez</b><br> Professor & Director, School of Library and Information Science</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Kristen Palson.jpg" alt="Kristen Palson Photo"></div><div><b>Kristen Palson</b><br> Assistant VP, Simmons Online</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Courtney Bohr.jpg" alt="Courtney Bohr Photo"></div><div><b>Courtney Bohr</b><br> Instructional Designer, Simmons Online</div></td></tr>
-    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Ellen-Berrigan.jpg" alt="Ellen Berrigan Photo"></div><div><b>Ellen Berrigan</b><br> Instructional Designer, Simmons Online</div></td></tr>
-    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Ashley-Thomas.jpg" alt="Ashley Thomas Photo"></div><div><b>Ashley M.Thomas</b><br> Student Assistant, Simmons Online</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Ellen Berrigan Photo"></div><div><b>Ellen Berrigan</b><br> Instructional Designer, Simmons Online</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Ashley Thomas Photo"></div><div><b>Ashley M.Thomas</b><br> Student Assistant, Simmons Online</div></td></tr>
 </table>
 
 #### RDMLA Staff
@@ -94,6 +94,6 @@ permalink: /partners/
  
 <table>
   <tr><td rowspan="3" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Zhan-hu.png" alt="Zhan Hu Photo"></div><div><b>Zhan Hu</b><br> Project Coordinator</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Zhan Hu Photo"></div><div><b>Zhan Hu</b><br> Project Coordinator</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Alyson-Gamble.png" alt="Alyson Gamble Photo"></div><div><b>Alyson Gamble</b><br> Data Fellow</div></td></tr>
 </table>
