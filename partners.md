@@ -32,10 +32,10 @@ permalink: /partners/
   
 <table>
   <tr><td rowspan="4" width="20%"><img src="/images/harvard-library.png" alt="Harvard Library Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/ceilyn-boyd.jpg" alt="Ceilyn Boyd Photo"></div><div><b>Ceilyn Boyd</b><br> Research Data Program Manager</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/rachel-lewellen.jpg" alt="Rachel Lewellen Photo"></div><div><b>Rachel Lewellen</b><br> Head of Assessment and Program Management
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/danielle-adams.jpg" alt="Danielle Adams Photo"></div><div><b>Danielle Adams</b><br>Assessment and Planning Program Manager
 </div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/danielle-adams.jpg" alt="Danielle Adams Photo"></div><div><b>Danielle Adams</b><br>Assessment and Planning Program Manager
+   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/ceilyn-boyd.jpg" alt="Ceilyn Boyd Photo"></div><div><b>Ceilyn Boyd</b><br> Research Data Program Manager</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/rachel-lewellen.jpg" alt="Rachel Lewellen Photo"></div><div><b>Rachel Lewellen</b><br> Head of Assessment and Program Management
 </div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Alison Thorton Photo"></div><div><b>Alison Thorton</b><br>Assessment and Planning Project Manager</div></td></tr>
 </table>
@@ -63,7 +63,7 @@ permalink: /partners/
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/images/Tufts-University.jpg" alt="Tufts University Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/Eric-Albright.jpg" alt="Eric Albright Photo"></div><div><b>Eric Albright</b><br> Director of Library Administration, Hirsh Health Sciences Library</div></td></tr>
+   <td><div style="width:100px;float:left;margin:10px"><img src="/images/Eric-Albright.jpg" alt="Eric Albright Photo"></div><div><b>Eric Albright</b><br> Director of Library Administration, Hirsh Health Sciences Library</div></td></tr>
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/rebecca-morin.jpg" alt="Rebecca Morin Photo"></div><div><b>Rebecca Morin</b><br> Head of Research & Instruction, Hirsh Health Sciences Library</div></td></tr>
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/berika-williams.jpg" alt="Berika Williams Photo"></div><div><b>Berika Williams</b><br> Emerging Technologies and Web Librarian</div></td></tr>
 </table>
@@ -77,10 +77,10 @@ permalink: /partners/
 
 <table>
 <tr><td rowspan="5" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/Sanda-Erdelez.jpg" alt="Sanda Erdelez Photo"></div><div><b>Sanda Erdelez</b><br> Professor & Director, School of Library and Information Science</div></td></tr>
-    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Kristen Palson.jpg" alt="Kristen Palson Photo"></div><div><b>Kristen Palson</b><br> Assistant VP, Simmons Online</div></td></tr>
+   <td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Ellen Berrigan Photo"></div><div><b>Ellen Berrigan</b><br> Instructional Designer, Simmons Online</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Courtney Bohr.jpg" alt="Courtney Bohr Photo"></div><div><b>Courtney Bohr</b><br> Instructional Designer, Simmons Online</div></td></tr>
-    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Ellen Berrigan Photo"></div><div><b>Ellen Berrigan</b><br> Instructional Designer, Simmons Online</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Sanda-Erdelez.jpg" alt="Sanda Erdelez Photo"></div><div><b>Sanda Erdelez</b><br> Professor & Director, School of Library and Information Science</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Kristen Palson.jpg" alt="Kristen Palson Photo"></div><div><b>Kristen Palson</b><br> Assistant VP, Simmons Online</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Ashley Thomas Photo"></div><div><b>Ashley M.Thomas</b><br> Student Assistant, Simmons Online</div></td></tr>
 </table>
 
