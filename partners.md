@@ -2,6 +2,7 @@
 layout: page
 title: RDMLA Community
 permalink: /partners/
+redirect_from: /home/partners/
 ---
 
 #### RDMLA Leadership
