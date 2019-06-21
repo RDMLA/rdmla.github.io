@@ -7,17 +7,17 @@ permalink: /partners/
 #### RDMLA Leadership
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/images/HMS.png" alt="Harvard Medical School Logo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/HMS.png" alt="Harvard Medical School Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/Elaine-Martin.jpg" alt="Elaine Martin Photo"></div><div>     <b>Elaine Martin</b><br> Director and Chief Administrative Officer, Countway Library</div></td></tr>
 </table>
 
 <table>
-<tr><td rowspan="3" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
+<tr><td rowspan="1" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/Rong-Tang.jpg" alt="Rong Tang Photo"></div><div><b>Rong       Tang</b><br> Associate Professor & Director of SLIS PhD Program</div></td></tr>
 </table>
 
 <table>
-<tr><td rowspan="3" width="20%"><img src="/images/Elsevier.png" alt="Elsevier Logo"></td>
+<tr><td rowspan="1" width="20%"><img src="/images/Elsevier.png" alt="Elsevier Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/Jean-Shipman.jpg" alt="Jean Shipman Photo"></div><div>       <b>Jean Shipman, MSLS</b><br> Vice President, Global Library Relations</div></td></tr>
 </table>
  
@@ -41,12 +41,12 @@ permalink: /partners/
 </table>
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/images/brown-logo.png" alt="Brown University Logo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/brown-logo.png" alt="Brown University Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/creamer-andrew.jpg" alt="Andrew Creamer Photo"></div><div><b>Andrew Creamer</b><br> Scientific Data Management Specialist</div></td></tr>
   </table>
   
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
   <td><div style="width:100px;float:left;margin:10px"><img src="/images/danielle-pollock.jpg" alt="Danielle Pollock Photo"></div><div><b>Danielle Pollock</b><br>Assistant Professor</div></td></tr>
 </table>
 
@@ -57,7 +57,7 @@ permalink: /partners/
 </table>
   
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/images/MCPHS.png" alt="MCPHS University Logo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/MCPHS.png" alt="MCPHS University Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/Rich-Kaplan.jpg" alt="Richard Kaplan Photo"></div><div>   <b>Richard Kaplan</b><br> Dean of Library and Learning Resources, Director of Libraries</div></td></tr>
 </table>
 
@@ -69,7 +69,7 @@ permalink: /partners/
 </table>
   
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/images/neulogo.png" alt="Northeastern University Logo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/neulogo.png" alt="Northeastern University Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/ferguson-jen.png" alt="Jen Ferguson Photo"></div><div><b>Jen Ferguson</b><br> Research Data Management Librarian, Snell Library</div></td></tr>
 </table>
   
@@ -87,12 +87,12 @@ permalink: /partners/
 #### RDMLA Staff
 
 <table>
- <tr><td rowspan="3" width="20%"><img src="/images/HMS.png" alt="Harvard Medical School Logo"></td>
+ <tr><td rowspan="1" width="20%"><img src="/images/HMS.png" alt="Harvard Medical School Logo"></td>
  <td><div style="width:100px;float:left;margin:10px"><img src="/images/Richardson-headshot.png" alt="Alison Richardson Photo"></div><div><b>Alison Richardson</b><br> Manager of Administration and Finance, Countway Library</div></td></tr>
 </table>
- 
+
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
+ <tr><td rowspan="2" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Zhan Hu Photo"></div><div><b>Zhan Hu</b><br> Project Coordinator</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Alyson-Gamble.png" alt="Alyson Gamble Photo"></div><div><b>Alyson Gamble</b><br> Data Fellow</div></td></tr>
 </table>
