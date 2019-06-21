@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+redirect_from: /home/contact/
 ---
 
 <html>

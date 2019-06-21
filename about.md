@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+redirect_from: /home/about/
 ---
 ## What is Research Data Management?
 
