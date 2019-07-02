@@ -6,9 +6,18 @@ redirect_from: /home/
 <img src="images/RDMLA-logo.jpg" alt="RDMLA Logo"> <br>
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
 
-RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. Partner institutions include: 
-<img src="images/harvard.png" alt="Harvard Logo" style="width:100px;height:100px;">Harvard University <br>
-Simmons University (Simmons School of Library and Information Science and Simmons Online),Boston University, Tufts University, MCPHS University, Northeastern University, Brown University, and Elsevier </i>, which financially supported the program. Find out more about the RDMLA community here: <a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>.
+RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier, which financially supported the program. Partner institutions include: <br>
+<img src="images/harvard.png" alt="Harvard Logo" style="width:100px;height:100px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Harvard University*** <br>
+<img src="images/harvard-medical-school.png" alt="Harvard Medical School Logo" style="width:100px;height:100px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Harvard Medical School*** <br>
+<img src="images/simmons.png" alt="Simmons Logo" style="width:100px;height:100px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Simmons University*** (Simmons School of Library and Information Science and Simmons Online) <br>
+<img src="images/boston.png" alt="Boston Logo" style="width:100px;height:100px;">***Boston University*** <br>
+<img src="images/tufts.png" alt="Tufts Logo" style="width:100px;height:100px;">***Tufts University***<br>
+<img src="images/mcphs.png" alt="MCPHS Logo" style="width:100px;height:100px;">***MCPHS University***<br>
+<img src="images/northeastern.png" alt="Northeastern Logo" style="width:100px;height:100px;">***Northeastern University***<br>
+<img src="images/brown.png" alt="Brown Logo" style="width:100px;height:100px;">***Brown University***<br>
+<img src="images/elsevier.png" alt="Elsevier Logo" style="width:100px;height:100px;">***Elsevier***<br>
+
+Find out more about the RDMLA community here: <a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>.
 
 The **RDMLA** curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management, which consists of the following eight units: 
 
