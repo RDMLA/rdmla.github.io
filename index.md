@@ -11,6 +11,7 @@ RDMLA features a unique partnership between a LIS academic program, academic hea
 <img src="images/harvard.png" alt="Harvard Logo" style="width:50px;height:50px;"> &nbsp;&nbsp;&nbsp;*Harvard University* &nbsp;&nbsp; &nbsp;&nbsp; 
 <img src="images/harvard-medical-school.png" alt="Harvard Medical School Logo" style="width:width:50px;height:50px;"> &nbsp;&nbsp;&nbsp;*Harvard Medical School* &nbsp;&nbsp; &nbsp;&nbsp;
 <img src="images/simmons.png" alt="Simmons Logo" style="width:width:50px;height:50px;"> &nbsp;&nbsp;&nbsp;*Simmons University* <br>
+
 <img src="images/boston.png" alt="Boston Logo" style="width:50px;height:50px;"> &nbsp;&nbsp;&nbsp;*Boston University*&nbsp;&nbsp; &nbsp;&nbsp;
 <img src="images/tufts.png" alt="Tufts Logo" style="width:50px;height:50px;"> &nbsp;&nbsp;&nbsp;*Tufts University*&nbsp;&nbsp;&nbsp; &nbsp;
 <img src="images/mcphs.png" alt="MCPHS Logo" style="width:50px;height:50px;"> &nbsp;&nbsp;&nbsp;*MCPHS University*<br>
@@ -42,15 +43,9 @@ Read about the partnership in the Library Connect article: <i><a href="https://l
 
 ### Project Progress
 
-The team has compiled an inventory of existing courses and conducted a needs assessment to identify gaps in current training offerings to identify what librarians and researchers need to contribute to their success related to data management and data science. 
+Based on the results from the Needs Assessment Survey in Phase I (Learn more about Phase I researc here:'<a href="https://rdmla.github.io/home/about/"> RDMLA Project Phase I Report Survey Results</a>'), the RDMLA team is currently in the production of the RDMLA Course, which will be hosted in the Canvas Learning Management System. 
 
-See the '<a href="https://rdmla.github.io/home/about/">Research Data Management Librarian Academy Project Report Survey Results</a>'.
-
-From the needs assessment, work has commenced on developing coursework in the following areas: Navigating Research Data Culture, Establishing and Managing Data Services, Overview of Coding Tools, Overview of Platform Tools, and others. 
-
-The project partners consider the project essential to gain efficiencies, meet growing RDM needs and address the librarian skills gap.
-
-Learn more <a href="https://rdmla.github.io/about/">About RDMLA</a>.
+The **RDMLA** is expected to go live in **Fall, 2019**.
 
 
 ### Become a Member
