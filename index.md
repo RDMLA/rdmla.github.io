@@ -3,21 +3,24 @@ layout: home
 redirect_from: /home/
 ---
 
-<img src="images/rdmla-logo.jpg" alt="RDMLA Logo" style="width:500px;height:600px;"> <br>
+<img src="images/RDMLA-logo.jpg" alt="RDMLA Logo" style="width:500px;height:600px;"> 
+<br>
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
 
-RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. Partner institutions include: <i>Harvard University, Simmons University (Simmons School of Library and Information Science and Simmons Online),Boston University, Tufts University, MCPHS University, Northeastern University, Brown University, and Elsevier </i>, which financially supported the program. Find out more about the RDMLA community here: '<a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>'.
+RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. Partner institutions include: 
+
+<i>Harvard University, Simmons University (Simmons School of Library and Information Science and Simmons Online),Boston University, Tufts University, MCPHS University, Northeastern University, Brown University, and Elsevier </i>, which financially supported the program. Find out more about the RDMLA community here: <a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>.
 
 The **RDMLA** curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management, which consists of the following eight units: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Unit 1: Foundations of Research Data Management (RDM) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Unit 2: Navigating Research Data Culture <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Unit 3: Advocating and Marketing the Value of RDM in Libraries <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Unit 4: Case Studies in Establishing Data Services in Libraries <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Unit 5: Project Management and Assessment <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Unit 6: Overview of Data Analysis and Visualization Tools <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Unit 7: Python and Jupyter Notebook <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Unit 8: Overview of Platform Tools <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 1: Foundations of Research Data Management (RDM) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 2: Navigating Research Data Culture <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 3: Advocating and Marketing the Value of RDM in Libraries <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 4: LaunchingData Services in Libraries <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 5: Project Management and Assessment <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 6: Overview of Data Analysis and Visualization Tools <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 7: Overview of Coding Tools <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 8: Overview of Platform Tools <br>
 
 Librarians working in academic settings who complete this program will have increased capacity to address the growing research data management needs of their higher learning institutions and to train faculty and researchers on best practices.
  
