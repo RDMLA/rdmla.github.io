@@ -3,7 +3,7 @@ layout: home
 redirect_from: /home/
 ---
 
-<img src="images/RDMLA-logo.jpg" alt="RDMLA Logo" style="width:500px;height:600px;"> <br>
+<img src="images/RDMLA-logo.jpg" alt="RDMLA Logo"> <br>
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
 
 RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. Partner institutions include: 
