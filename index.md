@@ -3,13 +3,12 @@ layout: home
 redirect_from: /home/
 ---
 
-<img src="images/RDMLA-logo.jpg" alt="RDMLA Logo" style="width:500px;height:600px;"> 
-<br>
+<img src="images/RDMLA-logo.jpg" alt="RDMLA Logo" style="width:500px;height:600px;"> <br>
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
 
 RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. Partner institutions include: 
-
-<i>Harvard University, Simmons University (Simmons School of Library and Information Science and Simmons Online),Boston University, Tufts University, MCPHS University, Northeastern University, Brown University, and Elsevier </i>, which financially supported the program. Find out more about the RDMLA community here: <a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>.
+<img src="images/harvard.png" alt="Harvard Logo" style="width:100px;height:100px;">Harvard University <br>
+Simmons University (Simmons School of Library and Information Science and Simmons Online),Boston University, Tufts University, MCPHS University, Northeastern University, Brown University, and Elsevier </i>, which financially supported the program. Find out more about the RDMLA community here: <a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>.
 
 The **RDMLA** curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management, which consists of the following eight units: 
 
