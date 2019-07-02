@@ -3,7 +3,7 @@ layout: home
 redirect_from: /home/
 ---
 
-<img src="rdmla-logo.jpg" alt="RDMLA Logo" style="width:500px;height:600px;"> <br>
+<img src="images/rdmla-logo.jpg" alt="RDMLA Logo" style="width:500px;height:600px;"> <br>
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
 
 RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. Partner institutions include: <i>Harvard University, Simmons University (Simmons School of Library and Information Science and Simmons Online),Boston University, Tufts University, MCPHS University, Northeastern University, Brown University, and Elsevier </i>, which financially supported the program. Find out more about the RDMLA community here: '<a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>'.
@@ -26,7 +26,7 @@ Librarians working in academic settings who complete this program will have incr
 
 Read about the partnership in the Library Connect article: <i><a href="https://libraryconnect.elsevier.com/articles/exploring-need-research-data-management-librarian-academy">Exploring the need for a research data management librarian academy</a></i>.
 
-## Project Goal
+## Project Progress
 
 The team has compiled an inventory of existing courses and conducted a needs assessment to identify gaps in current training offerings to identify what librarians and researchers need to contribute to their success related to data management and data science. 
 
@@ -41,6 +41,4 @@ Learn more <a href="https://rdmla.github.io/about/">About RDMLA</a>.
 
 ## Become a Member
 
-View the <a href="https://rdmla.github.io/partners/">Project Partners</a>.
-
-Interested in joining the RDM Librarian Academy? <a href="https://rdmla.github.io/contact/">Contact us</a>!
+Interested in learning more about RDMLA? <a href="https://rdmla.github.io/contact/">Contact us</a>!
