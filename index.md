@@ -27,21 +27,12 @@ Find out more about the RDMLA community here: <a href="https://rdmla.github.io/h
 
 ## RDMLA Curriculum
 
-The **RDMLA** curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management, which consists of the following eight units. Librarians working in academic settings who complete this program will have increased capacity to address the growing research data management needs of their higher learning institutions and to train faculty and researchers on best practices. Get a sneak-peek of the course site here: '<a href="https://rdmla.github.io/home/course/"> RDMLA Course Curriculum</a>'. (br)
+The **RDMLA** curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. The curriculum features **Eight Online Self-paced Learning Units** that covers topics such as the foundations of research data management (RDM), research culture, advocating and marketing for RDM services in libraries, project management, overview of research data management tools and etc. <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 1: Foundations of Research Data Management (RDM) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 2: Navigating Research Data Culture <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 3: Advocating and Marketing the Value of RDM in Libraries <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 4: LaunchingData Services in Libraries <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 5: Project Management and Assessment <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 6: Overview of Data Analysis and Visualization Tools <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 7: Overview of Coding Tools <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 8: Overview of Platform Tools <br>
-
+The **RDMLA** Course, which will be hosted in the Canvas Learning Management System and is currently under production.The expected launch is in **Fall, 2019**. Access <a href="https://rdmla.github.io/home/course/"> RDMLA Course </a> to get a sneek-peek. <br>
 
 The **RDMLA** curriculum is based on the results from the Needs Assessment Survey in Phase I (Learn more about Phase I research here:'<a href="https://rdmla.github.io/home/about/"> RDMLA Project Phase I Report Survey Results</a>').<br> 
 
-The **RDMLA** Course, which will be hosted in the Canvas Learning Management System and is currently under production.The expected launch is in **Fall, 2019**. Access <a href="https://rdmla.github.io/home/course/"> RDMLA Course </a> to get a sneek-peek. 
 
 
 ## RDMLA In the Press
