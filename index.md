@@ -6,6 +6,7 @@ redirect_from: /home/
 <img src="images/RDMLA-logo.jpg" alt="RDMLA Logo"> <br>
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
 
+
 RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier, which financially supported the program. 
 
 Partner institutions include: <br>
@@ -23,8 +24,10 @@ Partner institutions include: <br>
 Find out more about the RDMLA community here: <a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>.
 
 
+
 ## RDMLA Curriculum
-The **RDMLA** curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management, which consists of the following eight units. Librarians working in academic settings who complete this program will have increased capacity to address the growing research data management needs of their higher learning institutions and to train faculty and researchers on best practices.
+
+The **RDMLA** curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management, which consists of the following eight units. Librarians working in academic settings who complete this program will have increased capacity to address the growing research data management needs of their higher learning institutions and to train faculty and researchers on best practices. Get a sneak-peek of the course site here: '<a href="https://rdmla.github.io/home/course/"> RDMLA Course Curriculum</a>'. (br)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 1: Foundations of Research Data Management (RDM) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 2: Navigating Research Data Culture <br>
@@ -35,9 +38,11 @@ The **RDMLA** curriculum focuses on the essential knowledge and skills needed to
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 7: Overview of Coding Tools <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 8: Overview of Platform Tools <br>
 
+
 The **RDMLA** curriculum is based on the results from the Needs Assessment Survey in Phase I (Learn more about Phase I research here:'<a href="https://rdmla.github.io/home/about/"> RDMLA Project Phase I Report Survey Results</a>').<br> 
 
 The **RDMLA** Course, which will be hosted in the Canvas Learning Management System and is currently under production.The expected launch is in **Fall, 2019**. Access <a href="https://rdmla.github.io/home/course/"> RDMLA Course </a> to get a sneek-peek. 
+
 
 ## RDMLA In the Press
 
