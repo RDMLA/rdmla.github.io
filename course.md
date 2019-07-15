@@ -10,11 +10,13 @@ The **RDMLA** curriculum focuses on the essential knowledge and skills needed to
 <br>
 
 
-The **RDMLA** course site, hosted in Canvas, is currenlty under development. 
+The **RDMLA** course site, hosted in Canvas, is currenlty under development. Below is a screenshot of the course site. 
+
 <img src="images/course homepage.png" alt="Canvas Course"> <br>
 
 
 The **RDMLA** curriculum is consisted of the following eight units. Each unit features video lectures, exercises, assessments and additional resources <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 1: Foundations of Research Data Management (RDM) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 2: Navigating Research Data Culture <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 3: Advocating and Marketing the Value of RDM in Libraries <br>
