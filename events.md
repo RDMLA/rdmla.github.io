@@ -42,7 +42,7 @@ A complete list of past presentation can be accessed here:[Presentation Slides](
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/acrl.jpg" alt="ACRL Logo"></td>
     <td rowspan="1" width="30%"><div><b>ACRL (Virtual)<br> June 6,2019</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Elsevier Webinar<br><a href="https://rdmla.github.io/home/blob/master/acrl.pdf">Click for Slides</a><br><a href="https://youtu.be/ApRFHQ6WibQ ">Click for Youtube Video</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Elsevier Webinar<br><a href="https://rdmla.github.io/home/blob/master/acrl2019.pdf">Click for Slides</a><br><a href="https://youtu.be/ApRFHQ6WibQ ">Click for Youtube Video</a></b></div></td></tr>
 </table>
 
 <table>
