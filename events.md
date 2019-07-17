@@ -14,7 +14,7 @@ redirect_from: /home/events/
 </table>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/iconference.jpg" alt="iconference Logo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/ischools.jpg" alt="iconference Logo"></td>
     <td><div><b>iConference (Washington, DC)<br> April 1,2019<br>Elsevier Sponsored Event</b></div></td></tr>
 </table>
 
