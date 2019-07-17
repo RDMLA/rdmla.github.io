@@ -19,8 +19,8 @@ A complete list of past presentation can be accessed here:[Presentation Slides](
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/ERL.png" alt="ER&L Logo"></td>
-    <td><div><b>ER&L(Austin, TX)<br> March 4,2019</b></div></td>
-    <td><div><b>Elsevier Event Presentation<br>[Access the Slides](https://github.com/RDMLA/home/blob/master/erl2019.pdf)</b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>ER&L(Austin, TX)<br> March 4,2019</b></div></td>
+     <td rowspan="1" width="30%"><div><b>Elsevier Event Presentation<br><a href="https://rdmla.github.io/home/blob/master/erl2019.pdf">Click for Slides</a></b></div></td></tr>
 </table>
 
 <table>
