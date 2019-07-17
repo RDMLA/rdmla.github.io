@@ -9,12 +9,12 @@ redirect_from: /home/events/
 
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/ala.png" alt="ALA Logo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/ala.jpg" alt="ALA Logo"></td>
     <td><div><b>ALA Mid-Winter (Seattle, WA)<br> January 26,2019<br>Hunter Forum Panel</b></div></td></tr>
 </table>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/iconference.png" alt="iconference Logo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/iconference.jpg" alt="iconference Logo"></td>
     <td><div><b>iConference (Washington, DC)<br> April 1,2019<br>Elsevier Sponsored Event</b></div></td></tr>
 </table>
 
@@ -31,7 +31,8 @@ redirect_from: /home/events/
 </table>
 
 
-You can access the complete list of presentation here:[Presentations](https://github.com/RDMLA/home/blob/master/presentation-slides.pdf)
+You can access the complete list of presentation here:[Presentation Slides](https://github.com/RDMLA/home/blob/master/presentation-slides.pdf)
+
 
 #### Upcoming Events
 **RDMLA** team will be present at the following conferences, come and talk to us!
