@@ -35,12 +35,18 @@ You can access the complete list of presentation here:[Presentation Slides](http
 
 
 #### Upcoming Events
-**RDMLA** team will be present at the following conferences, come and talk to us!
+The **RDMLA** team will be present at the following conferences, come and talk to us!
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/alise.png" alt="ALISE Logo"></td>  
-    <b>ALISE (Knoxvill, Tennesse)</b><br> September 30, 2019</div></td></tr>
+  <tr><td rowspan="1" width="20%"><img src="/images/alise.png" alt="ALISE Logo"></td>
+    <td><div><b>ALISE (Knoxvill, Tennesse)<br> September 30, 2019<br>Paper Presentation</b></div></td></tr>
 </table>
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/asist.jpg" alt="ASIS&T Logo"></td>
+    <td><div><b>ASIS&T (Melbourne, AU)<br> October 20, 2019<br>Product Theater Presentation</b></div></td></tr>
+</table>
+
 
 
 
