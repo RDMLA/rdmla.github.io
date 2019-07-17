@@ -13,12 +13,14 @@ A complete list of past presentation can be accessed here:[Presentation Slides](
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/ala.jpg" alt="ALA Logo"></td>
-    <td><div><b>ALA Mid-Winter (Seattle, WA)<br> January 26,2019<br>Hunter Forum Panel</b></div></td></tr>
+    <td><div><b>ALA Mid-Winter (Seattle, WA)<br> January 26,2019</b></div></td>
+    <td><div><b>Hunter Forum Panel <br>[Access the Slides](https://github.com/RDMLA/home/blob/master/ala2019.pdf)</b></div></td></tr>
 </table>
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/ERL.png" alt="ER&L Logo"></td>
-    <td><div><b>ER&L(Austin, TX)<br> March 4,2019<br>Elsevier Event Presentation</b></div></td></tr>
+    <td><div><b>ER&L(Austin, TX)<br> March 4,2019</b></div></td>
+    <td><div><b>Elsevier Event Presentation<br>[Access the Slides](https://github.com/RDMLA/home/blob/master/erl2019.pdf)</b></div></td></tr>
 </table>
 
 <table>
