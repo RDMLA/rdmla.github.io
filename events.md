@@ -7,6 +7,9 @@ redirect_from: /home/events/
 
 #### RDMLA Presentations
 
+The **RDMLA** team has presented at the following conferences.
+<br>
+A complete list of past presentation can be accessed here:[Presentation Slides](https://github.com/RDMLA/home/blob/master/presentation-slides.pdf)
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/ala.jpg" alt="ALA Logo"></td>
@@ -14,10 +17,14 @@ redirect_from: /home/events/
 </table>
 
 <table>
+  <tr><td rowspan="1" width="20%"><img src="/images/ERL.png" alt="ER&L Logo"></td>
+    <td><div><b>ER&L(Austin, TX)<br> March 4,2019<br>Elsevier Event Presentation</b></div></td></tr>
+</table>
+
+<table>
   <tr><td rowspan="1" width="20%"><img src="/images/ischools.jpg" alt="iconference Logo"></td>
     <td><div><b>iConference (Washington, DC)<br> April 1,2019<br>Elsevier Sponsored Event</b></div></td></tr>
 </table>
-
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/mla.png" alt="MLA Logo"></td>
@@ -30,8 +37,10 @@ redirect_from: /home/events/
     <td><div><b>RDAP (Miami, FL)<br> May 16,2019<br>Poster</b></div></td></tr>
 </table>
 
-
-You can access the complete list of presentation here:[Presentation Slides](https://github.com/RDMLA/home/blob/master/presentation-slides.pdf)
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/liber.png" alt="LIBER Logo"></td>
+    <td><div><b>LIBER (Dublin, Ireland)<br> June 26-28,2019<br>Elsevier Booth Poster, factsheet and program ad</b></div></td></tr>
+</table>
 
 
 #### Upcoming Events
