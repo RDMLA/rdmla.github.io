@@ -31,10 +31,8 @@ A complete list of past presentation can be accessed here:[Presentation Slides](
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/mla.png" alt="MLA Logo"></td>
-    <td rowspan="1" width="30%"><div><b>MLA (Chicago, IL)<br> May 5,2019</b></div></td>
-        <td rowspan="1" width="30%"><div><b>Elsevier Sponsored Lunch Presentation<br><a href="https://github.com/RDMLA/home/blob/master/mla2019.pdf">Click for Slides</a></b></div></td>
-    <td rowspan="1" width="30%"><div><b>MLA (Chicago, IL)<br> May 7,2019<br>Poster</b></div></td>
-      <td rowspan="1" width="30%"><div><b>Elsevier Sponsored Lunch Presentation<br><a href="https://github.com/RDMLA/home/blob/master/mlaslides2019.pdf">Click for Slides</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>MLA (Chicago, IL)<br> May 5,2019<br>Elsevier Sponsored Lunch Presentation<br><a href="https://github.com/RDMLA/home/blob/master/mla2019.pdf">Click for Slides</a></b></div></td>
+    <td rowspan="1" width="30%"><div><b>MLA (Chicago, IL)<br> May 7,2019<br>Poster<br>Elsevier Sponsored Lunch Presentation<br><a href="https://github.com/RDMLA/home/blob/master/mlaslides2019.pdf">Click for Slides</a></b></div></td></tr>
 </table>
 
 <table>
@@ -51,7 +49,7 @@ A complete list of past presentation can be accessed here:[Presentation Slides](
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/liber.png" alt="LIBER Logo"></td>
-    <td><div><b>LIBER (Dublin, Ireland)<br> June 26-28,2019</b></div></td>
+    <td rowspan="1" width="30%"><div><b>LIBER (Dublin, Ireland)<br> June 26-28,2019</b></div></td>
     <td rowspan="1" width="30%"><div><b>Elsevier Booth Poster, factsheet and program ad<br><a href="https://github.com/RDMLA/home/blob/master/rdap2019.pdf">Click for poster</a></b></div></td></tr>
 </table>
 
