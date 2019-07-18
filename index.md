@@ -35,7 +35,7 @@ The **RDMLA** curriculum is based on the results from the Needs Assessment Surve
 
 
 
-## RDMLA In the Press
+## RDMLA Events
 
 Read about the partnership in the Library Connect article: <i><a href="https://libraryconnect.elsevier.com/articles/exploring-need-research-data-management-librarian-academy">Exploring the need for a research data management librarian academy</a></i>.
 
