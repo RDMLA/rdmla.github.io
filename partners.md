@@ -94,5 +94,5 @@ redirect_from: /home/partners/
 <table>
  <tr><td rowspan="3" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
  <td><div style="width:100px;float:left;margin:10px"><img src="/images/zhan-hu.JPG" alt="Zhan Hu Photo"></div><div><b>Zhan Hu</b><br> Project Coordinator</div></td></tr>
- <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Alyson-Gamble.png" alt="Alyson Gamble Photo"></div><div><b>Alyson Gamble</b><br> Former Data Fellow</div></td></tr>
+ <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Alyson-Gamble.png" alt="Alyson Gamble Photo"></div><div><b>Alyson Gamble</b><br> Former Data Fellow (Summer 2018)</div></td></tr>
 </table>
