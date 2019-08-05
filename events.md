@@ -58,13 +58,18 @@ A complete list of past presentation can be accessed here:[Presentation Slides](
 The **RDMLA** team will be present at the following conferences, come and talk to us!
 
 <table>
+  <tr><td rowspan="1" width="20%"><img src="/images/asist.jpg" alt="IFLA Logo"></td>
+    <td><div><b>IFLA WLIC 2019 (Athens, Greece)<br> August 24-30, 2019<br>Presentation</b></div></td></tr>
+</table>
+
+<table>
   <tr><td rowspan="1" width="20%"><img src="/images/alise.png" alt="ALISE Logo"></td>
     <td><div><b>ALISE (Knoxvill, Tennesse)<br> September 30, 2019<br>Paper Presentation</b></div></td></tr>
 </table>
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/asist.jpg" alt="ASIS&T Logo"></td>
-    <td><div><b>ASIS&T (Melbourne, AU)<br> October 20, 2019<br>Product Theater Presentation</b></div></td></tr>
+    <td><div><b>ASIS&T (Melbourne, Australia)<br> October 20, 2019<br>Product Theater Presentation</b></div></td></tr>
 </table>
 
 
