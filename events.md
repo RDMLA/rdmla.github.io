@@ -58,7 +58,7 @@ A complete list of past presentation can be accessed here:[Presentation Slides](
 The **RDMLA** team will be present at the following conferences, come and talk to us!
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/asist.jpg" alt="IFLA Logo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/IFLA.png" alt="IFLA Logo"></td>
     <td><div><b>IFLA WLIC 2019 (Athens, Greece)<br> August 24-30, 2019<br>Presentation</b></div></td></tr>
 </table>
 
