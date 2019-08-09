@@ -27,6 +27,6 @@ The **RDMLA** curriculum is consisted of the following eight units. Each unit fe
 <img src="/images/units-page.JPG" alt="Units" style="width:width:800px;height:400px;"> <br>
 
 
-**The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing. **
+**The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing**
 
     
