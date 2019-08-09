@@ -13,7 +13,7 @@ The **RDMLA** course site, hosted in Canvas, is currenlty under development. Bel
                                                                                                   
 <img src="/images/course-homepage.jpg" alt="Canvas Course" style="width:width:800px;height:400px;"> <br>
 
-<img src="/images/units-page.jpg" alt="Units" style="width:width:800px;height:400px;"> <br>
+<img src="/images/units-page.JPG" alt="Units" style="width:width:800px;height:400px;"> <br>
 
 The **RDMLA** curriculum is consisted of the following eight units. Each unit features video lectures, exercises, assessments and additional resources. <br>
 
