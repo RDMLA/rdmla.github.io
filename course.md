@@ -10,7 +10,7 @@ The **RDMLA** curriculum focuses on the essential knowledge and skills needed to
 
 
 The **RDMLA** course site, hosted in Canvas, is currenlty under development. Below is a screenshot of the course site. 
-
+                                                                                                  
 <img src="/images/course-homepage.jpg" alt="Canvas Course" style="width:width:800px;height:400px;"> <br>
 
 <img src="/images/units-page.jpg" alt="Units" style="width:width:800px;height:400px;"> <br>
@@ -25,3 +25,4 @@ The **RDMLA** curriculum is consisted of the following eight units. Each unit fe
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 6: Overview of Data Analysis and Visualization Tools <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 7: Overview of Coding Tools <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 8: Overview of Platform Tools <br>
+    
