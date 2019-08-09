@@ -14,7 +14,7 @@ A complete list of past presentation can be accessed here:[Presentation Slides](
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/ala.jpg" alt="ALA Logo"></td>
     <td rowspan="1" width="30%"><div><b>ALA Mid-Winter (Seattle, WA)<br> January 26,2019</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Hunter Forum Panel <br><a href="https://github.com/RDMLA/home/blob/master/ala2019.pdf" download>Click for Slides</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Hunter Forum Panel <br><a href="https://github.com/RDMLA/home/blob/master/ala2019.pdf" target="_blank">Click for Slides</a></b></div></td></tr>
 </table>
 
 <table>
