@@ -33,6 +33,9 @@ The **RDMLA** Course, which will be hosted in the Canvas Learning Management Sys
 
 The **RDMLA** curriculum is based on the results from the Needs Assessment Survey in Phase I (Learn more about Phase I research here:'<a href="https://rdmla.github.io/home/about/"> RDMLA Project Phase I Report Survey Results</a>').<br> 
 
+**The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing** 
+
+
 
 
 ## RDMLA Events
