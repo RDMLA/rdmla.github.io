@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RDMLA Events
+title: Events
 permalink: /events/
 redirect_from: /home/events/
 ---
