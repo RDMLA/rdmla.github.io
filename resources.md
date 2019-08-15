@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications & Resources
+title: Publications
 permalink: /resources/
 redirect_from: /home/resources/
 ---
@@ -13,4 +13,4 @@ Click <a href ="https://content.iospress.com/articles/information-services-and-u
 
 
 
-## Other RDM Recourse
+## Other RDM Resources
