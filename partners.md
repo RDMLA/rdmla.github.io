@@ -80,7 +80,7 @@ redirect_from: /home/partners/
 <tr><td rowspan="5" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
    <td><div style="width:100px;float:left;margin:10px"><img src="/images/Sanda-Erdelez.jpg" alt="Sanda Erdelez Photo"></div><div><b>Sanda Erdelez</b><br> Professor & Director, School of Library and Information Science</div></td></tr>
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Kristen Palson.jpg" alt="Kristen Palson Photo"></div><div><b>Kristen Palson</b><br> Assistant VP, Simmons Online</div></td></tr>
-   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/mandu narayan.jpg" alt="Mandu Narayan Photo"></div><div><b>Mandu Narayan</b><br> Instructional Designer, Simmons Online</div></td></tr>
+   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/madhu narayan.jpg" alt="Madhu Narayan Photo"></div><div><b>Madhu Narayan</b><br> Instructional Designer, Simmons Online</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Courtney Bohr.jpg" alt="Courtney Bohr Photo"></div><div><b>Courtney Bohr</b><br> Instructional Designer, Simmons Online</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Ashley Thomas Photo"></div><div><b>Ashley M.Thomas</b><br> Student Assistant, Simmons Online</div></td></tr>
 </table>
