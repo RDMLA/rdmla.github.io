@@ -18,7 +18,7 @@ The **RDMLA** curriculum is consisted of the following eight units. Each unit fe
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 1: Foundations of Research Data Management (RDM) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 2: Navigating Research Data Culture <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 3: Advocating and Marketing the Value of RDM in Libraries <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 4: LaunchingData Services in Libraries <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 4: Launching Data Services in Libraries <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 5: Project Management and Assessment <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 6: Overview of Data Analysis and Visualization Tools <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 7: Overview of Coding Tools <br>
