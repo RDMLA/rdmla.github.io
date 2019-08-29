@@ -32,6 +32,12 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 </table>
 
 <table>
+  <tr><td rowspan="1" width="20%"><img src="/images/NFAIS.PNG" alt="NFAIS Logo"></td>
+    <td rowspan="1" width="30%"><div><b>NFAIS 2019 (Alexandria, VA)<br> February 13-15,2019</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Presentation<br><a href="https://github.com/RDMLA/home/blob/master/NFAIS2019.pdf" target="_blank">Click for Slides</a></b></div></td></tr>
+</table>
+
+<table>
   <tr><td rowspan="1" width="20%"><img src="/images/ERL.png" alt="ER&L Logo"></td>
     <td rowspan="1" width="30%"><div><b>ER&L(Austin, TX)<br> March 4,2019</b></div></td>
      <td rowspan="1" width="30%"><div><b>Elsevier Event Presentation<br><a href="https://github.com/RDMLA/home/blob/master/erl2019.pdf" target="_blank" >Click for Slides</a></b></div></td></tr>
