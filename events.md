@@ -62,6 +62,12 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 </table>
 
 <table>
+  <tr><td rowspan="1" width="20%"><img src="/images/EAHIL.jpg" alt="EAHIL Logo"></td>
+    <td rowspan="1" width="30%"><div><b>EAHIL2019 (Basel, Switzerland)<br> June 17-20,2019</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Poster<br><a href="https://github.com/RDMLA/home/blob/master/EAHIL2019.pdf" target="_blank">Click for Poster</a></b></div></td></tr>
+</table>
+
+<table>
   <tr><td rowspan="1" width="20%"><img src="/images/liber.png" alt="LIBER Logo"></td>
     <td rowspan="1" width="30%"><div><b>LIBER (Dublin, Ireland)<br> June 26-28,2019</b></div></td>
     <td rowspan="1" width="30%"><div><b>Elsevier Booth Poster, factsheet and program ad<br><a href="https://github.com/RDMLA/home/blob/master/rdap2019.pdf" target="_blank">Click for poster</a></b></div></td></tr>
