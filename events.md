@@ -64,7 +64,7 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/EAHIL.jpg" alt="EAHIL Logo"></td>
     <td rowspan="1" width="30%"><div><b>EAHIL2019 (Basel, Switzerland)<br> June 17-20,2019</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Poster<br><a href="https://github.com/RDMLA/home/blob/master/EAHIL2019.pdf" target="_blank">Click for Poster</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Poster<br><a href="https://github.com/RDMLA/home/blob/master/EAHIL.pdf" target="_blank">Click for Poster</a></b></div></td></tr>
 </table>
 
 <table>
