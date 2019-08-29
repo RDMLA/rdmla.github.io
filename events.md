@@ -9,11 +9,6 @@ redirect_from: /home/events/
 The **RDMLA** team will be present at the following conferences, come and talk to us!
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/IFLA.png" alt="IFLA Logo"></td>
-    <td><div><b>IFLA WLIC 2019 (Athens, Greece)<br> August 24-30, 2019<br>Presentation</b></div></td></tr>
-</table>
-
-<table>
   <tr><td rowspan="1" width="20%"><img src="/images/alise.png" alt="ALISE Logo"></td>
     <td><div><b>ALISE (Knoxvill, Tennesse)<br> September 30, 2019<br>Paper Presentation</b></div></td></tr>
 </table>
@@ -70,4 +65,10 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
   <tr><td rowspan="1" width="20%"><img src="/images/liber.png" alt="LIBER Logo"></td>
     <td rowspan="1" width="30%"><div><b>LIBER (Dublin, Ireland)<br> June 26-28,2019</b></div></td>
     <td rowspan="1" width="30%"><div><b>Elsevier Booth Poster, factsheet and program ad<br><a href="https://github.com/RDMLA/home/blob/master/rdap2019.pdf" target="_blank">Click for poster</a></b></div></td></tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/IFLA.png" alt="IFLA Logo"></td>
+    <td rowspan="1" width="30%"><div><b>IFLA WLIC 2019 (Athens, Greece)<br> August 24-30, 2019</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/home/blob/master/IFLA2019.pdf" target="_blank">Click for Slides</a><br>Poster<br><a href="https://github.com/RDMLA/home/blob/master/IFLAPoster.pdf " target="_blank">Click for Poster</a></b></div></td></tr>
 </table>
