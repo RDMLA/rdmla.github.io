@@ -38,7 +38,7 @@ redirect_from: /home/partners/
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/ceilyn-boyd.jpg" alt="Ceilyn Boyd Photo"></div><div><b>Ceilyn Boyd</b><br> Research Data Program Manager</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/rachel-lewellen.jpg" alt="Rachel Lewellen Photo"></div><div><b>Rachel Lewellen</b><br> Head of Assessment and Program Management
 </div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Alison Thorton Photo"></div><div><b>Alison Thorton</b><br>Assessment and Planning Project Manager</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/alison-thornton.jpg" alt="Alison Thornton Photo"></div><div><b>Alison Thornton</b><br>Assessment and Planning Project Manager</div></td></tr>
 </table>
 
 <table>
@@ -82,7 +82,7 @@ redirect_from: /home/partners/
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Kristen Palson.jpg" alt="Kristen Palson Photo"></div><div><b>Kristen Palson</b><br> Assistant VP, Simmons Online</div></td></tr>
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/madhu narayan.jpg" alt="Madhu Narayan Photo"></div><div><b>Madhu Narayan</b><br> Instructional Designer, Simmons Online</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Courtney Bohr.jpg" alt="Courtney Bohr Photo"></div><div><b>Courtney Bohr</b><br> Instructional Designer, Simmons Online</div></td></tr>
-    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/person.png" alt="Ashley Thomas Photo"></div><div><b>Ashley M.Thomas</b><br> Student Assistant, Simmons Online</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/ashley-thomas.jpg" alt="Ashley Thomas Photo"></div><div><b>Ashley M.Thomas</b><br> Student Assistant, Simmons Online</div></td></tr>
 </table>
 
 #### RDMLA Staff
