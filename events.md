@@ -10,7 +10,7 @@ The **RDMLA** team will be present at the following conferences, come and talk t
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/mlasc" alt="MLA SC Logo"></td>
-    <td><div><b>Southern Chapter/MLA (Savannah, Georgia)<br> October 10-12, 2019<br>Paper Presentation</b></div></td></tr>
+    <td><div><b>Southern Chapter/MLA (Savannah, Georgia)<br> October 10-12, 2019<br>Poster Session</b></div></td></tr>
 </table>
 
 <table>
