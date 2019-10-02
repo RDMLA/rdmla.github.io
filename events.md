@@ -9,7 +9,7 @@ redirect_from: /home/events/
 The **RDMLA** team will be present at the following conferences, come and talk to us!
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/mlasc" alt="MLA SC Logo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/mlasc.jpg" alt="MLA SC Logo"></td>
     <td><div><b>Southern Chapter/MLA (Savannah, Georgia)<br> October 10-12, 2019<br>Poster Session</b></div></td></tr>
 </table>
 
