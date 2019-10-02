@@ -71,7 +71,7 @@ redirect_from: /home/partners/
   
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/neulogo.png" alt="Northeastern University Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/ferguson-jen.png" alt="Jen Ferguson Photo"></div><div><b>Jen Ferguson</b><br> Research Data Management Librarian, Snell Library</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/Unit 4-Jen Ferguson.jpg" alt="Jen Ferguson Photo"></div><div><b>Jen Ferguson</b><br> Research Data Management Librarian, Snell Library</div></td></tr>
 </table>
   
 #### RDMLA Course Development Team
