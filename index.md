@@ -2,6 +2,8 @@
 layout: home
 redirect_from: /home/
 ---
+## The RDMLA Course on Canvas is Open for Enrollment!
+## Access the course enrollment page here: <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management">RDMLA Course</a> 
 
 <img src="images/RDMLA-logo.jpg" alt="RDMLA Logo"> <br>
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
