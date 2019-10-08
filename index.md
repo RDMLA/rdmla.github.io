@@ -3,26 +3,26 @@ layout: home
 redirect_from: /home/
 ---
 
-<img src="images/RDMLA-logo.jpg" alt="RDMLA Logo"> <br>
 
 ## The RDMLA Course on Canvas is officially open!<br>
 ## Access the course page here: <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management">RDMLA Course</a>
 <br>
 
-The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
+<img src="images/RDMLA-logo.jpg" alt="RDMLA Logo"> <br>
 
+The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
 
 RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. Partner institutions include: 
 <br>
-**Harvard Medical School <br>
-Harvard Library<br>
-Simmons University<br>
-Boston University<br>
-Brown University<br>
-Northeastern University<br>
-Tufts University<br>
-Massachusettes College of Pharmacy and Health Sciences<br>
-Elsevier <br>**
+	&nbsp;	&nbsp;	&nbsp;	&nbsp;**Harvard Medical School**<br>
+  &nbsp;	&nbsp;	&nbsp;	&nbsp;**Harvard Library**<br>  
+ &nbsp;	&nbsp;	&nbsp;	&nbsp;**Simmons University**<br>  
+ &nbsp;	&nbsp;	&nbsp;	&nbsp;**Boston University**<br>  
+ &nbsp;	&nbsp;	&nbsp;	&nbsp;**Brown University**<br>
+ &nbsp;	&nbsp;	&nbsp;	&nbsp;**Massachusettes College of Pharmacy and Health Sciences**<br>
+ &nbsp;	&nbsp;	&nbsp;	&nbsp;**Northeastern University**<br>
+ &nbsp;	&nbsp;	&nbsp;	&nbsp;**Tufts University**<br>
+	&nbsp;	&nbsp;	&nbsp;	&nbsp;**Elsevier** <br>
 
 Find out more about the RDMLA community here: <a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>.
 
