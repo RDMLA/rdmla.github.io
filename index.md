@@ -14,15 +14,15 @@ The **Research Data Management Librarian Academy** (**RDMLA**) is a free online 
 
 RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. Partner institutions include: 
 <br>
-	&nbsp;	&nbsp;	&nbsp;	&nbsp;**Harvard Medical School**<br>
-  &nbsp;	&nbsp;	&nbsp;	&nbsp;**Harvard Library**<br>  
- &nbsp;	&nbsp;	&nbsp;	&nbsp;**Simmons University**<br>  
- &nbsp;	&nbsp;	&nbsp;	&nbsp;**Boston University**<br>  
- &nbsp;	&nbsp;	&nbsp;	&nbsp;**Brown University**<br>
- &nbsp;	&nbsp;	&nbsp;	&nbsp;**Massachusettes College of Pharmacy and Health Sciences**<br>
- &nbsp;	&nbsp;	&nbsp;	&nbsp;**Northeastern University**<br>
- &nbsp;	&nbsp;	&nbsp;	&nbsp;**Tufts University**<br>
-	&nbsp;	&nbsp;	&nbsp;	&nbsp;**Elsevier** <br>
+&nbsp;	&nbsp;	&nbsp;	&nbsp;**Harvard Medical School**<br>
+&nbsp;	&nbsp;	&nbsp;	&nbsp;**Harvard Library**<br>
+&nbsp;	&nbsp;	&nbsp;	&nbsp;**Simmons University**<br>
+&nbsp;	&nbsp;	&nbsp;	&nbsp;**Boston University**<br>
+&nbsp;	&nbsp;	&nbsp;	&nbsp;**Brown University**<br>
+&nbsp;	&nbsp;	&nbsp;	&nbsp;**Massachusettes College of Pharmacy and Health Sciences**<br>
+&nbsp;	&nbsp;	&nbsp;	&nbsp;**Northeastern University**<br>
+&nbsp;	&nbsp;	&nbsp;	&nbsp;**Tufts University**<br>
+&nbsp;	&nbsp;	&nbsp;	&nbsp;**Elsevier** <br>
 
 Find out more about the RDMLA community here: <a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>.
 
