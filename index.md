@@ -2,7 +2,7 @@
 layout: home
 redirect_from: /home/
 ---
-**The RDMLA Course on Canvas is officially open!**
+**The RDMLA Course on Canvas is officially open!** <br>
 **Access the course page here: <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management">RDMLA Course</a>**
 
 <img src="images/RDMLA-logo.jpg" alt="RDMLA Logo"> <br>
