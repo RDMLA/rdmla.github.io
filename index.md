@@ -13,7 +13,6 @@ RDMLA features a unique partnership between a LIS academic program, academic hea
 
 Partner institutions include: <br>
 
-<img src="images/harvard-medical-school.png" alt="Harvard Medical School Logo" style="width:width:50px;height:50px;"> &nbsp;&nbsp; &nbsp;&nbsp;
 <img src="images/simmons.png" alt="Simmons Logo" style="width:width:50px;height:50px;"> &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="images/boston.png" alt="Boston Logo" style="width:50px;height:50px;"> &nbsp;&nbsp; &nbsp;&nbsp;
 <img src="images/tufts.png" alt="Tufts Logo" style="width:50px;height:50px;"> &nbsp;&nbsp;&nbsp; &nbsp;
