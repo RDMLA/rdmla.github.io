@@ -2,8 +2,8 @@
 layout: home
 redirect_from: /home/
 ---
-## The RDMLA Course on Canvas is Open for Enrollment!
-## Access the course enrollment page here: <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management">RDMLA Course</a> 
+## The RDMLA Course on Canvas is officially open!
+## Access the course page here: <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management">RDMLA Course</a> 
 
 <img src="images/RDMLA-logo.jpg" alt="RDMLA Logo"> <br>
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
@@ -13,7 +13,6 @@ RDMLA features a unique partnership between a LIS academic program, academic hea
 
 Partner institutions include: <br>
 
-<img src="images/harvard.png" alt="Harvard Logo" style="width:50px;height:50px;">  &nbsp;&nbsp; &nbsp;&nbsp; 
 <img src="images/harvard-medical-school.png" alt="Harvard Medical School Logo" style="width:width:50px;height:50px;"> &nbsp;&nbsp; &nbsp;&nbsp;
 <img src="images/simmons.png" alt="Simmons Logo" style="width:width:50px;height:50px;"> &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="images/boston.png" alt="Boston Logo" style="width:50px;height:50px;"> &nbsp;&nbsp; &nbsp;&nbsp;
