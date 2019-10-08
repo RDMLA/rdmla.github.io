@@ -8,10 +8,6 @@ redirect_from: /home/events/
 ## Upcoming Events
 The **RDMLA** team will be present at the following conferences, come and talk to us!
 
-<table>
-  <tr><td rowspan="1" width="20%"><img src="/images/mlasc.jpg" alt="MLA SC Logo"></td>
-    <td><div><b>Southern Chapter/MLA (Savannah, Georgia)<br> October 10-12, 2019<br>Poster Session</b></div></td></tr>
-</table>
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/asist.jpg" alt="ASIS&T Logo"></td>
@@ -91,3 +87,11 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
     <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/home/blob/master/ALISE2019.pdf" target="_blank">Click for Slides</a></b></div></td>
   </tr>
 </table>
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/mlasc.jpg" alt="SCMLA Logo"></td>
+    <td rowspan="1" width="30%"><div><b>Southern Chapter/MLA (Savannah, Georgia)<br> October 10-12, 2019</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Poster Presentation <br><a href="https://github.com/RDMLA/home/blob/master/MLA Southern chapter_Final.PDF" target="_blank">Click for Poster</a></b></div></td>
+  </tr>
+</table>
+
