@@ -32,7 +32,7 @@ The **RDMLA** curriculum focuses on the essential knowledge and skills needed to
 
 The **RDMLA** curriculum is based on the results from the Needs Assessment Survey in Phase I (Learn more about Phase I research here:'<a href="https://rdmla.github.io/home/about/"> RDMLA Project Phase I Report Survey Results</a>').<br> 
 
-**The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing** 
+**The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.** 
 
 
 
