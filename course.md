@@ -5,13 +5,16 @@ permalink: /course/
 redirect_from: /home/course/
 ---
 
+**The RDMLA Course on Canvas is officially open!** <br>
+**Access the course page here: <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management">RDMLA Course</a>**
+<br>
 The **RDMLA** curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. Librarians working in academic settings who complete this program will have increased capacity to address the growing research data management needs of their higher learning institutions and to train faculty and researchers on best practices.
 <br>
 
 
 The **RDMLA** course site, hosted in Canvas, is currenlty under development. Below is a screenshot of the course site. 
                                                                                                   
-<img src="/images/course-homepage.jpg" alt="Canvas Course" style="width:width:800px;height:400px;"> <br>
+<img src="/images/enrollmentpage.jpg" alt="Canvas Course" style="width:width:800px;height:400px;"> <br>
 
 The **RDMLA** curriculum is consisted of the following eight units. Each unit features video lectures, exercises, assessments and additional resources. <br>
 
