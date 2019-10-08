@@ -91,7 +91,7 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/mlasc.jpg" alt="SCMLA Logo"></td>
     <td rowspan="1" width="30%"><div><b>Southern Chapter/MLA (Savannah, Georgia)<br> October 10-12, 2019</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Poster Presentation <br><a href="https://github.com/RDMLA/home/blob/master/MLA Southern chapter_Final.PDF" target="_blank">Click for Poster</a></b></div></td>
+    <td rowspan="1" width="30%"><div><b>Poster Presentation <br><a href="https://github.com/RDMLA/home/blob/master/MLA Southern chapter_Final.pdf" target="_blank">Click for Poster</a></b></div></td>
   </tr>
 </table>
 
