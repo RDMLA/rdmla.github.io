@@ -2,28 +2,29 @@
 layout: home
 redirect_from: /home/
 ---
+
+<img src="images/RDMLA-logo.jpg" alt="RDMLA Logo"> <br>
+
 ## The RDMLA Course on Canvas is officially open!<br>
 ## Access the course page here: <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management">RDMLA Course</a>
 <br>
-<img src="images/RDMLA-logo.jpg" alt="RDMLA Logo"> <br>
 
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
 
 
-RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier.
-
-Partner institutions include: <br>
-
-<img src="images/simmons.png" alt="Simmons Logo" style="width:width:50px;height:50px;"> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="images/boston.png" alt="Boston Logo" style="width:50px;height:50px;"> &nbsp;&nbsp; &nbsp;&nbsp;
-<img src="images/tufts.png" alt="Tufts Logo" style="width:50px;height:50px;"> &nbsp;&nbsp;&nbsp; &nbsp;
-<img src="images/mcphs.png" alt="MCPHS Logo" style="width:50px;height:50px;"> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="images/northeastern.png" alt="Northeastern Logo" style="width:50px;height:50px;"> &nbsp;&nbsp;&nbsp; &nbsp;
-<img src="images/brown.png" alt="Brown Logo" style="width:50px;height:50px;"> &nbsp;&nbsp; &nbsp;&nbsp;
-<img src="images/elsevier.png" alt="Elsevier Logo" style="width:50px;height:50px;"> <br>
+RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. Partner institutions include: 
+<br>
+**Harvard Medical School <br>
+Harvard Library<br>
+Simmons University<br>
+Boston University<br>
+Brown University<br>
+Northeastern University<br>
+Tufts University<br>
+Massachusettes College of Pharmacy and Health Sciences<br>
+Elsevier <br>**
 
 Find out more about the RDMLA community here: <a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>.
-
 
 
 ## RDMLA Curriculum
