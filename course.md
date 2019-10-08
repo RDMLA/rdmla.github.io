@@ -15,7 +15,7 @@ The **RDMLA** curriculum focuses on the essential knowledge and skills needed to
 
 The **RDMLA** course is official open. Below is a screenshot of the Canvas enrollment page.
                                                                                                   
-<img src="/images/enrollmentpage.JPG" alt="Canvas Course" style="width:width:800px;height:400px;"> <br>
+<img src="/images/enrollmentpage.JPG" alt="Canvas Course" style="width:800px;height:400px;"> <br>
 
 The **RDMLA** curriculum is consisted of the following eight units. Each unit features video lectures, exercises, assessments and additional resources. Below is a screenshot of the Course Welcome Page<br>
 
@@ -28,7 +28,7 @@ The **RDMLA** curriculum is consisted of the following eight units. Each unit fe
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 7: Overview of Coding Tools <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 8: Overview of Platform Tools <br>
 
-<img src="/images/Homepage.JPG" alt="Units" style="width:width:800px;height:400px;"> <br>
+<img src="/images/Homepage.JPG" alt="Units" style="width:800px"> <br>
 
 
 **The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.**
