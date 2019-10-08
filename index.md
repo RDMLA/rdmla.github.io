@@ -2,10 +2,11 @@
 layout: home
 redirect_from: /home/
 ---
-**The RDMLA Course on Canvas is officially open!** <br>
-**Access the course page here: <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management">RDMLA Course</a>**
-
+## The RDMLA Course on Canvas is officially open!<br>
+## Access the course page here: <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management">RDMLA Course</a>
+<br>
 <img src="images/RDMLA-logo.jpg" alt="RDMLA Logo"> <br>
+
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
 
 
@@ -28,8 +29,6 @@ Find out more about the RDMLA community here: <a href="https://rdmla.github.io/h
 ## RDMLA Curriculum
 
 The **RDMLA** curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. The curriculum features **Eight Online Self-paced Learning Units** that covers topics such as the foundations of research data management (RDM), research culture, advocating and marketing for RDM services in libraries, project management, overview of research data management tools and etc. <br>
-
-The **RDMLA** Course, which will be hosted in the Canvas Learning Management System and is currently under production.The expected launch is in **Fall, 2019**. Access <a href="https://rdmla.github.io/home/course/"> RDMLA Course </a> to get a sneek-peek. <br>
 
 The **RDMLA** curriculum is based on the results from the Needs Assessment Survey in Phase I (Learn more about Phase I research here:'<a href="https://rdmla.github.io/home/about/"> RDMLA Project Phase I Report Survey Results</a>').<br> 
 
