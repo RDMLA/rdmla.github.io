@@ -23,8 +23,10 @@ RDMLA features a unique partnership between a LIS academic program, academic hea
 &nbsp;	&nbsp;	&nbsp;	&nbsp;**Tufts University**<br>
 &nbsp;	&nbsp;	&nbsp;	&nbsp;**Elsevier** <br>
 
-Find out more about the RDMLA community here: <a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>.
-
+**Find out more about the RDMLA community here: <a href="https://rdmla.github.io/home/partners/">RDMLA Community</a>.**
+<br>
+**Download this factsheet for your quick reference: <a  href="https://github.com/RDMLA/home/blob/master/images/RDMLA factsheet_final october.pdf">RDMLA Fact Sheet</a>**
+<br>
 
 ## RDMLA Curriculum
 
