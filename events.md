@@ -15,7 +15,7 @@ The **RDMLA** team will be present at the following conferences, come and talk t
 </table>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/Japan.jpg" alt="Japan Library Fair"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/Japan.JPG" alt="Japan Library Fair"></td>
     <td><div><b>Japan Library Fair 2019(Yokohama, Japan)<br> November 12-14, 2019<br>Presentation</b></div></td></tr>
 </table>
 
