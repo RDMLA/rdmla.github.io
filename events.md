@@ -14,12 +14,16 @@ The **RDMLA** team will be present at the following conferences, come and talk t
     <td><div><b>ASIS&T (Melbourne, Australia)<br> October 20, 2019<br>Product Theater Presentation</b></div></td></tr>
 </table>
 
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/Japan.jpg" alt="Japan Library Fair"></td>
+    <td><div><b>Japan Library Fair 2019(Yokohama, Japan)<br> November 12-14, 2019<br>Presentation</b></div></td></tr>
+</table>
 
 ## Past RDMLA Presentations
 
 The **RDMLA** team has presented at the following conferences.
 <br>
-A complete list of past presentation can be accessed here: [Presentation Slides](https://github.com/RDMLA/home/blob/master/presentationslides.pdf)
+A complete list of past presentation can be accessed here: [Presentation Slides](https://github.com/RDMLA/home/blob/master/images/presentationslides.pdf)
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/ala.jpg" alt="ALA Logo"></td>
