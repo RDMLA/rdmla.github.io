@@ -19,7 +19,7 @@ The **RDMLA** team will be present at the following conferences, come and talk t
 
 The **RDMLA** team has presented at the following conferences.
 <br>
-A complete list of past presentation can be accessed here: [Presentation Slides](https://github.com/RDMLA/home/blob/master/presentation-slides.pdf)
+A complete list of past presentation can be accessed here: [Presentation Slides](https://github.com/RDMLA/home/blob/master/presentation slides.pdf)
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/ala.jpg" alt="ALA Logo"></td>
