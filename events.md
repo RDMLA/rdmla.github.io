@@ -8,12 +8,6 @@ redirect_from: /home/events/
 ## Upcoming Events
 The **RDMLA** team will be present at the following conferences, come and talk to us!
 
-
-<table>
-  <tr><td rowspan="1" width="20%"><img src="/images/asist.jpg" alt="ASIS&T Logo"></td>
-    <td><div><b>ASIS&T (Melbourne, Australia)<br> October 20, 2019<br>Product Theater Presentation</b></div></td></tr>
-</table>
-
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/Japan.JPG" alt="Japan Library Fair"></td>
     <td><div><b>Japan Library Fair 2019(Yokohama, Japan)<br> November 12-14, 2019<br>Presentation</b></div></td></tr>
@@ -96,6 +90,13 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
   <tr><td rowspan="1" width="20%"><img src="/images/mlasc.jpg" alt="SCMLA Logo"></td>
     <td rowspan="1" width="30%"><div><b>Southern Chapter/MLA (Savannah, Georgia)<br> October 10-12, 2019</b></div></td>
     <td rowspan="1" width="30%"><div><b>Poster Presentation <br><a href="https://github.com/RDMLA/home/blob/master/MLA Southern chapter_Final.pdf" target="_blank">Click for Poster</a></b></div></td>
+  </tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/asist.jpg" alt="ASIS&TLogo"></td>
+    <td rowspan="1" width="30%"><div><b>ASIS&T (Melbourne, Australia)<br> October 20, 2019</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Product Theater Presentation <br><a href="https://github.com/RDMLA/home/blob/master/images/RDMLA_ASIST2019.PDF" target="_blank">Click for Slides</a></b></div></td>
   </tr>
 </table>
 
