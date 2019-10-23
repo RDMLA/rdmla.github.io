@@ -45,7 +45,7 @@ Read about the partnership in the Library Connect article: <i><a href="https://l
 ">Research Data Management Librarian Academy (RDMLA): A global online learning community</a></i>.
 
 **RDMLA** community has been active in various conferences, you can find a list of the conference presentations here:
-[Presentations](https://github.com/RDMLA/home/blob/master/presentation-slides.pdf)
+[Presentations](https://github.com/RDMLA/home/blob/master/images/presentationslides.pdf)
 
 
 ## Become a Member
