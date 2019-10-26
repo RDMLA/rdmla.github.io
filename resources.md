@@ -27,4 +27,9 @@ redirect_from: /home/resources/
     <td><div><b>Tang, R., & Hu, Z. (2019). <a href ="https://doi.org/10.2478/dim-2019-0009">Providing Research Data Management (RDM) Services in Libraries: Preparedness, Roles, Challenges, and Training for RDM Practice.</a> <i>Data and Information Management.</i> 3(2)</b></div></td></tr>
 </table>
 
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/lj_paper.JPG" alt="Library Journal paper"></td>
+    <td><div><b>Peet, L. (2019). <a href ="https://www.libraryjournal.com/?detailStory=RDMLA-Offers-Free-Online-Research-Data-Management-Course">RDMLA Offers Free Online Research Data Management Course.</a> <i>Library Journal.</i> October 23.</b></div></td></tr>
+</table>
+
 ## Other RDM Resources
