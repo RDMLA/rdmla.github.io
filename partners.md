@@ -77,19 +77,19 @@ redirect_from: /home/partners/
 #### RDMLA Course Development Team
 
 <table>
-<tr><td rowspan="5" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
+<tr><td rowspan="4" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
    <td><div style="width:100px;float:left;margin:10px"><img src="/images/Sanda-Erdelez.jpg" alt="Sanda Erdelez Photo"></div><div><b>Sanda Erdelez</b><br> Professor & Director, School of Library and Information Science</div></td></tr>
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Kristen Palson.jpg" alt="Kristen Palson Photo"></div><div><b>Kristen Palson</b><br> Assistant VP, Simmons Online</div></td></tr>
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/madhu narayan.jpg" alt="Madhu Narayan Photo"></div><div><b>Madhu Narayan</b><br> Instructional Designer, Simmons Online</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/Courtney Bohr.jpg" alt="Courtney Bohr Photo"></div><div><b>Courtney Bohr</b><br> Instructional Designer, Simmons Online</div></td></tr>
-    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/ashley-thomas.jpg" alt="Ashley Thomas Photo"></div><div><b>Ashley M.Thomas</b><br> Student Assistant, Simmons Online</div></td></tr>
 </table>
 
 #### RDMLA Staff
 
 <table>
- <tr><td rowspan="1" width="20%"><img src="/images/HMS.png" alt="Harvard Medical School Logo"></td>
+ <tr><td rowspan="2" width="20%"><img src="/images/HMS.png" alt="Harvard Medical School Logo"></td>
  <td><div style="width:100px;float:left;margin:10px"><img src="/images/Richardson-headshot.png" alt="Alison Richardson Photo"></div><div><b>Alison Richardson</b><br> Manager of Administration and Finance, Countway Library</div></td></tr>
+ <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/ashley-thomas.jpg" alt="Ashley Thomas Photo"></div><div> <b>Ashley Thomas</b><br> RDMLA Librarian, Countway Library</div></td></tr>
   
 <table>
  <tr><td rowspan="3" width="20%"><img src="/images/simmons-college.png" alt="Simmons University Logo"></td>
