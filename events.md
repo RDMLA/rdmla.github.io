@@ -9,8 +9,8 @@ redirect_from: /home/events/
 The **RDMLA** team will be present at the following conferences, come and talk to us!
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/Japan.JPG" alt="Japan Library Fair"></td>
-    <td><div><b>Japan Library Fair 2019(Yokohama, Japan)<br> November 12-14, 2019<br>Presentation</b></div></td></tr>
+  <tr><td rowspan="1" width="20%"><img src="/images/RDMLA" alt="RDMLA"></td>
+    <td><div><b>RDMLA Post-Launch Reception(Boston, MA)<br> December 4, 2019<br>Reception</b></div></td></tr>
 </table>
 
 ## Past RDMLA Presentations
@@ -98,5 +98,11 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
     <td rowspan="1" width="30%"><div><b>ASIS&T (Melbourne, Australia)<br> October 20, 2019</b></div></td>
     <td rowspan="1" width="30%"><div><b>Product Theater Presentation <br><a href="https://github.com/RDMLA/home/blob/master/images/RDMLA_ASIST2019.PDF" target="_blank">Click for Slides</a></b></div></td>
   </tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/Japan.JPG" alt="Japan Library Fair"></td>
+    <td rowspan="1" width="30%"><div><b>Japan Library Fair 2019(Yokohama, Japan)<br> November 12-14, 2019</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/home/blob/master/RDMLAJapan.pdf" target="_blank">Click for Flyer</a></b></div></td></tr>
 </table>
 
