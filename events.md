@@ -9,8 +9,8 @@ redirect_from: /home/events/
 The **RDMLA** team will be present at the following conferences, come and talk to us!
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/RDMLA" alt="RDMLA"></td>
-    <td><div><b>RDMLA Post-Launch Reception(Boston, MA)<br> December 4, 2019<br>Reception</b></div></td></tr>
+  <tr><td rowspan="1" width="20%"><img src="/images/rdmla-logo.jpg" alt="RDMLA"></td>
+    <td><div><b>RDMLA Post-Launch Reception(Boston, MA)<br> December 4, 2019<br>Reception at Countway Library of Medicine, Harvard Medical School</b></div></td></tr>
 </table>
 
 ## Past RDMLA Presentations
