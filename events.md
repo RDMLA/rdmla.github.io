@@ -103,6 +103,6 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/Japan.JPG" alt="Japan Library Fair"></td>
     <td rowspan="1" width="30%"><div><b>Japan Library Fair 2019(Yokohama, Japan)<br> November 12-14, 2019</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/home/blob/master/images/RDMLAJapan.PDF" target="_blank">Click for Flyer</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/home/blob/master/images/RDMLAJapan.pdf" target="_blank">Click for Flyer</a></b></div></td></tr>
 </table>
 
