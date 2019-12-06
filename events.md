@@ -6,12 +6,7 @@ redirect_from: /home/events/
 ---
 
 ## Upcoming Events
-The **RDMLA** team will be present at the following conferences, come and talk to us!
-
-<table>
-  <tr><td rowspan="1" width="20%"><img src="/images/rdmla-logo.jpg" alt="RDMLA"></td>
-    <td><div><b>RDMLA Post-Launch Reception(Boston, MA)<br> December 4, 2019<br>Reception at Countway Library of Medicine, Harvard Medical School</b></div></td></tr>
-</table>
+Check back for upcoming events the **RDMLA** team will be attending. Stop by and talk to us!
 
 ## Past RDMLA Presentations
 
@@ -33,13 +28,13 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/ERL.png" alt="ER&L Logo"></td>
-    <td rowspan="1" width="30%"><div><b>ER&L(Austin, TX)<br> March 4,2019</b></div></td>
+    <td rowspan="1" width="30%"><div><b>ER&L (Austin, TX)<br> March 4,2019</b></div></td>
      <td rowspan="1" width="30%"><div><b>Elsevier Event Presentation<br><a href="https://github.com/RDMLA/home/blob/master/erl2019.pdf" target="_blank" >Click for Slides</a></b></div></td></tr>
 </table>
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/ischools.jpg" alt="iconference Logo"></td>
-     <td rowspan="1" width="30%"><div><b>iConference(Washington, DC)<br> April 1,2019</b></div></td>
+     <td rowspan="1" width="30%"><div><b>iConference (Washington, DC)<br> April 1,2019</b></div></td>
     <td rowspan="1" width="30%"><div><b>Elsevier Sponsored Breakfast Presentation<br><a href="https://github.com/RDMLA/home/blob/master/iconference2019.pdf" target="_blank">Click for Slides</a></b></div></td></tr>
 </table>
 
@@ -81,7 +76,7 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/alise.png" alt="ALISE Logo"></td>
-    <td rowspan="1" width="30%"><div><b>ALISE (Knoxvill, Tennesse)<br> September 30, 2019</b></div></td>
+    <td rowspan="1" width="30%"><div><b>ALISE (Knoxville, Tennessee)<br> September 30, 2019</b></div></td>
     <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/home/blob/master/ALISE2019.pdf" target="_blank">Click for Slides</a></b></div></td>
   </tr>
 </table>
@@ -102,7 +97,13 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/Japan.JPG" alt="Japan Library Fair"></td>
-    <td rowspan="1" width="30%"><div><b>Japan Library Fair 2019(Yokohama, Japan)<br> November 12-14, 2019</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Japan Library Fair 2019 (Yokohama, Japan)<br> November 12-14, 2019</b></div></td>
     <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/home/blob/master/images/RDMLAJapan.pdf" target="_blank">Click for Flyer</a></b></div></td></tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/rdmla-logo.jpg" alt="RDMLA"></td>
+    <td rowspan="1" width="30%"><div><b>RDMLA Post-Launch Reception(Boston, MA)<br> December 4, 2019<br>Reception at Countway Library of Medicine, Harvard Medical School</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Presenation <br>Click for Slides with Photographs</b></div></td></tr>
 </table>
 
