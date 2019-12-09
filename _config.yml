@@ -6,8 +6,8 @@ description: >
 url: "https://rdmla.github.io/"
 
 # Social links
-twitter_username: The_RDMLA
 github_username:  RDMLA
+twitter_username: The_RDMLA
 
 # Build settings
 markdown: kramdown
