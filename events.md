@@ -107,3 +107,8 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
     <td rowspan="1" width="30%"><div><b>Presenation <br>Click for Slides with Photographs</b></div></td></tr>
 </table>
 
+<table>
+  <tr><td rowspan="1" width="20%"></td>
+    <td rowspan="1" width="30%"><div><b>2019 RDM Symposium (New York, NY)<br> December 5, 2019</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Presenation <br>Click for Slide</b></div></td></tr>
+</table>
