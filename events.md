@@ -104,7 +104,7 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/rdmla-logo.jpg" alt="RDMLA"></td>
     <td rowspan="1" width="30%"><div><b>RDMLA Post-Launch Reception(Boston, MA)<br> December 4, 2019<br>Reception at Countway Library of Medicine, Harvard Medical School</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation <br><a ref="images/presentations/12_4 Reception Slideshow.pdf" target="_blank">Click for Slides with Photographs</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Presentation <br><a href="images/presentations/12_4 Reception Slideshow.pdf" target="_blank">Click for Slides with Photographs</a></b></div></td></tr>
 </table>
 
 <table>
