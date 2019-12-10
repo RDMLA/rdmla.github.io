@@ -110,5 +110,5 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 <table>
   <tr><td rowspan="1" width="20%"></td>
     <td rowspan="1" width="30%"><div><b>2019 RDM Symposium (New York, NY)<br> December 5, 2019</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation <br>Click for Slide</b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Presentation <br><a href="images/presentations/RDMLA_NY 12_5_finalupdated.pdf" target="_blank">Click for Slide</a></b></div></td></tr>
 </table>
