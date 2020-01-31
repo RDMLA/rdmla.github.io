@@ -27,10 +27,10 @@ The Research Data Management Librarian Academy (RDMLA) Survey was intended to ga
 
 ## Read the Training and Publications Files
 
-[Training PDF](https://github.com/RDMLA/home/blob/master/Training.pdf)
+[Training PDF](https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/Training.pdf)
 
-[Training Spreadsheet](https://github.com/RDMLA/home/blob/master/Training.xlsx)
+[Training Spreadsheet](https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/Training.xlsx)
 
-[Publications PDF](https://github.com/RDMLA/home/blob/master/Publications.pdf)
+[Publications PDF](https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/Publications.pdf)
 
-[Publications Spreadsheet](https://github.com/RDMLA/home/blob/master/Publications.xlsx)
+[Publications Spreadsheet](https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/Publications.xlsx)
