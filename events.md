@@ -102,7 +102,7 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 </table>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLALogo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLA Logo"></td>
     <td rowspan="1" width="30%"><div><b>RDMLA Post-Launch Reception (Boston, MA)<br> December 4, 2019<br>Reception at Countway Library of Medicine, Harvard Medical School</b></div></td>
     <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2019/12_4%20Reception%20Slideshow.pdf" target="_blank">Click for Slides with Photographs</a></b></div></td></tr>
 </table>
