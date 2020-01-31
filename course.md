@@ -28,7 +28,7 @@ The **RDMLA** curriculum is consisted of the following eight units. Each unit fe
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 7: Overview of Coding Tools <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 8: Overview of Platform Tools <br>
 
-<img src="/images/Homepage.JPG" alt="Units" style="width:800px; height:1200px"> <br>
+<img src="/images/display-images/welcome_page.jpg" alt="Course Home Page" style="width:800px; height:1150px"> <br>
 
 
 **The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.**
