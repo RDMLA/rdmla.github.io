@@ -96,7 +96,7 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 </table>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/Japan.JPG" alt="Japan Library Fair"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/Japan.jpg" alt="Japan Library Fair"></td>
     <td rowspan="1" width="30%"><div><b>Japan Library Fair 2019 (Yokohama, Japan)<br> November 12-14, 2019</b></div></td>
     <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2019/RDMLAJapan.pdf" target="_blank">Click for Flyer</a></b></div></td></tr>
 </table>
