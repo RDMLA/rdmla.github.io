@@ -15,7 +15,7 @@ The **RDMLA** curriculum focuses on the essential knowledge and skills needed to
 
 The **RDMLA** course is official open. Below is a screenshot of the Canvas enrollment page.
                                                                                                   
-<img src="/images/enrollmentpage.JPG" alt="Canvas Course" style="width:800px;height:400px;"> <br>
+<img src="images/display_images/enrollment.jpg" alt="Canvas Course" style="width:800px;height:400px;"> <br>
 
 The **RDMLA** curriculum is consisted of the following eight units. Each unit features video lectures, exercises, assessments and additional resources. Below is a screenshot of the Course Welcome Page<br>
 
