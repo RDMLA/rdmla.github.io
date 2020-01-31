@@ -8,7 +8,7 @@ redirect_from: /home/partners/
 #### RDMLA Leadership
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/HMS.png" alt="Harvard Medical School Logo"></td>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Elaine-Martin.jpg" alt="Elaine Martin Photo"></div><div>     <b>Elaine Martin</b><br> Director and Chief Administrative Officer, Countway Library</div></td></tr>
 </table>
 
