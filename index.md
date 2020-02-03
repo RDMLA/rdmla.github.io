@@ -5,8 +5,11 @@ redirect_from: /home/
 
 <p align="center"><img src="images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLA Logo"></p> <br>
 
-### **The RDMLA Course on Canvas is officially open!<br> 2,100 learners have registered (as of January 31, 2020)**.
-#### **Access the course page here**: <a  href="https://www.canvas.net/browse/simmonsu/courses/research-data-management" target="_blank">RDMLA Course</a>
+## **The RDMLA Course on Canvas is officially open!<br> 2,100 learners have registered (as of January 31, 2020)**.
+### **Access the course page here**: <a  href="https://www.canvas.net/browse/simmonsu/courses/research-data-management" target="_blank">RDMLA Course</a>
+<br>
+
+## **The RDMLA and Simmons SLIS Continuing Education test for 3 CE credits opens Wednesday, February 5th!**
 <br>
 
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
@@ -35,6 +38,15 @@ The **RDMLA** curriculum focuses on the essential knowledge and skills needed to
 The **RDMLA** curriculum is based on the results from the Needs Assessment Survey in Phase I (Learn more about Phase I research here:<a href="https://rdmla.github.io/home/about/"> RDMLA Project Phase I Report Survey Results</a>).<br> 
 
 **The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.** 
+
+
+
+
+## RDMLA/Simmons SLIS Continuing Education (CE) Test
+
+In response to student inquiries and requests, **RDMLA** partnered with the School of Library and Information Science (SLIS) at Simmons University, to provide an optional offering of three (3) continuing education credits.
+
+**Find out more about the RDMLA/SLIS CE credits test here:** <a href="https://rdmla.github.io/ce/">CE Test</a>
 
 
 
