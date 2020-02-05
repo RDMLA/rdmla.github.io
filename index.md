@@ -5,11 +5,11 @@ redirect_from: /home/
 
 <p align="center"><img src="images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLA Logo"></p> <br>
 
-## **The RDMLA Course on Canvas is officially open!<br> 2,128 learners have registered (as of February 3, 2020)**.
+## **The RDMLA Course on Canvas is officially open!<br> 2,212 learners have registered (as of February 5, 2020)**.
 ### **Access the course page here**: <a  href="https://www.canvas.net/browse/simmonsu/courses/research-data-management" target="_blank">RDMLA Course</a>
 <br>
 
-## **The RDMLA and Simmons SLIS Continuing Education test for 3 CE credits opens Wednesday, February 5th!**
+## **The RDMLA and Simmons SLIS Continuing Education test for 3 CE credits is now available!**
 <br>
 
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment throughout the world. 
