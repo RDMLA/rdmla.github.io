@@ -5,7 +5,7 @@ redirect_from: /home/
 
 <p align="center"><img src="images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLA Logo"></p> <br>
 
-## **The RDMLA Course on Canvas is officially open!<br> 2,212 learners have registered (as of February 5, 2020)**.
+## **The RDMLA Course on Canvas is open!<br> 2,239 learners have registered (as of February 6, 2020)**.
 ### **Access the course page here**: <a  href="https://www.canvas.net/browse/simmonsu/courses/research-data-management" target="_blank">RDMLA Course</a>
 <br>
 
