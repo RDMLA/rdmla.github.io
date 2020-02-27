@@ -116,5 +116,5 @@ A complete list of past presentation can be accessed here: [Presentation Slides]
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/dataone.png" alt="DataOne"></td>
     <td rowspan="1" width="30%"><div><b>The DataONE Webinar Series - RDMLA: Five Months Post Launch (Virtual)<br> February 11, 2020</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2020/RDMLA_DataONEWebinar_02112020.pdf" target="_blank">Click for Slides</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2020/RDMLA_DataONEWebinar_02112020.pdf" target="_blank">Click for Slides</a> <br> Webinar Recording <br><a href="https://www.dataone.org/webinars/rdmla-five-months-post-launch" target="_blank">Click for Link</a></b></div></td></tr>
 </table>
