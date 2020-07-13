@@ -2,7 +2,7 @@
 layout: page
 title: Past Community Members
 permalink: /partners/past-members
-redirect_from: /partners/past-members
+redirect_from: /home/past-members
 ---
 
 #### RDMLA Leadership
