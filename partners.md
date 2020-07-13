@@ -43,8 +43,8 @@ redirect_from: /home/partners/
   
 <table>
   <tr><td rowspan="2" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo"></td>
-  <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/adam-kriesberg.jpg" alt="Adam Kriesberg Photo"></div><div><b>Adam Kriesberg</b><br>Assistant Professor</div></td></tr>
-  <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/danielle-pollock.jpg" alt="Danielle Pollock Photo"></div><div><b>Danielle Pollock</b><br>Assistant Professor</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/adam-kriesberg.jpg" alt="Adam Kriesberg Photo"></div><div><b>Adam Kriesberg</b><br> Assistant Professor</div></td></tr>
+  <tr><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/danielle-pollock.jpg" alt="Danielle Pollock Photo"></div><div><b>Danielle Pollock</b><br>Assistant Professor</div></td></tr>
 </table>
 
 <table>
