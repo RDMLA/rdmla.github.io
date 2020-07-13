@@ -7,15 +7,13 @@ redirect_from: /home/ce/
 
 <p align="center"><img src="/images/icons_logos/rdmla_logo/RDMLA_SLIS_logo_450px.png" alt="RDMLA and SLIS Logos"></p> <br>
 
-### **The RDMLA CE test and 3 CE credits from the School of Library and Information Science at Simmons University is now available!**
-
 In response to student inquiries and requests, RDMLA partnered with the School of Library and Information Science (SLIS) at Simmons University, to provide an _**optional**_ offering of three (3) continuing education credits.
 
 <p align="center"><img src="/images/display-images/CE_Welcome.PNG" alt="CE Welcome Page" style="width:600px; height:474px"></p> <br>
 
 Interested parties **need** to:
-1. Have completed all of the units in the course
-2. Pay the $100 USD CE administrative fee
+1. Have completed all eight units in the course
+2. Pay the $50 USD CE administrative fee
 
 The test comprises of 25 questions based on the materials discussed in the course units. Students will have 90 minutes to complete the test. 
 
