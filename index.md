@@ -19,12 +19,10 @@ The **RDMLA** curriculum focuses on the essential knowledge and skills needed to
 
 ##### **The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.** 
 
-In response to student inquiries and requests, **RDMLA** partnered with the School of Library and Information Science (SLIS) at Simmons University, to provide an optional offering of three (3) continuing education credits. 
-<br>
+In response to student inquiries and requests, **RDMLA** partnered with the School of Library and Information Science (SLIS) at Simmons University, to provide an optional offering of three (3) continuing education credits. <br>
 
 
 ___
-<br>
 
-## Become a Member
-Interested in learning more about RDMLA? <a href="https://rdmla.github.io/contact/">Contact us</a>!
+### Contact Us
+Interested in learning more or have questions about RDMLA? <a href="https://rdmla.github.io/contact/">Contact us</a>!
