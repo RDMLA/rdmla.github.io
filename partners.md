@@ -100,7 +100,7 @@ redirect_from: /home/partners/
 <table>
 <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Jean-Shipman.jpg" alt="Jean Shipman Photo"></div><div>       <b>Jean Shipman, MSLS</b><br> Vice President, Global Library Relations (retired)<br> (RDMLA Leadership)</div></td></tr>
-</table>
+
 
 <table>
 <tr><td rowspan="5" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo"></td>
