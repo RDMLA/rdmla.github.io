@@ -5,19 +5,16 @@ permalink: /course/
 redirect_from: /home/course/
 ---
 
-**The RDMLA Course on Canvas is officially open!** <br>
-**Access the course page here: <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management">RDMLA Course</a>**
-<br>
-<br>
-The **RDMLA** curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. Librarians working in academic settings who complete this program will have increased capacity to address the growing research data management needs of their higher learning institutions and to train faculty and researchers on best practices.
+The RDMLA curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. Librarians working in academic settings who complete this program will have increased capacity to address the growing research data management needs of their higher learning institutions and to train faculty and researchers on best practices.
+
 <br>
 
+Currently, the course offers the following eight units, plus the *optional* three-credit CE test. Each unit features video lectures, exercises, assessments and additional resources. 
+<br>
 
-The **RDMLA** course is official open. Below is a screenshot of the Canvas enrollment page.
-                                                                                                  
-<img src="/images/display-images/enrollment.jpg" alt="Course Enrollment" style="width:800px; height:392px"> <br>
+Coming Fall 2020 and Winter 2020/2021, three new units - "Data Copyright, Licensing, and Privacy," "Delivering Data Management Training: A Guide to DataONE Resources," and "Data Curation and Archiving".
 
-The **RDMLA** curriculum is consisted of the following eight units. Each unit features video lectures, exercises, assessments and additional resources. Below is a screenshot of the Course Welcome Page<br>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 1: Foundations of Research Data Management (RDM) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 2: Navigating Research Data Culture <br>
@@ -31,6 +28,6 @@ The **RDMLA** curriculum is consisted of the following eight units. Each unit fe
 <img src="/images/display-images/welcome_page.jpg" alt="Course Home Page" style="width:800px; height:1150px"> <br>
 
 
-**The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.**
+##### The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.
 
     
