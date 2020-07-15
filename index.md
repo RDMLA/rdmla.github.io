@@ -22,11 +22,10 @@ The RDMLA curriculum focuses on the essential knowledge and skills needed to col
 In response to student inquiries and requests, RDMLA partnered with the School of Library and Information Science (SLIS) at Simmons University, to provide an optional offering of three (3) continuing education credits. 
 <br>
 
-__ __
+__
 
-#### Access the RDMLA Course
+<h4><b>Access the RDMLA Course</b></h4>
 Ready to join the RDMLA community? Register and access the course <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management" target="_blank">here</a>.
 <br>
-
-#### Contact Us
+<h4><b>Contact Us</b></h4>
 Interested in learning more or have questions about RDMLA? <a href="https://rdmla.github.io/contact/">Contact us</a>!
