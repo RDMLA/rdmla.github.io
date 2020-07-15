@@ -15,11 +15,11 @@ RDMLA features a unique partnership between a LIS academic program, academic hea
 <p align="center"><img src="images/display-images/RDMLA_StudentMap_07.13.20_800x347.png" alt="Map of Student Locations"></p>
 <h6 align="center"><em>Registered Students: 3,663  |  Successful CE: 18</em> (updated: 07.13.2020)</h6>
 
-The **RDMLA** curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. The curriculum features eight, online, and self-paced learning units that cover topics such as the foundations of research data management, research culture, advocating and marketing for RDM services, project management, overview of research data management tools, etc. <br>
+The RDMLA curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. The curriculum features eight, online, and self-paced learning units that cover topics such as the foundations of research data management, research culture, advocating and marketing for RDM services, project management, overview of research data management tools, etc. <br>
 
 ##### **The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.** 
 
-In response to student inquiries and requests, **RDMLA** partnered with the School of Library and Information Science (SLIS) at Simmons University, to provide an optional offering of three (3) continuing education credits. <br>
+In response to student inquiries and requests, RDMLA partnered with the School of Library and Information Science (SLIS) at Simmons University, to provide an optional offering of three (3) continuing education credits. <br>
 
 
 ___
