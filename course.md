@@ -13,7 +13,6 @@ Currently, the course offers the following eight units, plus the *optional* thre
 <br>
 
 Coming Fall 2020 and Winter 2020/2021, three new units - "Data Copyright, Licensing, and Privacy," "Delivering Data Management Training: A Guide to DataONE Resources," and "Data Curation and Archiving".
-
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 1: Foundations of Research Data Management (RDM) <br>
