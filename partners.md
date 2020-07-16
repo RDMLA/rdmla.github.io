@@ -94,18 +94,3 @@ redirect_from: /home/partners/
  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo"></td>
  <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/zhan-hu.png" alt="Zhan Hu Photo"></div><div><b>Zhan Hu</b><br> Project Coordinator</div></td></tr>
 </table>
-
-#### Past Community Members
-
-<table>
-<tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Jean-Shipman.jpg" alt="Jean Shipman Photo"></div><div>       <b>Jean Shipman, MSLS</b><br> Vice President, Global Library Relations (retired)<br> (RDMLA Leadership)</div></td></tr>
-
-
-<table>
-<tr><td rowspan="5" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo"></td>
-   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Kristen Palson.jpg" alt="Kristen Palson Photo"></div><div><b>Kristen Palson</b><br> Assistant VP, Simmons Online<br> (RDMLA Course Development)</div></td></tr>
-   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/madhu narayan.jpg" alt="Madhu Narayan Photo"></div><div><b>Madhu Narayan</b><br> Instructional Designer, Simmons Online<br> (RDMLA Course Development)</div></td></tr>
-   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Courtney Bohr.jpg" alt="Courtney Bohr Photo"></div><div><b>Courtney Bohr</b><br> Instructional Designer, Simmons Online<br> (RDMLA Course Development)</div></td></tr>
-   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Alyson-Gamble.png" alt="Alyson Gamble Photo"></div> <div><b>Alyson Gamble</b><br> Doctoral Student<br> (Data Fellow - Summer 2018)</div></td></tr>
-</table>
