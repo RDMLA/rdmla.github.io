@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RDMLA Curriculum
+title: Curriculum
 permalink: /course/
 redirect_from: /home/course/
 ---
