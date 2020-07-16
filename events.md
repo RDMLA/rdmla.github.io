@@ -5,10 +5,10 @@ permalink: /events/
 redirect_from: /home/events/
 ---
 
-## Upcoming Events
+### Upcoming Events
 Check back for upcoming events the **RDMLA** team will be attending. Stop by and talk to us!
 
-## Past RDMLA Presentations
+### Past RDMLA Presentations
 
 The **RDMLA** team has presented at the following conferences.
 <br>
