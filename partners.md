@@ -95,7 +95,7 @@ redirect_from: /home/partners/
  <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/zhan-hu.png" alt="Zhan Hu Photo"></div><div><b>Zhan Hu</b><br> Project Coordinator</div></td></tr>
 </table>
 
-### Past RDMLA Community Members 
+#### Past RDMLA Community Members <br>
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
