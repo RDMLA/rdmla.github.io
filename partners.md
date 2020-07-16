@@ -95,7 +95,8 @@ redirect_from: /home/partners/
  <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/zhan-hu.png" alt="Zhan Hu Photo"></div><div><b>Zhan Hu</b><br> Project Coordinator</div></td></tr>
 </table>
 
-#### Former RDMLA Members 
+### Past RDMLA Community Members 
+
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Jean-Shipman.jpg" alt="Jean Shipman Photo"></div><div><b>Jean P. Shipman</b><br> Vice President, Global Library Relations (retired)<br> (RDMLA Leadership)</div></td></tr>
