@@ -4,7 +4,7 @@ title: Publications
 permalink: /resources/
 redirect_from: /home/resources/
 ---
-## Publications by RDMLA Community
+#### Publications by RDMLA Community
 
 
 <table>
@@ -31,5 +31,3 @@ redirect_from: /home/resources/
   <tr><td rowspan="1" width="20%"><img src="/images/publications/2019/lj_paper.jpg" alt="Library Journal paper"></td>
     <td><div><b>Peet, L. (2019). <a href ="https://www.libraryjournal.com/?detailStory=RDMLA-Offers-Free-Online-Research-Data-Management-Course">RDMLA Offers Free Online Research Data Management Course.</a> <i>Library Journal.</i> October 23.</b></div></td></tr>
 </table>
-
-## Other RDM Resources
