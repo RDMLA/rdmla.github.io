@@ -13,13 +13,13 @@ Be sure to add us to your calendars and say hello!
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/mla.png" alt="MLA Logo"></td>
     <td rowspan="1" width="30%"><div><b>MLA (Virtual)<br> August 10, 2020 (Live Virtual Presentation)</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation<br>Slides Forthcoming</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Presentation<br>Slides Forthcoming</b></div></td></tr>
 </table>
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/alise.png" alt="ALISE Logo"></td>
     <td rowspan="1" width="30%"><div><b>ALISE (Virtual)<br> October 22, 2020<br> Breakfast with Vendors</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation <br>Slides Forthcoming</a></b></div></td>
+    <td rowspan="1" width="30%"><div><b>Presentation <br>Slides Forthcoming</b></div></td>
   </tr>
 </table>
 
@@ -47,6 +47,7 @@ The RDMLA team has presented at the following conferences.
 </table>
 
 ___
+
 #### 2019 Events
 
 <table>
