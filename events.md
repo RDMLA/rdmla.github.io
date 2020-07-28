@@ -23,7 +23,7 @@ Be sure to add us to your calendars and say hello!
   </tr>
 </table>
 
-#### Past RDMLA Presentations
+#### Recent RDMLA Presentations
 
 The RDMLA team has presented at the following conferences.
 <br>
@@ -46,7 +46,8 @@ The RDMLA team has presented at the following conferences.
     <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2020/RDMLA_DataONEWebinar_02112020.pdf" target="_blank">Click for Slides</a> <br> Webinar Recording <br><a href="https://www.dataone.org/webinars/rdmla-five-months-post-launch" target="_blank">Click for Link</a></b></div></td></tr>
 </table>
 
-### 2019 Events
+___
+#### 2019 Events
 
 <table>
   <tr><td rowspan="1" width="20%"></td>
