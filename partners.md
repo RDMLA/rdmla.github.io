@@ -91,8 +91,9 @@ redirect_from: /home/partners/
   
   
 <table>
- <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo"></td>
+ <tr><td rowspan="2" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo"></td>
  <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/zhan-hu.png" alt="Zhan Hu Photo"></div><div><b>Zhan Hu</b><br> Project Coordinator</div></td></tr>
+ <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Nicole_Henry copy.jpg" alt="Nicole Henry Photo"></div><div><b>Nicole Henry</b><br> Project Assistant</div></td></tr>
 </table>
 
 <h4>Former Community Members</h4>
