@@ -13,7 +13,7 @@ RDMLA features a unique partnership between a LIS academic program, academic hea
 **<a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/RDMLA_Factsheet_July2020.pdf" target="_blank">Download the RDMLA Factsheet for your quick reference.</a>** <br>
 <br>
 <p align="center"><img src="images/display-images/RDMLA_StudentMap_07.30.20_web.png" alt="Map of Student Locations"></p>
-<h6 align="center"><em>Registered Students: 3,801  |  Successful CE: 20</em> (updated: 07.30.2020)</h6>
+<h6 align="center"><em>Registered Students: 3,974  |  Successful CE: 20</em> (updated: 09.02.2020)</h6>
 
 The RDMLA curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. The curriculum features eight, online, and self-paced learning units that cover topics such as the foundations of research data management, research culture, advocating and marketing for RDM services, project management, overview of research data management tools, etc. <br>
 
