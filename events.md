@@ -16,6 +16,12 @@ Be sure to add us to your calendars and say hello!
     <td rowspan="1" width="30%"><div><b>Presentation <br>Slides Forthcoming</b></div></td>
   </tr>
 </table>
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/SLA2020Virtual_ConferenceLogo.png" alt="SLA2020 Logo"></td>
+    <td rowspan="1" width="30%"><div><b>SLA (Virtual)<br> October 14-16, 2020<br> Poster</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Presentation <br>Poster Forthcoming</b></div></td>
+  </tr>
+</table>
 
 #### Recent RDMLA Presentations
 
