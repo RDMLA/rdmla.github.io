@@ -10,28 +10,29 @@ redirect_from: /home/events/
 Be sure to add us to your calendars and say hello!
 <br>
 
-<table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/alise.png" alt="ALISE Logo"></td>
-    <td rowspan="1" width="30%"><div><b>ALISE (Virtual)<br> October 22, 2020<br> Breakfast with Vendors</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation <br>Slides Forthcoming</b></div></td>
-  </tr>
-</table>
-<table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/SLA2020Virtual_ConferenceLogo.png" alt="SLA2020 Logo"></td>
-    <td rowspan="1" width="30%"><div><b>SLA (Virtual)<br> October 14-16, 2020</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation <br>Poster Forthcoming</b></div></td>
-  </tr>
-</table>
-
 #### Recent RDMLA Presentations
 
 The RDMLA team has presented at the following conferences.
 <br>
 
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/alise.png" alt="ALISE Logo"></td>
+    <td rowspan="1" width="30%"><div><b>ALISE (Virtual)<br> October 22, 2020<br> Breakfast with Vendors</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Presentation <br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2020/2020ALISE_%20presentation.pdf" target="_blank">Click for Slides</a> <br>Presentation Recording <br><a href="https://vimeo.com/472675605" target="_blank">Click for Link</a></b></div></td>
+  </tr>
+</table>
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/SLA2020Virtual_ConferenceLogo.png" alt="SLA2020 Logo"></td>
+    <td rowspan="1" width="30%"><div><b>SLA (Virtual)<br> October 14-16, 2020</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Poster Presentation <br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2020/RDMLA_SLA2020_Poster.pdf" target="_blank">Click for Poster</a> <br>Presentation Recording <br><a href="https://vimeo.com/462889073" target="_blank">Click for Link</a></b></div></td>
+  </tr>
+</table>
+
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/mla.png" alt="MLA Logo"></td>
     <td rowspan="1" width="30%"><div><b>MLA (Virtual)<br> August 10, 2020 (Live Virtual Presentation)</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation<br><a ref="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2020/2020MLA_Elsevier%20presentation_MartinTang_Final.pdf" target="_blank">Click for Slides </a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Presentation<br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2020/2020MLA_Elsevier presentation_MartinTang_Final.pdf" target="_blank">Click for Slides</a></b></div></td></tr>
 </table>
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/alcts_logo.png" alt="ALA ALCTS Logo"></td>
