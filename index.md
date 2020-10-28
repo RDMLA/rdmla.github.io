@@ -3,7 +3,7 @@ layout: home
 redirect_from: /home/
 ---
 
-:heavy_exclamation_mark: **NOTE (10.28.20)** - If you are currently experiencing access issues for the Canvas Network course site, please email help@canvas.net. :heavy_exclamation_mark:
+:heavy_exclamation_mark:**NOTE (10.28.20)** - If you are currently experiencing access issues for the Canvas Network course site, please email help@canvas.net.:heavy_exclamation_mark:
 
 <p align="center"><img src="images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLA Logo"></p> <br>
 
