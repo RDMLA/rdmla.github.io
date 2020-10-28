@@ -3,8 +3,6 @@ layout: home
 redirect_from: /home/
 ---
 
-:heavy_exclamation_mark:**NOTE (10.28.20)** - If you are currently experiencing access issues for the Canvas Network course site, please email help@canvas.net.:heavy_exclamation_mark:
-
 <p align="center"><img src="images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLA Logo"></p> <br>
 
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, and other professionals who work in a research-intensive environment throughout the world. 
