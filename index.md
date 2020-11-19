@@ -5,6 +5,12 @@ redirect_from: /home/
 
 <p align="center"><img src="images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLA Logo"></p> <br>
 
+<h3 align="center">ANNOUNCEMENT!</h3>
+  
+<p align="center">The RDMLA team is very proud to announce the launch of two new units on Monday, November 30, 2020! Unit 9: Delivering Data Management Training: a Guide to DatONE Resources is instructed by Dr. Amber Budden, Co-Leader of DataONE and Director of Learning and Outreach, National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara. Unit 10: Research Data Copyright, Licensing, and Privacy is lead by Scott Lapinski, Associate Director for Scholarly Communications and Open Science at the Countway Library of Medicine, Harvard Medical School. We are sure you will find these new units enjoyable with new resources and tools to add to your RDM toolkit!</p>
+
+<p align="center"><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/11.19.20_NewUnitAnnouncement.pdf" target="_blank">Read the full announcement by RDMLA co-leaders Elaine Martin and Rong Tang.</a></p>
+
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, and other professionals who work in a research-intensive environment throughout the world. 
 
 RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. Partner institutions include: Harvard Medical School, Harvard Library, Simmons University, Boston University, Brown University, Massachusettes College of Pharmancy and Health Sciences University, Northeastern University, and Tufts University.
