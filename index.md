@@ -9,6 +9,8 @@ redirect_from: /home/
   
 <p align="center">The RDMLA team is very proud to announce that our two new units - Unit 9: Delivering Data Management Training: a Guide to DatONE Resources and Unit 10: Research Data Copyright, Licensing, and Privacy are now live on the <a href="https://learn.canvas.net/courses/2719" target="_blank">Canvas course homepage</a>. We are sure you will find these new units enjoyable with new resources and tools to add to your RDM toolkit!</p>
 
+<p align="center">Please note that the new units do NOT impact the CE credits test. The test continues to only includes questions regarding the first eight units. Any updates or changes to the CE test will not occur until after the new year, and as always, we will provide advance notice if/when changes happen.</p>
+
 <p align="center"><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/11.19.20_NewUnitAnnouncement.pdf" target="_blank">Read the full announcement by RDMLA co-leaders Elaine Martin and Rong Tang.</a></p>
 
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, and other professionals who work in a research-intensive environment throughout the world. 
