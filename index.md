@@ -7,7 +7,7 @@ redirect_from: /home/
 
 <h3 align="center">ANNOUNCEMENT!</h3>
   
-<span style="color:red"><p align="center">The RDMLA team is very proud to announce the launch of two new units - Unit 9: Delivering Data Management Training: a Guide to DatONE Resources is instructed by Dr. Amber Budden, Co-Leader of DataONE and Director of Learning and Outreach, National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara and Unit 10: Research Data Copyright, Licensing, and Privacy is lead by Scott Lapinski, Associate Director for Scholarly Communications and Open Science at the Countway Library of Medicine, Harvard Medical School. We are sure you will find these new units enjoyable with new resources and tools to add to your RDM toolkit!</p></span>
+<p align="center">The RDMLA team is very proud to announce the launch of two new units - Unit 9: Delivering Data Management Training: a Guide to DatONE Resources is instructed by Dr. Amber Budden, Co-Leader of DataONE and Director of Learning and Outreach, National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara and Unit 10: Research Data Copyright, Licensing, and Privacy is lead by Scott Lapinski, Associate Director for Scholarly Communications and Open Science at the Countway Library of Medicine, Harvard Medical School. We are sure you will find these new units enjoyable with new resources and tools to add to your RDM toolkit!</p>
 
 <p align="center"><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/11.19.20_NewUnitAnnouncement.pdf" target="_blank">Read the full announcement by RDMLA co-leaders Elaine Martin and Rong Tang.</a></p>
 
