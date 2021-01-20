@@ -92,9 +92,9 @@ redirect_from: /home/partners/
 <table>
   <tr><td rowspan="4" width="20%"><img src="/images/icons_logos/partner_institutions_logos/ntu-logo.png" alt="NTU Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Kuang-hua Chen.jpg" alt="Kuang-hua Chen Photo"></div><div><b>Kuang-hua Chen</b><br>Professor and University Librarian</div></td></tr>
-   <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Muh-Chyun Tang.jpg" alt="Muh-Chyun Tang Photo"></div><div><b>Muh-Chyun Tang</b><br> Professor and Associate University Librarian</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/person.png" alt=“-“></div><div><b>Chiu-Hsun Lin</b><br> Translation Project Assistant</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/person.png" alt=“-“></div><div><b>Ching-Yi Lai</b><br>Translation Project Assistant</div></td></tr>
+   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Muh-Chyun Tang.jpg" alt="Muh-Chyun Tang Photo"></div><div><b>Muh-Chyun Tang</b><br> Professor and Associate University Librarian</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/person.png" alt="Blank Photo"></div><div><b>Chiu-Hsun Lin</b><br> Translation Project Assistant</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/person.png" alt="Blank Photo"></div><div><b>Ching-Yi Lai</b><br>Translation Project Assistant</div></td></tr>
 </table>
 
 #### RDMLA Staff
