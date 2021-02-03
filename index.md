@@ -5,9 +5,9 @@ redirect_from: /home/
 
 <p align="center"><img src="images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLA Logo"></p> <br>
 
-<h3 align="center">ANNOUNCEMENT - New Units Are LIVE!</h3>
+<h3 align="center">ANNOUNCEMENT - New Unit Arriving February 5th!</h3>
   
-<p align="center">The RDMLA team is very proud to announce that the final addition of our three new units, Unit 11: Data Curation and Archiving, will launch on FRIDAY, FEBRUARY 5th! We are sure you will find the new unit a benefical new resources that will add tools to your RDM toolkit!</p>
+<p align="center">The RDMLA team is very proud to announce that the final addition of our three new units, Unit 11: Data Curation and Archiving, will launch on **FRIDAY, FEBRUARY 5th!** We are sure you will find the new unit a benefical new resources that will add tools to your RDM toolkit!</p>
 
 <p align="center"><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/Unit 11 Launch Announcement.pdf" target="_blank">Read the full announcement by RDMLA co-leaders Elaine Martin and Rong Tang.</a></p>
 
