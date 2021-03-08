@@ -10,11 +10,30 @@ redirect_from: /home/events/
 Be sure to add us to your calendars and say hello!
 <br>
 
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/ischools.jpg" alt="iconference Logo"></td>
+     <td rowspan="1" width="30%"><div><b>iConference (Virtual/Beijing, China)<br> March 25, 2021 | 11:00 to 12:30 ET (UTC-4)</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Elsevier Sponsored Special Presentation<br>Slides Forthcoming</b></div></td></tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/mla.png" alt="MLA Logo"></td>
+    <td rowspan="1" width="30%"><div><b>MLA Conference (Virtual)<br> May 10-21, 2021</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Poster Presentation<br>Poster Forthcoming</b></div></td></tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/EAHIL.jpg" alt="EAHIL Logo"></td>
+    <td rowspan="1" width="30%"><div><b>EAHIL2021 (Virtual/Istanbul, Turkey)<br> July 5-8, 2021</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Panel Presentation<br>Slides Forthcoming</b></div></td></tr>
+</table>
+
 #### Recent RDMLA Presentations
 
 The RDMLA team has presented at the following conferences.
 <br>
 
+#### 2020 Events
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/alise.png" alt="ALISE Logo"></td>
@@ -34,6 +53,7 @@ The RDMLA team has presented at the following conferences.
     <td rowspan="1" width="30%"><div><b>MLA (Virtual)<br> August 10, 2020 (Live Virtual Presentation)</b></div></td>
     <td rowspan="1" width="30%"><div><b>Presentation<br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2020/2020MLA_Elsevier presentation_MartinTang_Final.pdf" target="_blank">Click for Slides</a></b></div></td></tr>
 </table>
+
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/alcts_logo.png" alt="ALA ALCTS Logo"></td>
     <td rowspan="1" width="30%"><div><b>ALCTS Webinar (Virtual) <br> May 27, 2020</b></div></td>
