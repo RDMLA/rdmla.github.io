@@ -11,8 +11,20 @@ Be sure to add us to your calendars and say hello!
 <br>
 
 <table>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/NEASIST-RDMLA-Webinar_twitter.png" alt="NEASIST Logo"></td>
+    <td rowspan="1" width="30%"><div><b>NEASIS&T Live Webinar (Virtual)<br> May 6, 2021 | 11:30 a.m. to 12:30 p.m. EDT</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Webinar Presentation<br> Slides Forthcoming<br> <a href="https://www.eventbrite.com/e/establishing-a-global-community-of-practice-in-research-data-management-registration-151471163327" target="_blank">EVENTBRIGHT REGISTRATION LINK</a></b></div></td></tr>
+</table>
+
+<table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/mla.png" alt="MLA Logo"></td>
     <td rowspan="1" width="30%"><div><b>MLA Conference (Virtual)<br> May 10-21, 2021</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Poster Presentation<br>Poster Forthcoming</b></div></td></tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/ala.jpg" alt="ALA Logo"></td>
+    <td rowspan="1" width="30%"><div><b>ALA Conference (Virtual)<br> June 23-29, 2021</b></div></td>
     <td rowspan="1" width="30%"><div><b>Poster Presentation<br>Poster Forthcoming</b></div></td></tr>
 </table>
 
@@ -32,6 +44,8 @@ The RDMLA team has presented at the following conferences.
      <td rowspan="1" width="30%"><div><b>iConference (Virtual/Beijing, China)<br> March 25, 2021 | 11:00 to 12:30 ET (UTC-4)</b></div></td>
     <td rowspan="1" width="30%"><div><b>Elsevier Sponsored Special Presentation<br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2021/iConference%202021%20Presentation%20-%20FINAL.pdf" target="_blank">Click for Slides</a><br>Course and Translation Live Demo<br><a href="https://vimeo.com/529405913" target="_blank">Click for Link</a></b></div></td></tr>
 </table>
+
+___
 
 #### 2020 Events
 
