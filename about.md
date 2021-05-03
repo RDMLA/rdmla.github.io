@@ -32,7 +32,4 @@ Between May and September 2018, the RDMLA Survey was distributed to relevant gro
 
 #### What's new for the RDMLA?
 
-***November 2020***: The RDMLA team is very proud to announce the launch of two new units on Monday, November 30, 2020! Unit 9: Delivering Data Management Training: a Guide to DatONE Resources is instructed by Dr. Amber Budden, Co-Leader of DataONE and Director of Learning and Outreach, National Center for Ecological Analysis and Synthesis, University of California, Santa Barbara. Unit 10: Research Data Copyright, Licensing, and Privacy is lead by Scott Lapinski, Associate Director for Scholarly Communications and Open Science at the Countway Library of Medicine, Harvard Medical School. We are sure you will find these new units enjoyable with new resources and tools to add to your RDM toolkit!
-<br>
-
-In Winter 2020/2021, another new unit, “Data Curation and Archiving,” taught by Dr. Adam Kriesberg, Associate Professor, Simmons University SLIS, will launch as Unit 11. Additionally, in late 2021, RDMLA plans to launch the Traditional Chinese language version of the course, which is being translated by National Taiwan University, in partnership with RDMLA.
+***May 2021***: In response to the acceleration of emerging RDM topics, the RDMLA team will begin introducing mini-modules - brief video lectures with open-access readings - that discuss trending and timely topics. The first mini-module, due to launch in July 2021, is being developed through new partnerships with the NIH and IUPUI, and will focus on the upcoming NIH policy for data management and sharing. Other topics under consideration include pre-prints, open access archives, and data and social justice.
