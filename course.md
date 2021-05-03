@@ -24,9 +24,7 @@ Currently, the course offers the following eleven units, plus the *optional* thr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unit 11: Data Curation and Archiving <br>
 
 
-<p align="center"><img src="/images/display-images/UnitBlocks.png" alt="RDMLA Unit Navigation Blocks"> <br>
-
+<p align="center"><img src="/images/display-images/UnitBlocks.png" alt="RDMLA Unit Navigation Blocks"></p>
+<br>
 
 ##### The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.
-
-    
