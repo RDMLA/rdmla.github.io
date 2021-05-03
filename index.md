@@ -5,12 +5,6 @@ redirect_from: /home/
 
 <p align="center"><img src="images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLA Logo"></p> <br>
 
-<h3 align="center">ANNOUNCEMENT - Unit 11: Data Curation and Archiving is LIVE</h3>
-  
-<p align="center">The RDMLA team is very proud to announce that our new unit - Unit 11: Data Curation and Archiving is now live on the <a href="https://learn.canvas.net/courses/2719" target="_blank">Canvas course homepage</a>. We are sure you will find these new units enjoyable with new resources and tools to add to your RDM toolkit!</p>
-
-<p align="center"><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/Unit 11 Launch Announcement.pdf" target="_blank">Read the full announcement by RDMLA co-leaders Elaine Martin and Rong Tang.</a></p>
-
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, and other professionals who work in a research-intensive environment throughout the world. 
 
 RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. Partner institutions include: Harvard Medical School, Harvard Library, Simmons University, Boston University, Brown University, Massachusettes College of Pharmancy and Health Sciences University, Northeastern University, and Tufts University. RDMLA is financially sponsored by Elsevier.
@@ -19,8 +13,8 @@ RDMLA features a unique partnership between a LIS academic program, academic hea
 
 **<a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/RDMLA_Factsheet_July2020.pdf" target="_blank">Download the RDMLA Factsheet for your quick reference.</a>** <br>
 <br>
-<p align="center"><img src="/images/display-images/learnerlocation_102720.png" alt="Map of Student Locations"></p>
-<h6 align="center"><em>Registered Students: 4,271  |  Successful CE: 25</em> (updated: 10.22.2020)</h6>
+<p align="center"><img src="/images/display-images/learnerregionmap_05.03.21.png" alt="Map of Student Locations"></p>
+<h6 align="center"><em>Registered Students: 5,060  |  Successful CE: 39</em> (updated: May 3, 2021)</h6>
 
 The RDMLA curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. The curriculum features eight, online, and self-paced learning units that cover topics such as the foundations of research data management, research culture, advocating and marketing for RDM services, project management, overview of research data management tools, etc. <br>
 
