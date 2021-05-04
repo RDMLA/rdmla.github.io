@@ -79,8 +79,8 @@ redirect_from: /home/partners/
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/dataone.png" alt="DataONE Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Amber-Budden.jpeg" alt="Amber Budden Photo"></div><div><b>Amber Budden</b><br> Director for Community Engagement and Outreach</div></td></tr>
   </table>
-
-<table>
+ 
+ <table>
  <tr><td rowspan="2" width="20%"><img src="/images/icons_logos/partner_institutions_logos/NIH_logo.png" alt="National Institutes of Health Logo"></td>
  <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/taunton_paine.jpeg" alt="Taunton Paine Photo"></div><div><b>Taunton Paine</b><br> Director, Scientific Data Sharing Policy Division</div></td></tr>
  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/cindy_danielson.jpg" alt="Cindy Danielson Photo"></div><div> <b>Cindy Danielson</b><br> Health Science Policy Analyst, Division of Data Systems and Data Quality</div></td></tr>
