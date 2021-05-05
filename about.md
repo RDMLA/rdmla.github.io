@@ -10,7 +10,7 @@ redirect_from: /home/about/
 
 #### What is the RDMLA?
 
-The Research Data Management Academy (RDMLA) is a global, free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment. The curriculum focuses on the knowledge and skills needed to collaborate with researchers and other stakeholders on data management. RDMLA features a unique partnership between a library and information science academic program, six academic health sciences and research libraries, and one publisher. All of the content is hosted on Canvas Network, freely available, and open for reuse under a **CC-BY-NC-SA** license.
+The Research Data Management Academy (RDMLA) is a global, free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment. The curriculum focuses on the knowledge and skills needed to collaborate with researchers and other stakeholders on data management. RDMLA features a unique partnership between a library and information science academic program, academic health sciences and research libraries, and industry publisher. All of the content is hosted on Canvas Network, freely available, and open for reuse under a **CC-BY-NC-SA** license.
 
 <br>
 
