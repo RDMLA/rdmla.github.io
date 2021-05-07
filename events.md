@@ -13,7 +13,7 @@ Be sure to add us to your calendars and say hello!
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/NEASIST.jpeg" alt="NEASIST Logo"></td>
     <td rowspan="1" width="30%"><div><b>NEASIS&T Live Webinar (Virtual)<br> May 6, 2021 | 11:30 a.m. to 12:30 p.m. EDT</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Webinar Presentation<br> Slides Forthcoming<br> <a href="https://www.eventbrite.com/e/establishing-a-global-community-of-practice-in-research-data-management-registration-151471163327" target="_blank">EVENTBRIGHT REGISTRATION LINK</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Webinar Presentation<br> Slides Forthcoming</b></div></td></tr>
 </table>
 
 <table>
