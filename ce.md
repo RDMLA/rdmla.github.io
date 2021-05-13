@@ -22,3 +22,15 @@ Test takers will have two attempts, per paid fee, to pass the test. To pass, lea
 For those students who earn the three CE credits from SLIS will receive their certificate via email 48 to 72 hours after their test.
 
 We wish you the best of luck as you pursue the CE credits and in your future RDM endeavors!
+
+**CE UPDATE:** In Summer 2021, the RDMLA will be expanding their optional CE test offerings! More information will be available soon.
+
+__
+
+<p align="center"><img src="/images/display-images/RDMLA+MLA Logos - 450px.png" alt="RDMLA and MLA Logos"></p> <br>
+
+The RDMLA is proud to be an approved course for the basic level of the Medical Library Assocation's (MLA) Data Services Specialization (DSS)! 
+
+Interested learners can either: 1) take the **entire** RDMLA course for 16.5 credits acorss all five of the DSS skill areas; OR 2) take **individual** RDMLA course units for 1.5 credits in one of the DSS skill areas. Learners can recieve credit for their work by simply submitting their unit and/or course completion badge/s with your specialization completion application.
+
+For more information, please visit the <a href="https://www.mlanet.org/p/cm/ld/fid=1792" target="_blank">DSS page</a> on the MLA's website.
