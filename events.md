@@ -13,13 +13,13 @@ Be sure to add us to your calendars and say hello!
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/NEASIST.jpeg" alt="NEASIST Logo"></td>
     <td rowspan="1" width="30%"><div><b>NEASIS&T Live Webinar (Virtual)<br> May 6, 2021 | 11:30 a.m. to 12:30 p.m. EDT</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Webinar Presentation<br><a href="rdmla.github.io/images/presentations/2021/NEASIS&T RDMLA Webinar Slideshow_05-06-2021.pdf" target="_blank">Click for Slides</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Webinar Presentation<br><a href="https://rdmla.github.io/images/presentations/2021/NEASIS&T RDMLA Webinar Slideshow_05-06-2021.pdf" target="_blank">Click for Slides</a></b></div></td></tr>
 </table>
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/mla.png" alt="MLA Logo"></td>
     <td rowspan="1" width="30%"><div><b>MLA Conference (Virtual)<br> May 10-21, 2021</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Poster Presentation<br><a href="rdmla.github.io/images/presentations/2021/RDMLA_poster_MLA21.pdf" target="_blank">Click for Poster</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Poster Presentation<br><a href="https://rdmla.github.io/images/presentations/2021/RDMLA_poster_MLA21.pdf" target="_blank">Click for Poster</a></b></div></td></tr>
 </table>
 
 <table>
