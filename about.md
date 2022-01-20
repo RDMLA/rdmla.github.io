@@ -10,7 +10,7 @@ redirect_from: /home/about/
 
 #### What is the RDMLA?
 
-The Research Data Management Academy (RDMLA) is a global, free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment. The curriculum focuses on the knowledge and skills needed to collaborate with researchers and other stakeholders on data management. RDMLA features a unique partnership between a library and information science academic program, academic health sciences and research libraries, and industry publisher. All of the content is hosted on Canvas Network, freely available, and open for reuse under a **CC-BY-NC-SA** license.
+The Research Data Management Academy (RDMLA) is a global, free online professional development program for librarians, information professionals, or other professionals who work in a research-intensive environment. The curriculum focuses on the knowledge and skills needed to collaborate with researchers and other stakeholders on data management. RDMLA features a unique partnership between a library and information science academic program, academic health sciences and research libraries, and information analytics company. All of the content is hosted on Canvas Network, freely available, and open for reuse under a **CC-BY-NC-SA** license.
 
 <br>
 
@@ -32,4 +32,4 @@ Between May and September 2018, the RDMLA Survey was distributed to relevant gro
 
 #### What's new for the RDMLA?
 
-***May 2021***: In response to the acceleration of emerging RDM topics, the RDMLA team will begin introducing mini-modules - brief video lectures with open-access readings - that discuss trending and timely topics. The first mini-module, due to launch in July 2021, is being developed through new partnerships with the NIH and IUPUI, and will focus on the upcoming NIH policy for data management and sharing. Other topics under consideration include pre-prints, open access archives, and data and social justice.
+***January 2022***: The first eight units have been translated into Traditional Chinese and are available on the Canvas Network! Our second mini-module, "Data Ethics in Health Sciences," will launch at the end of January. Lastly, please join us for the inaugural RDMLA Symposium on Friday, April 22, 2022!
