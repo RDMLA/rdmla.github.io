@@ -22,6 +22,8 @@ Be sure to add us to your calendars and say hello!
     <td rowspan="1" width="30%"><div><b>Click for More Information<br><a href="https://rdmlasymposium.github.io/" target="_blank">Symposium Website</a></b></div></td></tr>
 </table>
 
+___
+
 #### Recent RDMLA Presentations
 
 The RDMLA team has presented at the following conferences.
