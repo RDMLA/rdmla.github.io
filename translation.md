@@ -5,4 +5,4 @@ permalink: /translation/
 redirect_from: /home/translation/
 ---
 
-#### Upcoming Events
+<p align="center"><img src="/images/display-images/RDMLA+NTU.png" alt="RDMLA and NTU Logos"></p> <br>
