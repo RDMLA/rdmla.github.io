@@ -12,7 +12,6 @@ RDMLA features a unique partnership between a LIS academic program, academic hea
 Partner institutions include: Harvard Medical School, Harvard Library, Simmons University, Boston University, Brown University, MCPHS, Northeastern University, Tufts University, DataONE, National Taiwan University Library, National Institutes of Health, and Indiana University-Purdue University Indianapolis. 
 
 RDMLA is financially sponsored by Elsevier.
-
 <br>
 
 **<a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/RDMLA Quick Fact Sheet_05-05-21.pdf" target="_blank">Download the RDMLA Factsheet for your quick reference.</a>** <br>
@@ -33,7 +32,7 @@ __
 <h4><b>Access the RDMLA Course</b></h4>
 Ready to join the RDMLA community? Register and access the course <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management" target="_blank">here</a>.
 
-Register and access 研究資料管理圖書館員課程［RDMLA中文版］<a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management-librarian-academy-rdmla--" target="_blank">here</a>.
+Register and access 研究資料管理圖書館員課程［RDMLA中文版] <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management-librarian-academy-rdmla--" target="_blank">here</a>.
 <br>
 <h4><b>Contact Us</b></h4>
 Interested in learning more or have questions about RDMLA? <a href="https://rdmla.github.io/contact/">Contact us</a>!
