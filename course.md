@@ -9,7 +9,6 @@ The RDMLA curriculum focuses on the essential knowledge and skills needed to col
 <br>
 
 <p align="center"><img src="/images/display-images/units and mini mods.png" alt="RDMLA Unit and Mini Modules Navigation Blocks"></p>
-<br>
 
 Currently, the course offers eleven units. Each unit features video lectures, exercises, assessments and additional resources. 
 <br>
@@ -26,8 +25,7 @@ Currently, the course offers eleven units. Each unit features video lectures, ex
   - Unit 10: Research Data Copyright, Licensing, and Privacy
   - Unit 11: Data Curation and Archiving <br>
 
-<p align="center"><img src="/images/display-images/UnitBlocks.png" alt="RDMLA Unit Navigation Blocks"></p>
-<br>
+<p align="center"><img src="/images/display-images/navigation blocks.png" alt="RDMLA Unit Navigation Blocks"></p>
 
 In July 2021, the RDMLA began to offer RDM trending topics mini-modules. Mini-Modules feature short video lectures with corresponding open-source resources that examine subject areas and emerging topics of research data management. 
 
@@ -37,7 +35,6 @@ Mini-modules are different from their full unit counterparts in that they only c
   - NIH Policy for Data Management and Sharing
   - Research Data Ethics in Health Sciences <br>
 
-<p align="center"><img src="/images/display-images/MiniModBlocks.png" alt="RDMLA Mini-Modules Navigation Blocks"></p>
-
+<p align="center"><img src="/images/display-images/mini module navigation blocks.png" alt="RDMLA Mini-Modules Navigation Blocks"></p>
 
 ##### The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.
