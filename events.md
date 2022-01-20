@@ -13,7 +13,7 @@ Be sure to add us to your calendars and say hello!
 <table>
   <tr><td rowspan="1" width="20%"></td>
     <td rowspan="1" width="30%"><div><b>CALA - Canada Chapter Annual Meeting (Virtual)<br> February 2, 2022</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation<br>Slides Forthcoming</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>Presentation<br>Slides Forthcoming</b></div></td></tr>
 </table>
 
 <table>
