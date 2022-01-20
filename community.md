@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Community
-permalink: /partners/
-redirect_from: /home/partners/
+permalink: /community/
+redirect_from: /home/community/
 ---
 
 #### RDMLA Leadership
