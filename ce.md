@@ -15,7 +15,7 @@ Interested parties **need** to:
 1. Have completed all eight units in the course
 2. Pay the $50 USD CE administrative fee
 
-The test comprises of 25 questions based on the materials discussed in the course units. Students will have 90 minutes to complete the test. 
+The test comprises of 25 questions based on the materials discussed in the first eight course units. Students will have 90 minutes to complete the test. 
 
 Test takers will have two attempts, per paid fee, to pass the test. To pass, learners need to receive a 75% or higher. Those who successfully pass the test will receive a certificate from Simmons SLIS recognizing their three (3) continuing education credits in the subject of research data management.
 
