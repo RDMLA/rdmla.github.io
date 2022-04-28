@@ -5,8 +5,6 @@ redirect_from: /home/
 
 <p align="center"><img src="images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLA Logo"></p> <br>
 
-<p style="color:red;" align="center">Join us for the virtual **RDMLA Symposium 2022** on Friday, April 22, 2022! Visit the <a href="https://rdmlasymposium.github.io/" target="_blank">Symposium website</a> for information on registration and how to participate in this exciting event!</p>
-
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, and other professionals who work in a research-intensive environment throughout the world. 
 
 RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. 
