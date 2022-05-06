@@ -14,7 +14,7 @@ redirect_from: /home/community/
 
 <table>
 <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Rong-Tang.jpg" alt="Rong Tang Photo"></div><div><b>Rong       Tang</b><br> Associate Professor & Director of SLIS PhD Program</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Rong-Tang.jpg" alt="Rong Tang Photo"></div><div><b>Rong       Tang</b><br> Professor & Director of SLIS PhD Program</div></td></tr>
 </table>
 
 <table>
