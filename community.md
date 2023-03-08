@@ -19,7 +19,7 @@ redirect_from: /home/community/
 
 <table>
 <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Gwen_Evans.jpg" alt="Gwen Evans Photo"></div><div><b>Gwen Evans</b><br> Vice President, Global Library Relations</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/EmilySingley_Photo.jpg" alt="Emily Singley Photo"></div><div><b>Emily Singley</b><br> Vice President, North American Library Relations</div></td></tr>
 </table>
  
 #### RDMLA Faculty 
@@ -129,8 +129,9 @@ redirect_from: /home/community/
 <h4>Former Community Members</h4>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
+  <tr><td rowspan="2" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Jean-Shipman.jpg" alt="Jean Shipman Photo"></div><div><b>Jean P. Shipman</b><br> Vice President, Global Library Relations (retired)<br> (RDMLA Leadership)</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Gwen_Evans.jpg" alt="Gwen Evans Photo"></div><div><b>Gwen Evans</b><br> Vice President, Global Library Relations</div></td></tr>
   </table>
   
 <table>
