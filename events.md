@@ -11,15 +11,21 @@ Be sure to add us to your calendars and say hello!
 <br>
 
 <table>
-  <tr><td rowspan="1" width="20%"></td>
-    <td rowspan="1" width="30%"><div><b>CALA - Canada Chapter Annual Meeting (Virtual)<br> February 2, 2022</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation<br>Slides Forthcoming</b></div></td></tr>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/asist23_logo.jpeg" alt="ASIS&T 23 Logo"></td>
+    <td rowspan="1" width="30%"><div><b>ASIS&T Annual Conference - London, England<br> October 29, 2023 | 12:45 to 1:45 p.m. GMT</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Click for More Information<br><a href="https://www.asist.org/am23/2023-product-theater/" target="_blank">Product Theater</a></b></div></td></tr>
 </table>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/presentations/2022/rdmlasymposium_logo_600px.png" alt="RDMLA Symposium Logo"></td>
-    <td rowspan="1" width="30%"><div><b>RDMLA Symposium (Virtual)<br> April 22, 2022 | 10:00 a.m. to 4:30 p.m. ET</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Click for More Information<br><a href="https://rdmlasymposium.github.io/" target="_blank">Symposium Website</a></b></div></td></tr>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/MLASLA23.png" alt="MLA|SLA 23 Logo"></td>
+    <td rowspan="1" width="30%"><div><b>MLA | SLA Annual Meeting - Detroit<br> May 18, 2023 | 1:30 to 3:00 p.m. EDT</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Program Description Presentation<br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/Thomas_DSCPE_MLA23_Presentation.pdf" target="_blank">Presentation Slides</a></b></div></td></tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/ischools.jpg" alt="iSchools Logo"></td>
+    <td rowspan="1" width="30%"><div><b>iConference - Barcelona, Spain<br> March 27, 2023 | 2:00 to 3:30 p.m. CET</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Workshop<br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/2023%20iConference%20workshop_data%20competencies.pdf" target="_blank">Presentation Slides</a></b></div></td></tr>
 </table>
 
 ___
@@ -28,6 +34,15 @@ ___
 
 The RDMLA team has presented at the following conferences.
 <br>
+
+#### 2022 Events
+
+  - RDMLA Symposium (April 22, 2022) - Virtual one-day symposium
+    - <a href="https://osf.io/meetings/RDMLA2022?view_only=" target="_blank">Symposium Presentations OSF</a>
+
+  - CALA - Canada Chapter Annual Meeting (February 2, 2022) - Presentation
+    - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2022/RDMLA-CALA%20presentation.pdf" target="_blank">Presentation Slides</a>
+___
 
 #### 2021 Events
 
