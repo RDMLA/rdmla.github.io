@@ -17,4 +17,4 @@ During the post-translation joint meeting, the RDMLA review team and the NTU tra
 
 <p align="center"><img src="/images/display-images/Chinese Navigation Blocks.png" alt="Chinese Navigation Blocks"></p> 
 
-Currently, the Chinese version of RDMLA consists of eight units, focusing on the knowledge and skills needed to collaborate with researchers and other stakeholders on data management. Units 9, 10, and 11 are currently under translation and are expected to be made available in Spring 2022.
+The Chinese version of RDMLA consists of all eleven units, focusing on the knowledge and skills needed to collaborate with researchers and other stakeholders on data management.
