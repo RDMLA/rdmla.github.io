@@ -24,7 +24,7 @@ The RDMLA curriculum focuses on the essential knowledge and skills needed to col
 
 In response to student inquiries and requests, RDMLA partnered with the School of Library and Information Science (SLIS) at Simmons University, to provide an optional offering of three (3) continuing education credits. 
 
-In early 2020, in order to reach a broader learner community, the RDMLA team established a translation partnership with National Taiwan University (NTU) Library. The international collaboration shares the purpose of providing equitable access to education materials, not only to NTU’s patrons, but to the larger Chinese-speaking population. At present, Units 1 through 8 are translated and available on the Chinese translation here. Units 9 through 11 will be available in Spring/Summer 2022.
+In early 2020, in order to reach a broader learner community, the RDMLA team established a translation partnership with National Taiwan University (NTU) Library. The international collaboration shares the purpose of providing equitable access to education materials, not only to NTU’s patrons, but to the larger Chinese-speaking population. As of Summer 2022, all 11 units of the RDMLA are translated and available on the Chinese translation here.
 <br>
 
 __
