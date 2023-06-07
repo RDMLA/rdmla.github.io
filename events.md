@@ -13,7 +13,7 @@ Be sure to add us to your calendars and say hello!
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/asist23_logo.jpeg" alt="ASIS&T 23 Logo"></td>
     <td rowspan="1" width="30%"><div><b>ASIS&T Annual Conference - London, England<br> October 29, 2023 | 12:45 to 1:45 p.m. GMT</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Click for More Information<br><a href="https://www.asist.org/am23/2023-product-theater/" target="_blank">Product Theater</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>More Information<br><a href="https://www.asist.org/am23/2023-product-theater/" target="_blank">Product Theater</a></b></div></td></tr>
 </table>
 
 <table>
