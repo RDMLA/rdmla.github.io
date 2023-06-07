@@ -42,6 +42,7 @@ The RDMLA team has presented at the following conferences.
 
   - CALA - Canada Chapter Annual Meeting (February 2, 2022) - Presentation
     - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2022/RDMLA-CALA%20presentation.pdf" target="_blank">Presentation Slides</a>
+
 ___
 
 #### 2021 Events
