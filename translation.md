@@ -15,6 +15,6 @@ The translation effort was initiated by a joint meeting in February 2020, to dis
 
 During the post-translation joint meeting, the RDMLA review team and the NTU translation team discuss issues occurring in the translation and reach an agreement for the best practices in translation. Given the expectation that the translated course will be usable by all Chinese speaking learners, including in Taiwan and other areas that use traditional fonts, and in Mainland China, which uses simplified Chinese, both teams agreed to include a glossary table at the beginning of each unit to list frequently used terms. The table shows the original English term and the term translated in traditional and simplified Chinese. <br>
 
-<p align="center"><img src="/images/display-images/Chinese Navigation Blocks.png" alt="Chinese Navigation Blocks"></p> 
+<p align="center"><img src="/images/display-images/Chinese Unit Blocks.png" alt="Chinese Navigation Blocks"></p> 
 
 The Chinese version of RDMLA consists of all eleven units, focusing on the knowledge and skills needed to collaborate with researchers and other stakeholders on data management.
