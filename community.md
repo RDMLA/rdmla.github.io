@@ -122,7 +122,7 @@ redirect_from: /home/community/
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/person.png" alt="No Photo Person Outline"></div><div> <b>Shabnam Shahvar</b><br> Project Research Assistant</div></td></tr>
 </table>
 
-<h4>Former Community Members</h4>
+#### Former Community Members
 
 <table>
   <tr><td rowspan="2" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
