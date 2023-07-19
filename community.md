@@ -117,7 +117,7 @@ redirect_from: /home/community/
 #### RDMLA Staff
 
 <table>
- <tr><td rowspan="3" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
+  <tr><td rowspan="3" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Perry.png" alt="Perry Weidling Photo"></div><div> <b>Perry Weidling</b><br> RDMLA Librarian</div> 
  </td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/person.png" alt="No Photo Person Outline"></div><div> <b>Shabnam Shahvar</b><br> Project Research Assistant</div></td></tr>
@@ -132,7 +132,7 @@ redirect_from: /home/community/
   </table>
   
 <table>
-  <tr><td rowspan="7" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo"></td>
+  <tr><td rowspan="6" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Kristen Palson.jpg" alt="Kristen Palson Photo"></div><div><b>Kristen Palson</b><br>Assistant VP, Simmons Online<br> (RDMLA Course Development)
 </div></td></tr>
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/madhu narayan.jpg" alt="Madhu Narayan Photo"></div><div><b>Madhu Narayan</b><br> Instructional Designer, Simmons Online<br> (RDMLA Course Development)</div></td></tr>
@@ -142,5 +142,9 @@ redirect_from: /home/community/
 </div></td></tr>
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Nicole_Henry copy.jpg" alt="Nicole Henry Photo"></div><div><b>Nicole Henry</b><br> Project Assistant<br> (RDMLA Staff)</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/zhan-hu.png" alt="Zhan Hu Photo"></div><div><b>Zhan Hu</b><br> Project Coordinator<br> (RDMLA Staff)</div></td></tr>
-  <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/ashley-thomas.jpg" alt="Ashley Thomas Photo"></div><div> <b>Ashley Thomas</b><br> Digital Initiatives and Accessibility Librarian/RDMLA Coordinator, Countway Library</div></td></tr>
+</table>
+
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
+     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/ashley-thomas.jpg" alt="Ashley Thomas Photo"></div><div> <b>Ashley Thomas</b><br> Digital Initiatives and Accessibility Librarian/RDMLA Coordinator, Countway Library</div></td></tr>
 </table>
