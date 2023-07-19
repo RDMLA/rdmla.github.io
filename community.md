@@ -118,7 +118,8 @@ redirect_from: /home/community/
 
 <table>
  <tr><td rowspan="3" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
-   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Perry.png" alt="Perry Weidling Photo"></div><div> <b>Perry Weidling</b><br> RDMLA Librarian</div></td></tr>
+   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Perry.png" alt="Perry Weidling Photo"></div><div> <b>Perry Weidling</b><br> RDMLA Librarian</div> 
+ </td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/person.png" alt="No Photo Person Outline"></div><div> <b>Shabnam Shahvar</b><br> Project Research Assistant</div></td></tr>
 </table>
 
