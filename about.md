@@ -30,6 +30,3 @@ Between May and September 2018, the RDMLA Survey was distributed to relevant gro
 
 <br>
 
-#### What's new for the RDMLA?
-
-***January 2022***: The first eight units have been translated into Traditional Chinese and are available on the Canvas Network! Our second mini-module, "Data Ethics in Health Sciences," will launch at the end of January. Lastly, please join us for the inaugural RDMLA Symposium on Friday, April 22, 2022!
