@@ -16,7 +16,7 @@ RDMLA is financially sponsored by Elsevier.
 
 **<a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/RDMLA Quick Fact Sheet_05-05-21.pdf" target="_blank">Download the RDMLA Factsheet for your quick reference.</a>** <br>
 <br>
-<p align="center"><img src="images/display-images/learnermap_01-20-22.png" alt="Map of Student Locations"></p>
+
 
 The RDMLA curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. The curriculum features eleven, online, and self-paced learning units and two mini-modules. <br>
 
@@ -24,7 +24,7 @@ The RDMLA curriculum focuses on the essential knowledge and skills needed to col
 
 In response to student inquiries and requests, RDMLA partnered with the School of Library and Information Science (SLIS) at Simmons University, to provide an optional offering of three (3) continuing education credits. 
 
-In early 2020, in order to reach a broader learner community, the RDMLA team established a translation partnership with National Taiwan University (NTU) Library. The international collaboration shares the purpose of providing equitable access to education materials, not only to NTU’s patrons, but to the larger Chinese-speaking population. As of Summer 2022, all 11 units of the RDMLA are translated and available on the Chinese translation here.
+In order to reach a broader learner community, the RDMLA team established a translation partnership with National Taiwan University (NTU) Library. The international collaboration shares the purpose of providing equitable access to education materials, not only to NTU’s patrons, but to the larger Chinese-speaking population. All 11 units of the RDMLA are translated and available on the Chinese translation here.
 <br>
 
 __
