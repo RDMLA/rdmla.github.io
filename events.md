@@ -11,21 +11,15 @@ Be sure to add us to your calendars and say hello!
 <br>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/asist23_logo.jpeg" alt="ASIS&T 23 Logo"></td>
-    <td rowspan="1" width="30%"><div><b>ASIS&T Annual Conference - London, England<br> October 29, 2023 | 12:45 to 1:45 p.m. GMT</b></div></td>
-    <td rowspan="1" width="30%"><div><b>More Information<br><a href="https://www.asist.org/am23/2023-product-theater/" target="_blank">Product Theater</a></b></div></td></tr>
-</table>
-
-<table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/MLASLA23.png" alt="MLA|SLA 23 Logo"></td>
-    <td rowspan="1" width="30%"><div><b>MLA | SLA Annual Meeting - Detroit<br> May 18, 2023 | 1:30 to 3:00 p.m. EDT</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Program Description Presentation<br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/Thomas_DSCPE_MLA23_Presentation.pdf" target="_blank">Presentation Slides</a></b></div></td></tr>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/MLA24.png" alt="MLA 24 Logo"></td>
+    <td rowspan="1" width="30%"><div><b>MLA Annual Conference - Portland<br> May 18-21 2024</b></div></td>
+    <td rowspan="1" width="30%"><div><b>Details to Come<br></b></div></td></tr>
 </table>
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/ischools.jpg" alt="iSchools Logo"></td>
-    <td rowspan="1" width="30%"><div><b>iConference - Barcelona, Spain<br> March 27, 2023 | 2:00 to 3:30 p.m. CET</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Workshop<br><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/2023%20iConference%20workshop_data%20competencies.pdf" target="_blank">Presentation Slides</a></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>iConference - Changchun, China<br> April 22-26 2024 </b></div></td>
+    <td rowspan="1" width="30%"><div><b>Presentation Details to Come<br></b></div></td></tr>
 </table>
 
 ___
@@ -35,6 +29,18 @@ ___
 The RDMLA team has presented at the following conferences.
 <br>
 
+#### 2023 Events
+
+  - ASIS&T Annual Meeting (October 29, 2023) - Product Theater
+    - <a href="https://www.asist.org/am23/2023-product-theater/" target="_blank">Product Theater</a>
+
+  - MLA | SLA Annual Meeting (May 18, 2023) – Presentation
+    - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/Thomas_DSCPE_MLA23_Presentation.pdf" target="_blank">Presentation Slides</a>
+
+  - iSchools iConference (March 27, 2023) – Workshop
+    - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/2023%20iConference%20workshop_data%20competencies.pdf" target="_blank">Presentation Slides</a>
+
+___
 #### 2022 Events
 
   - RDMLA Symposium (April 22, 2022) - Virtual one-day symposium
