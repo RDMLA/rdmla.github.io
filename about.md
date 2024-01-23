@@ -25,7 +25,7 @@ RDMLA is essential to gain efficiencies, meet growing RDM needs, and address the
 
 #### How did RDMLA determine librarians RDM training/skill needs?
 
-Between May and September 2018, the RDMLA Survey was distributed to relevant groups via email, a Library Connect blog post, listservs, and word of mouth. The 19 question survey gauged general perceptions, particularly from librarians worldwide, about RDM and RDM training.
+A survey was distributed to relevant groups via email, a Library Connect blog post, listservs, and word of mouth. The 19 question survey gauged general perceptions, particularly from librarians worldwide, about RDM and RDM training.
 <p align="center"><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/RDMLA-Report.pdf"><em>Survey Report</em></a>  |  <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/Training.pdf"><em>Training Inventory</em></a>  |  <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/Publications.pdf"><em>Publication Inventory</em></a></p>
 
 <br>
