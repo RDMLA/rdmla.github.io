@@ -23,8 +23,6 @@ For those students who earn the three CE credits from SLIS will receive their ce
 
 We wish you the best of luck as you pursue the CE credits and in your future RDM endeavors!
 
-**CE UPDATE:** In Summer 2021, the RDMLA will be expanding their optional CE test offerings! More information will be available soon.
-
 __
 
 <p align="center"><img src="/images/display-images/RDMLA+MLA Logos - 450px.png" alt="RDMLA and MLA Logos"></p> <br>
