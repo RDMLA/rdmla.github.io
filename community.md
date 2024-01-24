@@ -35,7 +35,7 @@ redirect_from: /home/community/
 #### RDMLA is made possible through contributions from the following institutions. 
 
 <table>
-  <tr><td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/boston-university.png" alt="BU Logo"</td>
+  <tr><td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/boston-university.png" alt="BU Logo"></td>
     <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/brown-logo.png" alt="Brown University Logo"></td>
     <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/dataone.png" alt="DataONE Logo"></td></tr>
 </table>
