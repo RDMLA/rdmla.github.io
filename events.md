@@ -34,6 +34,9 @@ The RDMLA team has presented at the following conferences.
   - ASIS&T Annual Meeting (October 29, 2023) - Product Theater
     - <a href="https://www.asist.org/am23/2023-product-theater/" target="_blank">Product Theater</a>
 
+  - ALISE 2023 Annual Conference (October 3, 2023) – Presentation
+    - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/2023_ALISE_Juried_Paper_Presentation.pdf" target="_blank">Presentation Slides</a>
+
   - MLA SLA Annual Meeting (May 18, 2023) – Presentation
     - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/Thomas_DSCPE_MLA23_Presentation.pdf" target="_blank">Presentation Slides</a>
 
