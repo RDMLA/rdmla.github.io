@@ -12,8 +12,8 @@ Be sure to add us to your calendars and say hello!
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/ischools.jpg" alt="iSchools Logo"></td>
-    <td rowspan="1" width="30%"><div><b>iConference - Changchun, China<br> April 22-26, 2024 </b></div></td>
-    <td rowspan="1" width="30%"><div><b>Presentation Details to Come<br></b></div></td></tr>
+    <td rowspan="1" width="30%"><div><b>iConference - Changchun, China<br> April 24, 2024 | 10:30 a.m. to 12:00 p.m. CST </b></div></td>
+    <td rowspan="1" width="30%"><div><b>Details to Come<br></b></div></td></tr>
 </table>
 
 <table>
