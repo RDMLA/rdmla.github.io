@@ -33,8 +33,10 @@ Mini-modules are different from their full unit counterparts in that they only c
 <br>
 
   - NIH Policy for Data Management and Sharing
-  - Research Data Ethics in Health Sciences <br>
+  - Research Data Ethics in Health Sciences
+  - RDM in the Canadian Context
+  - Research Methods <br>
 
-<p align="center"><img src="/images/display-images/mini module navigation blocks.png" alt="RDMLA Mini-Modules Navigation Blocks"></p>
+<p align="center"><img src="/images/display-images/mini module navigation blocks 3.png" alt="RDMLA Mini-Modules Navigation Blocks"></p>
 
 ##### The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.
