@@ -14,7 +14,7 @@ redirect_from: /home/community/
 
 <table>
 <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Rong-Tang.jpg" alt="Rong Tang Photo"></div><div><b>Rong       Tang</b><br> Professor, Simmons University</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Rong-Tang.jpg" alt="Rong Tang Photo"></div><div><b>Rong Tang</b><br> Professor Emerita, Simmons University</div></td></tr>
 </table>
 
 <table>
@@ -26,10 +26,13 @@ redirect_from: /home/community/
 
 <table>
   <tr><td rowspan="2" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
-   <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Perry.png" alt="Perry Weidling Photo"></div><div> <b>Perry Weidling</b><br> RDMLA Librarian</div> 
+   <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/shabnams.png" alt="Shabnam Shahvar Photo"></div><div> <b>Shabnam Shahvar</b><br> Project Research Assistant | Technology Coordinator</div> 
  </td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/shabnams.png" alt="Shabnam Shahvar Photo"></div><div> <b>Shabnam Shahvar</b><br> Project Research Assistant</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/samanthafriedman1.png" alt="Samantha Friedman Photo"></div><div> <b>Samantha Friedman</b><br> Project Coordinator</div>
+  </td></tr>
 </table>
+
+
 
 
 
