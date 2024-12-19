@@ -45,9 +45,9 @@ redirect_from: /home/community/
 </table>
 
 <table>
-  <tr><td rowspan="2" width="15%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"  ></td>
-    <td rowspan="2" width="15%"><img src="/images/icons_logos/partner_institutions_logos/harvard-library.png" alt="Harvard Library Logo" ></td>
-    <td rowspan="2" width="15%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo" ></td></tr>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"  ></td>
+    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/harvard-library.png" alt="Harvard Library Logo" ></td>
+    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo" ></td></tr>
 </table>
 
 <table>
