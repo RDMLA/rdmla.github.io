@@ -22,7 +22,7 @@ redirect_from: /home/community/
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/EmilySingley_Photo.jpg" alt="Emily Singley Photo"></div><div><b>Emily Singley</b><br> Vice President, North American Library Relations</div></td></tr>
 </table>
  
-#### RDMLA Staff
+#### <b>RDMLA Staff</b>
 
 <table>
   <tr><td rowspan="2" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
