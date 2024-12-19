@@ -5,7 +5,7 @@ permalink: /community/
 redirect_from: /home/community/
 ---
 
-#### RDMLA Leadership
+#### <b>RDMLA Leadership</b>
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
@@ -36,7 +36,7 @@ redirect_from: /home/community/
 
 
 
-#### RDMLA is made possible through contributions from the following institutions. 
+#### <b>RDMLA is made possible through contributions from the following institutions.<B>
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/boston-university.png" alt="BU Logo" ></td>
