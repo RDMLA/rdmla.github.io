@@ -26,9 +26,9 @@ redirect_from: /home/community/
 
 <table>
   <tr><td rowspan="2" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
-   <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/shabnams.png" alt="Shabnam Shahvar Photo"></div><div> <b>Shabnam Shahvar</b><br> Project Research Assistant | Technology Coordinator</div> 
+   <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/shabnams.png" alt="Shabnam Shahvar Photo"></div><div> <b>Shabnam Shahvar</b><br> Project Research Assistant | Technology Coordinator, Countway Library </div> 
  </td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/SamanthaF1.png" alt="Samantha Friedman Photo"></div><div> <b>Samantha Friedman</b><br> Project Coordinator</div>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/SamanthaF1.png" alt="Samantha Friedman Photo"></div><div> <b>Samantha Friedman</b><br> Project Coordinator, Countway Library </div>
   </td></tr>
 </table>
 
