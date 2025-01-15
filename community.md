@@ -9,12 +9,12 @@ redirect_from: /home/community/
 
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Elaine-Martin.jpg" alt="Elaine Martin Photo"></div><div>     <b>Elaine Martin</b><br> Director and Chief Administrative Officer, Countway Library</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Elaine-Martin.jpg" alt="Elaine Martin Photo"></div><div>     <b>Elaine Martin</b><br> RDMLA/DSCPE Co-Leader | Director of Collaborative Initiatives, Countway Library</div></td></tr>
 </table>
 
 <table>
 <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Rong-Tang.jpg" alt="Rong Tang Photo"></div><div><b>Rong Tang</b><br> Professor Emerita, Simmons University</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Rong-Tang.jpg" alt="Rong Tang Photo"></div><div><b>Rong Tang</b><br> RDMLA/DSCPE Co-Leader | Professor Emerita, Simmons University</div></td></tr>
 </table>
 
 <table>
