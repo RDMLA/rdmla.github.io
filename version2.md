@@ -4,8 +4,7 @@ title: AI for Librarians
 permalink: /rdmlai/
 redirect_from: /home/rdmlai/
 ---
-
-<p align="center"><img src="images/icons_logos/rdmla_logo/RDMLAI_logo.png" alt="RDMLAI_logo"></p>
+<p align="center"> <img src="images/icons_logos/rdmla_logo/RDMLAI_logo.png" alt="RDMLAI Logo"></p>
 
 The **Research Data Management Librarian Academy (RDMLA)** team is seeking qualified information professionals to submit proposals for the
 
@@ -23,8 +22,8 @@ The proposal requirements, submission criteria, and evaluation criteria can be f
 
 Proposals are due by **April 4th, 2025 5pm EST**. 
 
-Contact Samantha Friedman, RDMLA Project Coordinator, at (samantha_friedman@hms.harvard.edu) with any questions. 
+Contact Samantha Friedman, RDMLA Project Coordinator, at [samantha_friedman@hms.harvard.edu](url) with any questions. 
 
-For more information about RDMLA and the RDMLA team, go to: (https://rdmla.github.io/)
+For more information about RDMLA and the RDMLA team, go to: [https://rdmla.github.io/](url)
   
 We look forward to receiving your proposals!
