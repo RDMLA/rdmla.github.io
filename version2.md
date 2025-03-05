@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artificial Intelligence for Librarians
+title: AI for Librarians
 permalink: /rdmlai/
 redirect_from: /home/rdmlai/
 ---
