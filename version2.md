@@ -11,9 +11,9 @@ TThe **Research Data Management Librarian Academy (RDMLA)** team is seeking qual
 
 The proposal requirements, submission criteria, and evaluation criteria can be found [[here](survey-documents/RFP_AIEthicsUnit.pdf)] Proposals are due by **April 4th, 2025 5pm EST**. 
 
-Contact Samantha Friedman, RDMLA Project Coordinator, at samantha_friedman@hms.harvard.edu with any questions. 
+Contact Samantha Friedman, RDMLA Project Coordinator, at [samantha_friedman@hms.harvard.edu](url) with any questions. 
 
-For more information about RDMLA and the RDMLA team, go to: https://rdmla.github.io/
+For more information about RDMLA and the RDMLA team, go to: [https://rdmla.github.io/](url)
   
 We look forward to receiving your proposals!
 
