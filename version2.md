@@ -5,7 +5,7 @@ permalink: /rdmlai/
 redirect_from: /home/rdmlai/
 ---
 
-<p align="center"><img src="images/icons_logos/rdmla_logo/RDMLAI_logo.png" alt="RDMLAI Logo"></p>
+<p align="center"><img src="images/icons_logos/rdmla_logo/RDMLAI_logo.png" alt="RDMLAI_logo"></p>
 
 The **Research Data Management Librarian Academy (RDMLA)** team is seeking qualified information professionals to submit proposals for the
 
