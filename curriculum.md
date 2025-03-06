@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Curriculum
-permalink: /Curriculum/
-redirect_from: /home/Curriculum/
+permalink: /curriculum/
+redirect_from: /home/curriculum/
 ---
 
 The RDMLA curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. Librarians working in academic settings who complete this program will have increased capacity to address the growing research data management needs of their higher learning institutions and to train faculty and researchers on best practices.
