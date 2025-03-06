@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /Team/
-redirect_from: /home/cTeam/
+redirect_from: /home/Team/
 ---
 
 #### <b>RDMLA Leadership</b>
