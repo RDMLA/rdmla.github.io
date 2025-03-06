@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Community
-permalink: /community/
-redirect_from: /home/community/
+title: Team
+permalink: /Team/
+redirect_from: /home/cTeam/
 ---
 
 #### <b>RDMLA Leadership</b>
