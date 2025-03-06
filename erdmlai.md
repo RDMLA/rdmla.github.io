@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI for Librarians [NEW]
+title: AI for Librarians|NEW
 permalink: /rdmlai/
 redirect_from: /home/rdmlai/
 ---
