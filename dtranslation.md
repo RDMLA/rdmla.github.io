@@ -4,7 +4,7 @@ title: Translations
 permalink: /translation/
 redirect_from: /home/translation/
 ---
-<h2><p align="center"> <b>Spanish | Chinese</b> </p>   </h2> 
+<h2><p align="center"> <b>Spanish | Chinese</b></p></h2> 
 
 **RDMLA Spanish Version Coming soon! A team from University of Valencia is currently working on translating RDMLA into Spanish.**
 
