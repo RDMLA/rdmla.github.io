@@ -13,7 +13,7 @@ The **“RDMLA: AI for Librarians”** is being offered as an extension of The R
 
 <hr>
 
-**Request for Proposals (RFP) for RDMLA: AI for Librarians|Ethics Unit**
+<b>Request for Proposals (RFP) for RDMLA: AI for Librarians | Ethics Unit</b>
 
 The **Research Data Management Librarian Academy (RDMLA)** team is seeking qualified information professionals to submit proposals for the **AI Ethics unit** of our new **“RDMLA: AI for Librarians”** curriculum. This new curriculum will be an addition to our pre-existing RDMLA units. The Ethics unit will address ethical considerations of AI Use in the Library and Information Science setting in general, and in Research Data Management practice in particular. We are looking for experts with research and/or practical experience in this topic. The instructor(s) will develop a unit using video lectures and supplemental materials that will discuss ethical considerations and also provide practical guidelines for responsible and appropriate use of AI in the library setting.
 
