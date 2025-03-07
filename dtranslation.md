@@ -4,6 +4,14 @@ title: Translations
 permalink: /translation/
 redirect_from: /home/translation/
 ---
+## <p align="center"> Spanish | Chinese 
+
+
+### Coming soon! A team from University of Valencia is currently working on translating RDMLA into Spanish.
+
+
+
+<hr>
 
 <p align="center"><img src="/images/display-images/RDMLA+NTU.png" alt="RDMLA and NTU Logos"></p> <br>
 
