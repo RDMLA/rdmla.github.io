@@ -7,13 +7,13 @@ redirect_from: /home/translation/
 <p align="center"> <b>Spanish | Chinese</b></p>
 
 **RDMLA Spanish Version is Coming Soon!** A team from University of Valencia is currently working on translating RDMLA into Spanish.
-
+<br>  
 
 
 <hr>
 
 
-<br>
+<br>  
 <p align="center"><img src="/images/display-images/RDMLA+NTU.png" alt="RDMLA and NTU Logos"></p> 
 
 <p style="color:red;" align="center"><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/RDMLA%E4%B8%AD%E6%96%87%E7%89%88%20%E6%B3%A8%E5%86%8C%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pdf" target="_blank">RDMLA Chinese Version Registration and Use Guide with VPN Instructions</a></p>
