@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Translations
-permalink: /translations/
-redirect_from: /home/translations/
+permalink: /translation/
+redirect_from: /home/translation/
 ---
 
 <p align="center"><img src="/images/display-images/RDMLA+NTU.png" alt="RDMLA and NTU Logos"></p> <br>
