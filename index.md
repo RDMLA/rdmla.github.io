@@ -35,7 +35,7 @@ Ready to join the RDMLA community? Register and access the course <a href="https
 Register and access 研究資料管理圖書館員課程［RDMLA中文版] <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management-librarian-academy-rdmla--" target="_blank">here</a>.
 <br> 
 <hr>
-<h1>AI for Librarians <span class="blinking">"NEW"</span></h1>![image](https://github.com/user-attachments/assets/69b22cef-b38e-4de2-b43a-ef165ebc1694)
+<h1>AI for Librarians <span class="blinking">"NEW"</span></h1>
 
 <style>.blinking {color: red;font-weight: bold; animation: blinker 1s linear infinite;} @keyframes blinker {50%{opacity: 0;}}</style>
 
