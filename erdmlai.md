@@ -9,7 +9,7 @@ redirect_from: /home/rdmlai/
 <p align="center"><img src="/images/icons_logos/rdmla_logo/rdmlailogo1.png" alt="RDMLAI Logo"></p> <br>
 
 
-<h2><span class="blinking">"NEW"</span>AI for Librarians <span class="blinking">"NEW"</span></h2>
+<h3><span class="blinking">"NEW"</span> AI for Librarians <span class="blinking"> "NEW"</span></h3>
 
 <style>.blinking {color: red;font-weight: bold; animation: blinker 1s linear infinite;} @keyframes blinker {50%{opacity: 0;}}</style>
 
