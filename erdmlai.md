@@ -5,7 +5,6 @@ permalink: /rdmlai/
 redirect_from: /home/rdmlai/
 ---
 
-<style>.blinking {animation: blink infinite; <span class="blinking">"NEW"</span><h1>AI for Librarians <span class="blinking"></h1>"NEW"</span>
 
 <p align="center"><img src="/images/icons_logos/rdmla_logo/rdmlailogo1.png" alt="RDMLAI Logo"></p> <br>
 
