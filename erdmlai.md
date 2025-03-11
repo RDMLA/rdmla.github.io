@@ -6,7 +6,7 @@ redirect_from: /home/rdmlai/
 ---
 
 
-<p align="center"><img src="/images/icons_logos/rdmla_logo/rdmlailogo1.png" alt="RDMLAI Logo"></p> <br>
+<p align="center"><img src="/images/icons_logos/rdmla_logo/rdmlainewadded.png" alt="RDMLAI Logo"></p> <br>
 
 <h3>Overview</h3>
 
