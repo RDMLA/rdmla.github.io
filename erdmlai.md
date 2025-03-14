@@ -26,6 +26,6 @@ For more information about RDMLA and the RDMLA team, go to: [RDMLA Website](http
   
 We look forward to receiving your proposals!
 
-<h4><b>Frequently Asked Questions can be find <a href="https://drive.google.com/drive/u/0/folders/1g1rPojGN1p5RbnkO_SdsS-QugTD1DQ_2="_blank">here</a>.</b></h4> 
+<h4><b>Frequently Asked Questions can be find <a href="https://drive.google.com/drive/u/0/folders/1g1rPojGN1p5RbnkO_SdsS-QugTD1DQ_2="_blank">here</a></b></h4> 
 
 
