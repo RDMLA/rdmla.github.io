@@ -25,3 +25,7 @@ Contact Samantha Friedman, RDMLA Project Coordinator, at samantha_friedman@hms.h
 For more information about RDMLA and the RDMLA team, go to: [RDMLA Website](https://rdmla.github.io)
   
 We look forward to receiving your proposals!
+
+<h4><b> * Frequently Asked Questions can be find <a href="https://drive.google.com/drive/u/0/folders/1g1rPojGN1p5RbnkO_SdsS-QugTD1DQ_2="_blank">here</a>.</b></h4> 
+
+
