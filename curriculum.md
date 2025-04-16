@@ -9,6 +9,7 @@ The RDMLA curriculum focuses on the essential knowledge and skills needed to col
 <br>
 
 <p align="center"><img src="/images/display-images/units and mini mods.png" alt="RDMLA Unit and Mini Modules Navigation Blocks"></p>
+<p align="center"><img src="/images/display-images/AINBComingSoon.png" alt="RDMLAI: AI for Librarians"></p>
 
 Currently, the course offers eleven units. Each unit features video lectures, exercises, assessments and additional resources. 
 <br>
