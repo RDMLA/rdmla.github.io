@@ -14,7 +14,7 @@ The **“RDMLA: AI for Librarians”** is being offered as an extension of The R
 <br>
 <hr>
 <br> 
-<h4><b>Request for Proposals (RFP) for RDMLA: AI for Librarians | AI Uses Cases Unit</b></h4>
+<h4><b>Request for Proposals (RFP) for RDMLA: AI for Librarians | AI Uses Cases in Libraries Unit</b></h4>
 
 The Research Data Management Librarian Academy (RDMLA) team is seeking qualified information professionals to submit proposals for the AI Uses Cases in Libraries for our new “RDMLA: AI for Librarians” curriculum. This new curriculum will be an addition to our pre-existing RDMLA units. The AI Use Cases unit will address practical AI use scenarios in the Library and Information Science setting in general, and in Research Data Management practice in particular. We are looking for experts with research and/or practical experience in the use of AI in Library Administrative Tasks, Metadata/Cataloging, User Instruction/Information Literacy, Reference Services, and Research Data Management. The instructor will choose one of these five listed topics and develop content using video lectures and supplemental materials that will provide specific examples and demonstrations for the use of AI in the library workplace setting.
 
@@ -23,6 +23,7 @@ The proposal requirements, submission criteria, and evaluation criteria can be f
 For more information about RDMLA and the RDMLA team, go to: [RDMLA Website](https://rdmla.github.io)
   
 We look forward to receiving your proposals!
+<h4><b>Frequently Asked Questions can be find <a href="https://drive.google.com/file/d/1PGMklCktH26AA3baiIUfhQsJ6qjs4saj/view?usp=sharing" target="_blank">here</a></b></h4> 
 
 <hr>
 <br> 
@@ -38,6 +39,6 @@ For more information about RDMLA and the RDMLA team, go to: [RDMLA Website](http
   
 We look forward to receiving your proposals!
 
-<h4><b>Frequently Asked Questions can be find <a href="https://drive.google.com/file/d/1PGMklCktH26AA3baiIUfhQsJ6qjs4saj/view?usp=sharing" target="_blank">here</a></b></h4> 
+
 
 
