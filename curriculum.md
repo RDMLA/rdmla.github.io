@@ -56,7 +56,7 @@ This innovative course explores the integration of AI into library practices. Th
   - AI Use Cases
 
  <a href="https://rdmla.github.io/rdmlai/">
-<p align="center"><img src="/images/display-images/RDMLAINAvigationBlock.png" alt="RDMLAI Unit Navigation Blocks"></p></a>
+<p align="center"><img src="/images/display-images/RDMLAINAvigationBlock.png" alt="RDMLAI Unit Navigation Blocks"></a></p>
 
 
-##### The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.
+**The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.**
