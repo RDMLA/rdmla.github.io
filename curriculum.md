@@ -9,12 +9,10 @@ The RDMLA curriculum focuses on the essential knowledge and skills needed to col
 <br>
 
 <table>
- <tr><td rowspan="1" width="30%"><img src="/images/display-images/RDMLACUNB.png" alt="RDMLA: Course Units"></p>
-    <td rowspan="1" width="30%"><div><img src="/images/display-images/RDMLAMMNB.png" alt="RDMLA: Mini_Modules"></p></div>
-    <td rowspan="1" width="30%"><div><img src="/images/display-images/RDMLAINB.png" alt="RDMLAI: AI for Librarians"></p></div></td></tr>
+ <tr><td rowspan="1" width="30%"><p align="center"><img src="/images/display-images/RDMLACUNB.png" alt="RDMLA: Course Units"></p>
+    <td rowspan="1" width="30%"><div><p align="center"><img src="/images/display-images/RDMLAMMNB.png" alt="RDMLA: Mini_Modules"></p></div>
+    <td rowspan="1" width="30%"><div><p align="center"><img src="/images/display-images/RDMLAINB.png" alt="RDMLAI: AI for Librarians"></p></div></td></tr>
 </table>
-
-<p align="center"><img src="/images/display-images/AINavigationBlock.png" alt="RDMLA Unit Navigation Blocks"></p>
 
 <hr>
 <h4><b>RDMLA Course Units</b></h4>
