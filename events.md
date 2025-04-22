@@ -11,7 +11,7 @@ The RDMLA team has presented at the following conferences.
 <br>
 
 
-#### 2024 Events
+ **2024 Events**
 
   - MLA Annual Conference, Portland (May 18-21, 2024)
  
@@ -21,7 +21,7 @@ The RDMLA team has presented at the following conferences.
  
     
 ___
-#### 2023 Events
+**2023 Events**
 
   - ASIS&T Annual Meeting (October 29, 2023) - Product Theater
     - <a href="https://www.asist.org/am23/2023-product-theater/" target="_blank">Product Theater</a>
@@ -36,7 +36,7 @@ ___
     - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/2023%20iConference%20workshop_data%20competencies.pdf" target="_blank">Presentation Slides</a>
 
 ___
-#### 2022 Events
+**2022 Events**
 
   - RDMLA Symposium (April 22, 2022) - Virtual one-day symposium
     - <a href="https://osf.io/meetings/RDMLA2022?view_only=" target="_blank">Symposium Presentations OSF</a>
@@ -46,7 +46,7 @@ ___
 
 ___
 
-#### 2021 Events
+**2021 Events**
 
   - National Taiwan University Library Online Workshop (November 11, 2021) - Presentation
     - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2021/Rong_RDMLA-NTU%20workshop.pdf" target="_blank">Presentation Slides</a>
@@ -74,7 +74,7 @@ ___
 
 ___
 
-#### 2020 Events
+**2020 Events**
 
   - ALISE Conference (October 22, 2020) - Breakfast with Vendors Presentation
     - <a href="https://vimeo.com/472675605/2bfcb01766" target="_blank">Presentation Recording</a>
@@ -99,7 +99,7 @@ ___
 
 ___
 
-#### 2019 Events
+**2019 Events**
 
   - 2019 RDM Symposium (December 5, 2019) - Presentation
     - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2019/RDMLA_NY%2012_5_finalupdated.pdf" target="_blank">Presentation Slides</a>
