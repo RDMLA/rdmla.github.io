@@ -13,10 +13,12 @@ The RDMLA team has presented at the following conferences.
 
 #### 2024 Events
 
+  - MLA Annual Conference, Portland (May 18-21, 2024)
+ 
   - iConference, Changchun, China (April 24, 2024)
     - <a href="https://www.ischools.org/iconference-agenda" target="_blank">Session Overview </a>
 
-  - MLA Annual Conference, Portland (May 18-21, 2024)
+ 
     
 ___
 #### 2023 Events
