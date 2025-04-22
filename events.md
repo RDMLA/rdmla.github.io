@@ -5,30 +5,20 @@ permalink: /events/
 redirect_from: /home/events/
 ---
 
-#### Upcoming Events
-
-Be sure to add us to your calendars and say hello!
-<br>
-
-<table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/ischools.jpg" alt="iSchools Logo"></td>
-    <td rowspan="1" width="30%"><div><b>iConference - Changchun, China<br> April 24, 2024 | 10:30 a.m. to 12:00 p.m. CST </b></div></td>
-    <td rowspan="1" width="30%"><div><b>More Information:<br> <a href="https://www.ischools.org/iconference-agenda" target="_blank">Session Overview</a></b></div></td></tr>
-</table>
-
-<table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/conference_logos/MLA24.png" alt="MLA 24 Logo"></td>
-    <td rowspan="1" width="30%"><div><b>MLA Annual Conference - Portland<br> May 18-21, 2024</b></div></td>
-    <td rowspan="1" width="30%"><div><b>Details to Come<br></b></div></td></tr>
-</table>
-
-___
-
 #### Recent RDMLA Presentations
 
 The RDMLA team has presented at the following conferences.
 <br>
 
+
+#### 2024 Events
+
+  - iConference, Changchun, China (April 24, 2024)
+    - <a href="https://www.ischools.org/iconference-agenda" target="_blank">Session Overview </a>
+
+  - MLA Annual Conference, Portland (May 18-21, 2024)
+    
+___
 #### 2023 Events
 
   - ASIS&T Annual Meeting (October 29, 2023) - Product Theater
