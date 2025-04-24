@@ -13,12 +13,18 @@ The RDMLA team has presented at the following conferences.
 
  **2024 Events**
 
+  - University of Hong Kong, (July 9, 2024).
+    "Open Education and Competency-Based Training in Research Data Services: Lessons Learned." Invited talk to Faculty of Education, 
+    - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/RongTang - 20240709.pdf" target="_blank">Summary of the Talk.</a>
+
+  - Symposium in Open Science and Data Curation, Taipei, Taiwan (May 28, 2024).
+    "Practical Implementation of Open Education and Competency-Based Training in Research Data Services: Lessons Learned from RDMLA and DSCPE." .
+    - <a href="https://www.lib.ntu.edu.tw/events/2024_RDMLA/" target="_blank">Summary of the Talk </a>
+
   - MLA Annual Conference, Portland (May 18-21, 2024)
  
   - iConference, Changchun, China (April 24, 2024)
     - <a href="https://www.ischools.org/iconference-agenda" target="_blank">Session Overview </a>
-
- 
     
 ___
 **2023 Events**
