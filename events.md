@@ -13,7 +13,7 @@ The RDMLA team has presented at the following conferences.
 
  **2024 Events**
 
-  - University of Hong Kong,China (July 9, 2024).
+  - University of Hong Kong, China (July 9, 2024).
     "Open Education and Competency-Based Training in Research Data Services: Lessons Learned." Invited talk to Faculty of Education. 
     -  <a href="https://drive.google.com/file/d/1dap4u0oHch2zZi4hJ3s6dlKCjyAk6rrI/view?usp=sharing" target="_blank">Summary of the Talk </a>
 
