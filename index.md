@@ -27,7 +27,8 @@ In response to student inquiries and requests, RDMLA partnered with the School o
 In order to reach a broader learner community, the RDMLA team established a translation partnership with National Taiwan University (NTU) Library. The international collaboration shares the purpose of providing equitable access to education materials, not only to NTU’s patrons, but to the larger Chinese-speaking population. All 11 units of the RDMLA are translated and available on the Chinese translation here.
 <br>
 
-__
+--------------
+
 
 <h4><b>Access the RDMLA Course</b></h4>
 Ready to join the RDMLA community? Register and access the course <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management" target="_blank">here</a>.
