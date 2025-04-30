@@ -17,9 +17,10 @@ redirect_from: /home/Team/
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Rong-Tang.jpg" alt="Rong Tang Photo"></div><div><b>Rong Tang</b><br> RDMLA/DSCPE Co-Leader | Professor Emerita, Simmons University</div></td></tr>
 </table>
 
+#### <b>Funding</b>
 <table>
 <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/EmilySingley_Photo.jpg" alt="Emily Singley Photo"></div><div><b>Emily Singley</b><br> Vice President, North American Library Relations</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/EmilySingley_Photo.jpg" alt="Emily Singley Photo"></div><div><b>Emily Singley</b><br> Project Liaison | Vice President, North American Library Relations, Elsevier</div></td></tr>
 </table>
  
 #### <b>RDMLA Staff</b>
