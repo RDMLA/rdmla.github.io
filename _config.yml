@@ -1,7 +1,5 @@
 # Site settings
 title: RDMLA
-Elsevier
-url: "https://elsevier.com
 email: rdmla.help@gmail.com
 description: >
  Research Data Management Librarian Academy: Exploring and providing research data management training for librarians. 
@@ -12,6 +10,7 @@ url: "https://rdmla.github.io/"
 github_username:  RDMLA
 twitter_username: The_RDMLA
 facebook_username: TheRDMLA
+chat
 
 
 # Build settings
