@@ -5,6 +5,11 @@ description: >
  Research Data Management Librarian Academy: Exploring and providing research data management training for librarians. 
 url: "https://rdmla.github.io/"
 
+# Site configuration
+title: "Elsevier" 
+logo: "images/icons_logos/partner_institutions_logos/Elsevierlogo.png" 
+
+
 
 # Social links
 github_username:  RDMLA
