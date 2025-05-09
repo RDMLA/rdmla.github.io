@@ -69,5 +69,4 @@ This innovative course explores the integration of AI into library practices. Th
 
 **The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.**
 
-<br>
-<p align="center"><img src="/images/icons_logos/partner_institutions_logos/Elsevierlogo.png" alt="Elsevier Logo"></p> 
+
