@@ -29,4 +29,8 @@ A survey was distributed to relevant groups via email, a Library Connect blog po
 <p align="center"><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/RDMLA-Report.pdf"><em>Survey Report</em></a>  |  <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/Training.pdf"><em>Training Inventory</em></a>  |  <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/Publications.pdf"><em>Publication Inventory</em></a></p>
 
 <br>
-<p align="center"><img src="/images/icons_logos/partner_institutions_logos/Elsevierlogo.png" alt="Elsevier Logo"></p> 
+<p align="center">
+  <a href="https://elsevier.com/">
+    <img src="/images/icons_logos/partner_institutions_logos/ElsevierLogo.png" alt="Elsevier Logo">
+  </a>
+</p><br> 
