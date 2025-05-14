@@ -47,4 +47,8 @@ Register and access 研究資料管理圖書館員課程［RDMLA中文版] <a hr
 
 Interested in learning more or have questions about RDMLA? <a href="https://rdmla.github.io/contact/">Contact us</a>!
 
+<body>
+    <div class="logo-container">
+        <a href="https://www.elsevier.com" target="_blank">
+         <p align="center"> <img src="/images/icons_logos/partner_institutions_logos/elsevier-logo1.png" alt="Elsevier Logo" width="70"></p></a>
 
