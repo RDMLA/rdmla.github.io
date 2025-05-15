@@ -7,7 +7,5 @@ redirect_from: /home/funded/
 
 
 <p align="center"><img src="images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo" width="200"></p> 
-<h3><b><p align="center">RDMLA and DSCPE are funded by <a href="https://www.eslevier.com" target="_blank">Elsevier</a>.</b></h3></p>
-
-<br>
+<h3><b><p align="center"> RDMLA and DSCPE are funded by <a href="https://www.eslevier.com" target="_blank">Elsevier</a></b></h3></p>
 
