@@ -7,7 +7,7 @@ url: "https://rdmla.github.io/"
 
 # Social links
 github_username: RDMLA
-x_username: The_RDMLA
+twitter_username: The_RDMLA
 facebook_username: TheRDMLA
 
 social_links:
@@ -20,9 +20,7 @@ social_links:
   facebook:
     username: TheRDMLA
     logo: "images/icons_logos/social/facebook.png"
-  elsevier:
-    name: "Elsevier"
-    logo: "images/icons_logos/elsevier-logo1.png"
+
 
 
 # Build settings
