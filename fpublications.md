@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publication
 permalink: /resources/
 redirect_from: /home/resources/
 ---
