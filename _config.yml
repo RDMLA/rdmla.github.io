@@ -20,14 +20,14 @@ social_logos:
     logo: "images/icons_logos/social/github.png"
     username: RDMLA
   - platform: twitter
-    logo: "images/icons_logos/social/Xlogo.png" # Updated to X logo
+    logo: "images/icons_logos/social/Xlogo.png" 
     username: The_RDMLA
   - platform: facebook
     logo: "images/icons_logos/social/facebook.png"
     username: TheRDMLA
   - platform: elsevier
     logo: "images/icons_logos/partner_institutions_logos/Elsevierlogo.png"
-    name: "Elsevier" # Added Elsevier under Facebook
+    name: "Elsevier" 
 
 # Build settings
 markdown: kramdown
