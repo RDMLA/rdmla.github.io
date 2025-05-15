@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Translations
+title: Translation
 permalink: /translation/
 redirect_from: /home/translation/
 ---
