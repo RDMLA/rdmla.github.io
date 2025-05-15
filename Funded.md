@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
-redirect_from: /home/about/
+title: Funded
+permalink: /funded/
+redirect_from: /home/funded/
 ---
 
 
