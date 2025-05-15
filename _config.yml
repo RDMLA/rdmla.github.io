@@ -2,21 +2,32 @@
 title: RDMLA
 email: rdmla.help@gmail.com
 description: >
- Research Data Management Librarian Academy: Exploring and providing research data management training for librarians. 
+  Research Data Management Librarian Academy: Exploring and providing research data management training for librarians.
 url: "https://rdmla.github.io/"
 
 # Site configuration
-title: "Elsevier" 
-logo: "images/icons_logos/partner_institutions_logos/Elsevierlogo.png" 
-
-
+title: "Elsevier"
+logo: "images/icons_logos/partner_institutions_logos/Elsevierlogo.png"
 
 # Social links
-github_username:  RDMLA
+github_username: RDMLA
 twitter_username: The_RDMLA
 facebook_username: TheRDMLA
-chat
 
+# Social logos
+social_logos:
+  - platform: github
+    logo: "images/icons_logos/social/github.png"
+    username: RDMLA
+  - platform: twitter
+    logo: "images/icons_logos/social/Xlogo.png" # Updated to X logo
+    username: The_RDMLA
+  - platform: facebook
+    logo: "images/icons_logos/social/facebook.png"
+    username: TheRDMLA
+  - platform: elsevier
+    logo: "images/icons_logos/partner_institutions_logos/Elsevierlogo.png"
+    name: "Elsevier" # Added Elsevier under Facebook
 
 # Build settings
 markdown: kramdown
