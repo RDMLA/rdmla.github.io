@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Funded
+title: "Funded"
 permalink: /funded/
 redirect_from: /home/funded/
 ---
