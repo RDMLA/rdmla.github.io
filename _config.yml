@@ -7,23 +7,23 @@ url: "https://rdmla.github.io/"
 
 # Social links
 github_username: RDMLA
-twitter_username: The_RDMLA
+x_username: The_RDMLA
 facebook_username: TheRDMLA
 
-# Social logos
-social_logos:
-  - platform: github
-    logo: "images/icons_logos/social/github.png"
+social_links:
+  github:
     username: RDMLA
-  - platform: twitter
-    logo: "images/icons_logos/social/Xlogo.png" 
+    logo: "images/icons_logos/social/github.png"
+  twitter:
     username: The_RDMLA
-  - platform: facebook
-    logo: "images/icons_logos/social/facebook.png"
+    logo: "images/icons_logos/social/Xlogo.png"
+  facebook:
     username: TheRDMLA
-  - platform: elsevier
+    logo: "images/icons_logos/social/facebook.png"
+  elsevier:
+    name: "Elsevier"
     logo: "images/icons_logos/elsevier-logo1.png"
-    name: "Elsevier" 
+
 
 # Build settings
 markdown: kramdown
