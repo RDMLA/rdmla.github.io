@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dropdown Menu Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        nav {
+            background-color: #333;
+            color: white;
+            display: flex;
+            padding: 0.5em 1em;
+        }
+        .menu {
+            position: relative;
+            margin-right: 1em;
+        }
+        .menu > button {
+            background-color: #333;
+            color: white;
+            border: none;
+            padding: 0.5em;
+            cursor: pointer;
+            font-size: 1em;
+        }
+        .menu-content {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: #444;
+            min-width: 150px;
+            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
+        .menu-content a {
+            color: white;
+            padding: 0.5em 1em;
+            text-decoration: none;
+            display: block;
+        }
+        .menu-content a:hover {
+            background-color: #555;
+        }
+        .menu:hover .menu-content {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="menu">
+            <button>Information</button>
+            <div class="menu-content">
+                <a href="about.md">About</a>
+                <a href="gcontact.md">Contact Us</a>
+              <a href="bteam.md">Team</a>
+            </div>
+        </div>
+    </nav>
+</body>
+</html>
