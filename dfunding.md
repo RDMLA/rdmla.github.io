@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Funded"
-permalink: /funded/
-redirect_from: /home/funded/
+title: "Funding"
+permalink: /funding/
+redirect_from: /home/funding/
 ---
 
 
