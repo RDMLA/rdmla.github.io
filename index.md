@@ -15,10 +15,8 @@ Partner institutions include: Harvard Medical School, Harvard Library, Simmons U
 <h3><b><p align="center"> RDMLA is financially sponsored by <a href="https://www.elsevier.com/librarian/library-connect-academy#3-data-management-course" target="_blank">Elsevier</a></p>
   
   --------------
-  
-
-
-**<a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/RDMLA Quick Fact Sheet_05-05-21.pdf" target="_blank">Download the RDMLA Factsheet for your quick reference.</a>** <br>
+  <br>
+<a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/RDMLA Quick Fact Sheet_05-05-21.pdf" target="_blank">Download the RDMLA Factsheet for your quick reference.</a>
 <br>
 
 
