@@ -15,8 +15,6 @@ Partner institutions include: Harvard Medical School, Harvard Library, Simmons U
 <h4><b><p align="center"> RDMLA is financially sponsored by <a href="https://www.elsevier.com/librarian/library-connect-academy#3-data-management-course" target="_blank">Elsevier</a></p></b>
 <br>
 
---------------
-
 
 <h4><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/RDMLA Quick Fact Sheet_05-05-21.pdf" target="_blank">Download the RDMLA Factsheet for your quick reference.</a></h4>
 
@@ -29,8 +27,6 @@ In response to student inquiries and requests, RDMLA partnered with the School o
 
 In order to reach a broader learner community, the RDMLA team established a translation partnership with National Taiwan University (NTU) Library. The international collaboration shares the purpose of providing equitable access to education materials, not only to NTU’s patrons, but to the larger Chinese-speaking population. All 11 units of the RDMLA are translated and available on the Chinese translation here.
 <br>
-
---------------
 
 
 <h4><b>Access the RDMLA Course</b></h4>
