@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Event
+title: Events
 permalink: /events/
 redirect_from: /home/events/
 ---
