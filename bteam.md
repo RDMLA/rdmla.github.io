@@ -45,7 +45,7 @@ redirect_from: /home/Team/
  <tr>
   <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/boston-university.png"></td>
   <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/brown-logo.png"</td>
-  <td rowspan="1" width="30%"><img  src="/images/icons_logos/partner_institutions_logos/brown-logo.png"></td>
+  <td rowspan="1" width="30%"><img  src=""/images/icons_logos/partner_institutions_logos/dataone.png"></td>
  </tr>
  </table>
 
