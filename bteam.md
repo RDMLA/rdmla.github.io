@@ -40,31 +40,31 @@ redirect_from: /home/Team/
 #### <b>RDMLA is made possible through contributions from the following institutions.<B>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/boston-university.png" alt="BU Logo" ></td>
-    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/brown-logo.png" alt="Brown University Logo" ></td>
-    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/dataone.png" alt="DataONE Logo" ></td></tr>
+  <tr><td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/boston-university.png" alt="BU Logo" ></td>
+    <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/brown-logo.png" alt="Brown University Logo" ></td>
+    <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/dataone.png" alt="DataONE Logo" ></td></tr>
 </table>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"  ></td>
-    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/harvard-library.png" alt="Harvard Library Logo" ></td>
-    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo" ></td></tr>
+  <tr><td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"  ></td>
+    <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/harvard-library.png" alt="Harvard Library Logo" ></td>
+    <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo" ></td></tr>
 </table>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/IUPUI_logo.png" alt="IUPUI Logo" ></td>
-    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/MCPHS.png" alt="MCPHS University Logo" ></td>
-    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/NIH_logo.png" alt="National Institutes of Health Logo" ></td></tr>
+  <tr><td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/IUPUI_logo.png" alt="IUPUI Logo" ></td>
+    <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/MCPHS.png" alt="MCPHS University Logo" ></td>
+    <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/NIH_logo.png" alt="National Institutes of Health Logo" ></td></tr>
 </table>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/NIH_NLM_logo.png" alt="National Library of Medicine Logo" ></td>
-    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/ntu-logo.png" alt="NTU Logo" ></td>
-    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/neulogo.png" alt="Northeastern University Logo" ></td></tr>
+  <tr><td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/NIH_NLM_logo.png" alt="National Library of Medicine Logo" ></td>
+    <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/ntu-logo.png" alt="NTU Logo" ></td>
+    <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/neulogo.png" alt="Northeastern University Logo" ></td></tr>
 </table>
 
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo" ></td>
-    <td rowspan="1" width="20%"></td>
-    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Tufts-University.jpg" alt="Tufts University Logo" ></td></tr>
+  <tr><td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo" ></td>
+    <td rowspan="1" width="30%"></td>
+    <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/Tufts-University.jpg" alt="Tufts University Logo" ></td></tr>
 </table>
