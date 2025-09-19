@@ -41,13 +41,11 @@ redirect_from: /home/Team/
 
 
 
-<table>  
- <tr>
-  <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/boston-university.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/brown-logo.png"</td>
-  <td rowspan="1" width="30%"><img  src=""/images/icons_logos/partner_institutions_logos/dataone.png"></td>
- </tr>
- </table>
+<table>
+  <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/boston-university.png" alt="BU Logo" ></td>
+    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/brown-logo.png" alt="Brown University Logo" ></td>
+    <td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/dataone.png" alt="DataONE Logo" ></td></tr>
+</table>
 
 <table>  
  <tr>
