@@ -19,4 +19,4 @@ The **“RDMLA: AI for Librarians”** is being offered as an extension of The R
 
 For more information about RDMLA and the RDMLA team, go to: [RDMLA Website](https://rdmla.github.io)
   
-We look forward to receiving your proposals!
+
