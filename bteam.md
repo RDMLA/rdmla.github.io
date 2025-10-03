@@ -50,7 +50,7 @@ redirect_from: /home/Team/
 <table>  
  <tr>
   <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/harvard-library.png"></td>
+  <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/harvard-library1.png"></td>
   <td rowspan="1" width="30%"><img  src="/images/icons_logos/partner_institutions_logos/HMS.png"></td>
  </tr>
  </table>
