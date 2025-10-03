@@ -71,6 +71,6 @@ redirect_from: /home/Team/
 
 <table>
   <tr><td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/University of V.png" alt="Simmons University Logo" ></td>
-    <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo" >****</td>
+    <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/simmons-college.png" alt="Simmons University Logo" ></td>
     <td rowspan="1" width="30%"><img src="/images/icons_logos/partner_institutions_logos/Tufts-University.jpg" alt="Tufts University Logo" ></td></tr>
 </table>
