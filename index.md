@@ -9,7 +9,7 @@ The **Research Data Management Librarian Academy** (**RDMLA**) is a free online 
 
 RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. 
 
-Partner institutions include: Harvard Medical School, Harvard Library, Simmons University, Boston University, Brown University, MCPHS, Northeastern University, Tufts University, DataONE, National Taiwan University Library, National Institutes of Health, Indiana University-Purdue University Indianapolis and University of Valencia.
+Partner institutions include: Harvard Medical School, Harvard Library, Simmons University, Boston University, Brown University, MCPHS, Northeastern University, Tufts University, DataONE, National Taiwan University Library (Taiwan), National Institutes of Health, Indiana University-Purdue University Indianapolis and University of Valencia (Spain).
 <br>
 
 <h4><b><p align="center"> RDMLA is financially sponsored by <a href="https://www.elsevier.com/librarian/library-connect-academy#3-data-management-course" target="_blank">Elsevier</a></p></b>
@@ -22,8 +22,6 @@ Partner institutions include: Harvard Medical School, Harvard Library, Simmons U
 The RDMLA curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. The curriculum features eleven, online, and self-paced learning units and two mini-modules. 
 
 <h4>The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.</h4>
-
-In response to student inquiries and requests, RDMLA partnered with the School of Library and Information Science (SLIS) at Simmons University, to provide an optional offering of three (3) continuing education credits. 
 
 In order to reach a broader learner community, the RDMLA team established a translation partnership with National Taiwan University (NTU) Library. The international collaboration shares the purpose of providing equitable access to education materials, not only to NTU’s patrons, but to the larger Chinese-speaking population. All 11 units of the RDMLA are translated and available on the Chinese translation here.
 <br>
