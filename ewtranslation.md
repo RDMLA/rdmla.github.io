@@ -10,7 +10,7 @@ redirect_from: /home/translation/
 **RDMLA Spanish Version is Coming Soon!** A team from University of Valencia is currently working on translating RDMLA into Spanish.
 <br>    
 
-<p align="center"><img src="images/team-photos/SpanishTEAM.png"></p> <br>
+<p align="center"><img src="images/team-photos/Spanishteam.png"></p> <br>
 
 <hr>
 
