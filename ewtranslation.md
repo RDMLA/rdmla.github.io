@@ -5,23 +5,22 @@ permalink: /translation/
 redirect_from: /home/translation/
 ---
 <h3><p align="center"> <b>Spanish [Español] | Chinese [中文] </b></p></h3>
+<hr>
 
 **RDMLA Spanish Version is Coming Soon!** A team from University of Valencia is currently working on translating RDMLA into Spanish.
 <br>    
 <table>
-  <tr><td rowspan="1" width="20%"><img src="/images/team-photos/Rut.png" alt="Rut Lucas Domínguez" ></td>
-    <td rowspan="1" width="20%"><img src="/images/team-photos/Antonio.png" alt="Antonio Vidal-Infer" ></td>
-    <td rowspan="1" width="20%"><img src="/images/team-photos/Adolfo.png" alt="Adolfo Alonso Arroyo" ></td>
+  <tr>
+    <td rowspan="1" width="20%"><img src="/images/team-photos/Rut.png"></td>
+    <td rowspan="1" width="20%"><img src="/images/team-photos/Antonio.png"></td>
+    <td rowspan="1" width="20%"><img src="/images/team-photos/Adolfo.png"></td>
  <tr>
-   </table>
-
-<table>
-  <td rowspan="1" width="30%"><img src="/images/team-photos/Cristina.png"></td>
-  <td rowspan="1" width="30%"><img src="/images/team-photos/Celia.png"></td>
-  <td rowspan="1" width="30%"><img  src="/images/team-photos/Rafael.png"></td>
+  <td rowspan="1" width="20%"><img src="/images/team-photos/Cristina.png"></td>
+  <td rowspan="1" width="20%"><img src="/images/team-photos/Celia.png"></td>
+  <td rowspan="1" width="20%"><img src="/images/team-photos/Rafael.png"></td>
  </tr>
  </table>
-
+<br>
 <hr>
 
 
