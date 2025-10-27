@@ -13,6 +13,9 @@ redirect_from: /home/translation/
     <td rowspan="1" width="20%"><img src="/images/team-photos/Antonio.png" alt="Antonio Vidal-Infer" ></td>
     <td rowspan="1" width="20%"><img src="/images/team-photos/Adolfo.png" alt="Adolfo Alonso Arroyo" ></td>
  <tr>
+   </table>
+
+<table>
   <td rowspan="1" width="30%"><img src="/images/team-photos/Cristina.png"></td>
   <td rowspan="1" width="30%"><img src="/images/team-photos/Celia.png"></td>
   <td rowspan="1" width="30%"><img  src="/images/team-photos/Rafael.png"></td>
