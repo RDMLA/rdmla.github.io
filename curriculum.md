@@ -9,9 +9,7 @@ The RDMLA curriculum focuses on the essential knowledge and skills needed to col
 <br>
 
 <p align="center">
-   <img src="images/icons_logos/rdmla_logo/coursesblocks.png" alt="RDMLAI Unit Navigation Blocks">
-
-</p><br>
+   <img src="/images/icons_logos/rdmla_logo/coursesblocks.png" alt="RDMLAI Unit Navigation Blocks"> </p><br>
 <p align="center"> <img src="/images/icons_logos/rdmla_logo/coursesblocks.png> </p> <br>
 
 <hr>
