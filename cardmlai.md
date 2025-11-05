@@ -15,7 +15,11 @@ The **“RDMLA: AI for Librarians”** is being offered as an extension of The R
 <hr>
 <h4><b>AI for Librarians Units</b></h4>
 
-<p align="center"><img src="/images/icons_logos/rdmla_logo/RDMLAI-New.png" alt="AI Units"></p> <br>
+
+<p align="center">
+ <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians">
+<img src="/images/icons_logos/rdmla_logo/RDMLAI-New.png" alt="AI Units"> 
+ </a></p> <br>
 
 For more information about RDMLA and the RDMLA team, go to: [RDMLA Website](https://rdmla.github.io)
   
