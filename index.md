@@ -23,7 +23,8 @@ The RDMLA curriculum focuses on the essential knowledge and skills needed to col
 
 <h4>The RDMLA units are hosted online on Canvas under CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike) licensing.</h4>
 
-In order to reach a broader learner community, the RDMLA team established a translation partnership with National Taiwan University (NTU) Library. The international collaboration shares the purpose of providing equitable access to education materials, not only to NTU’s patrons, but to the larger Chinese-speaking population. All 11 units of the RDMLA are translated and available on the Chinese translation here.
+RDMLA has expanded its curriculum with new course offerings that reflect its commitment to inclusivity and innovation in professional development. Firstly, the RDMLA core curriculum is now available in both **Chinese** and **Spanish**, providing greater access for Chinese- and Spanish-speaking librarians, information professionals, and researchers worldwide. Secondly, **RDMLA: AI for Librarians** introduces valuable training at the intersection of artificial intelligence and library practice, with emphasis on the ethical, practical, and effective integration of generative AI tools into library and information science contexts. Together, these offerings position RDMLA as a global leader in advancing research data management education while addressing emerging competencies essential to the profession.
+
 <br>
 
 
