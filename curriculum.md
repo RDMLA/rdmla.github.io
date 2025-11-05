@@ -63,7 +63,7 @@ This innovative course explores the integration of AI into library practices. Th
 
 <p align="center">
  <a href="https://rdmla.github.io/rdmlai/">
-   <img src="/images/display-images/AI-Navigation block-mainblock1.png" alt="RDMLAI Unit Navigation Blocks">
+   <img src="/images/icons_logos/rdmla_logo/rdmlainew2.png" alt="RDMLAI Unit Navigation Blocks">
  </a>
 </p><br>
 
