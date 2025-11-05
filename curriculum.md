@@ -8,13 +8,11 @@ redirect_from: /home/curriculum/
 The RDMLA curriculum focuses on the essential knowledge and skills needed to collaborate effectively with researchers on data management. Librarians working in academic settings who complete this program will have increased capacity to address the growing research data management needs of their higher learning institutions and to train faculty and researchers on best practices.
 <br>
 
-<table>
-  <tr>
-    <td rowspan="1" width="30%"><div> <a href="#RDMLA Course Units"></a><img src="/images/display-images/RDMLACUNB.png" alt="RDMLA: Course Units"></div></td>
-    <td rowspan="1" width="30%"><div><a href="#RRDMLA Mini-Modules"><img src="/images/display-images/RDMLAMMNB.png" alt="RDMLA: Mini_Modules"></a></div></td>
-    <td rowspan="1" width="30%"><div><a href="#RDMLAI: AI for Librarians Course Units"><img src="/images/display-images/AI-Navigation block-mainblock.png" alt="RDMLAI: AI for Librarians"></a></div></td></tr>
-</table>
+<p align="center">
+   <img src="images/icons_logos/rdmla_logo/coursesblocks.png" alt="RDMLAI Unit Navigation Blocks">
 
+</p><br>
+<p align="center"> <img src="/images/icons_logos/rdmla_logo/coursesblocks.png> </p> <br>
 
 <hr>
 <h4><b>RDMLA Course Units</b></h4>
