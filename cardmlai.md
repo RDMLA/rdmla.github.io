@@ -23,7 +23,7 @@ Thanks to the generous sponsorship of Elsevier, RDMLA: AI for Librarians is comp
 <br>
 <hr>
 <h4><b>AI for Librarians Units</b></h4>
-<h4><b><p align="center"> The RDMLA:AI for Librarians course has officially launched and is now available for register and access! <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians" target="_blank">here</a></p></b></h4>
+<h4><b><p align="center"> The RDMLA:AI for Librarians course has officially launched and is now available for registration and access! <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians" target="_blank">here</a></p></b></h4>
 
 <p align="center">
  <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians">
