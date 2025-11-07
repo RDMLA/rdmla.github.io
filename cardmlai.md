@@ -14,7 +14,7 @@ The **“RDMLA: AI for Librarians”** is being offered as an extension of The R
 <br>
 <hr>
 <h4><b>AI for Librarians Units</b></h4>
-
+<h4><b>The RDMLA:AI course has officially launched and is now available for register and access! <a href=""https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians" target="_blank">here</a>.</b></h4>
 
 <p align="center">
  <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians">
