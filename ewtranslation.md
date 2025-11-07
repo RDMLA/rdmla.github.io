@@ -27,7 +27,7 @@ The Chinese version of RDMLA consists of all eleven units, focusing on the knowl
 **RDMLA Spanish Version course has officially launched and is now available for register and access!**  
 The translation of RDMLA into Spanish will make the RDMLA content accessible to approximately 600 million Spanish-speaking learners around the world. This project is the result of a partnership between a team of lecturers from the Department of History of Science and Documentation and members of the research group at the Health and Social Research and Information Unit (UISYS) at the Universitat de València (Spain). In September 2024, RDMLA established its official partnership with the Universitat de València and began working on a Spanish language version of RDMLA.The units that have been translated come directly from the eleven original RDMLA units. You may take the units in sequence or out of order. All of the content is freely available and open for reuse under the CC-BY-NC-SA licensing. 
 
-Research Data Management Librarian Academy [RDMLA Spanish | Español] <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-espanol" target="_blank">here</a>.
+<p align="center"><b>Research Data Management Librarian Academy [RDMLA Spanish | Español] <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-espanol" target="_blank">here</a></p></b>
 <br>    
 
 <p align="center"><img src="/images/team-photos/spanishteam.png"></p>
