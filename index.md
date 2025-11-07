@@ -43,7 +43,7 @@ RDMLA has expanded its curriculum with new course offerings that reflect its com
 <hr>
 <h3><b>AI for Librarians</b></h3>
 
-<h3><b>The RDMLA:AI course has officially launched and is now available for register and access! <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians" target="_blank">here</a></b></h3>
+<h3><b>The RDMLA:AI for Librarians course has officially launched and is now available for registration and access! <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians" target="_blank">here</a></b></h3>
 
 <br>
 
