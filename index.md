@@ -30,13 +30,13 @@ RDMLA has expanded its curriculum with new course offerings that reflect its com
 
 <h4><b>Access the RDMLA Course</b></h4>
 
-Ready to join the RDMLA community? Register and access: 
+<h5>Ready to join the RDMLA community? Register and access: </h5>
 
-Research Data Management Librarian Academy [RDMLA] <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management" target="_blank">here</a>.
+<h5> Research Data Management Librarian Academy [RDMLA] <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management" target="_blank">here</a></h5>
 
-Research Data Management Librarian Academy [RDMLA Chinese | 中文版] <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management-librarian-academy-rdmla--" target="_blank">here</a>.
+<h5>Research Data Management Librarian Academy [RDMLA Chinese | 中文版] <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management-librarian-academy-rdmla--" target="_blank">here</a></h5>
 
-Research Data Management Librarian Academy [RDMLA Spanish | Español] <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-espanol" target="_blank">here</a>.
+<h5>Research Data Management Librarian Academy [RDMLA Spanish | Español] <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-espanol" target="_blank">here</a></h5>
 
 <br> 
 
