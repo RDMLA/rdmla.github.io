@@ -14,12 +14,12 @@ The **“RDMLA: AI for Librarians”** is being offered as an extension of The R
 <br>
 <hr>
 <h4><b>AI for Librarians Units</b></h4>
-<h4><b><p align="center"> The RDMLA:AI course has officially launched and is now available for register and access! <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians" target="_blank">here</p></a></b></h4>
+<h4><b><p align="center"> The RDMLA:AI course has officially launched and is now available for register and access! <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians" target="_blank">here</a></p></b></h4>
 
 <p align="center">
  <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians">
 <img src="/images/icons_logos/rdmla_logo/RDMLAI-New.png" alt="AI Units"> 
- </a></p> <br>
+ </a></p><br>
 
 For more information about RDMLA and the RDMLA team, go to: [RDMLA Website](https://rdmla.github.io)
   
