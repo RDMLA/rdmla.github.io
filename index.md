@@ -34,12 +34,13 @@ Ready to join the RDMLA community? Register and access the course <a href="https
 
 Register and access Research Data Management Librarian Academy [RDMLA Chinese | 中文版] <a href="https://www.canvas.net/browse/simmonsu/courses/research-data-management-librarian-academy-rdmla--" target="_blank">here</a>.
 
-Register and access Research Data Management Librarian Academy [RDMLA Spanish | Español] <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-espanol" target="_blank">here</a>.
+Register and access Research Data Management Librarian Academy [RDMLA Spanish | Español] <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-espanol" target="_blank">here</a>
+
 <br> 
 <hr>
 <h3><b>AI for Librarians</b></h3>
 
-<h3><b>The RDMLA:AI course has officially launched and is now available for register and access! <a href=""https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians" target="_blank">here</a>.</b></h3>
+<h3><b>The RDMLA:AI course has officially launched and is now available for register and access! <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians" target="_blank">here</a></b></h3>
 
 <br>
 
