@@ -36,6 +36,12 @@ Register and access 研究資料管理圖書館員課程［RDMLA中文版] <a hr
 <hr>
 <h3><b>AI for Librarians</b></h3>
 
+<h5><b>The RDMLA:AI course has officially launched and is now available for access! <a href=""https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians" target="_blank">here</a>.</b></h5>
+
+<br>
+
+
+
 <p align="center">
   <a href="https://rdmla.github.io/rdmlai/">
     <img src="/images/icons_logos/rdmla_logo/rdmlainewadded.png" alt="RDMLAI Logo">
