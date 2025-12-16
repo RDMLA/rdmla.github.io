@@ -34,3 +34,14 @@ The translation of RDMLA into Spanish will make the RDMLA content accessible to 
 <br>
 
 <hr>
+
+<br>
+
+<h3><p align="center"> <b> The RDMLA team wishes you a happy and joyful holiday season!</b></p></h3>
+
+<p align="center"><img src="/images/team-photos/RDMLA Team.png"></p>
+
+<br>
+
+<hr>
+
