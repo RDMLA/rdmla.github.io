@@ -29,4 +29,29 @@ A survey was distributed to relevant groups via email, a Library Connect blog po
 <p align="center"><a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/RDMLA-Report.pdf"><em>Survey Report</em></a>  |  <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/Training.pdf"><em>Training Inventory</em></a>  |  <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/survey-documents/Publications.pdf"><em>Publication Inventory</em></a></p>
 
 <br>
+
+#### How to cite RDMLA content?
+
+Below is an example demonstrating how to properly cite RDMLA content if you need to reference it in your writing or professional work.
+
+For the entire course:
+
+ 
+
+Research Data Management Librarian Academy (RDMLA) [MOOC]. (2019) Canvas. https://www.canvas.net/browse/simmonsu/courses/research-data-management 
+
+ - Parenthetical citation: (RDMLA, 2019)
+
+ - Narrative citation: RDMLA (2019)
+
+Ex. For a single unit: 
+
+Creamer (2019). Unit 2: Navigating Research Culture [MOOC lecture]. In Research Data Management Librarian Academy (RDMLA) [MOOC]. Canvas. https://www.canvas.net/browse/simmonsu/courses/research-data-management 
+
+ - Parenthetical citation: (Creamer, 2019)
+
+ - Narrative citation: Creamer (2019)
+
+
+<br>
 <h4><b><p align="center"> RDMLA is financially sponsored by <a href="https://www.elsevier.com/librarian/library-connect-academy#3-data-management-course" target="_blank">Elsevier</a></p>
