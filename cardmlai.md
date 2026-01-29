@@ -36,9 +36,9 @@ RDMLA: AI for Librarians [MOOC]. (2025) Canvas. https://www.canvas.net/browse/si
 
  - Narrative citation: RDMLA: AI for Librarians (2025)
 
-Ex. For a single lecture: 
+ Ex. For a single lecture: 
 
-Grein, M.J. (2025). AI Use Cases: Section 3 | AI Power Tools for Executive Assistants in Library Settings [MOOC lecture]. In RDMLA: AI for Librarians [MOOC]. Canvas. https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians
+ Grein, M.J. (2025). AI Use Cases: Section 3 | AI Power Tools for Executive Assistants in Library Settings [MOOC lecture]. In RDMLA: AI for Librarians [MOOC]. Canvas. https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians
 
  - Parenthetical citation: (Grein, 2025)
 
