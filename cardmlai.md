@@ -22,6 +22,30 @@ Thanks to the generous sponsorship of Elsevier, RDMLA: AI for Librarians is comp
 
 <br>
 <hr>
+
+#### How to cite RDMLA:AI for Librarians content?
+
+Below is an example demonstrating how to properly cite RDMLA: AI for Librarians content if you need to reference it in your writing or professional work.
+
+For the entire course:
+
+ 
+RDMLA: AI for Librarians [MOOC]. (2025) Canvas. https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians
+
+ - Parenthetical citation: (RDMLA: AI for Librarians, 2025)
+
+ - Narrative citation: RDMLA: AI for Librarians (2025)
+
+Ex. For a single lecture: 
+
+Grein, M.J. (2025). AI Use Cases: Section 3 | AI Power Tools for Executive Assistants in Library Settings [MOOC lecture]. In RDMLA: AI for Librarians [MOOC]. Canvas. https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians
+
+ - Parenthetical citation: (Grein, 2025)
+
+ - Narrative citation: Grein (2025)
+
+
+<hr>
 <h4><b>AI for Librarians Units</b></h4>
 <h4><b><p align="center"> The RDMLA:AI for Librarians course has officially launched and is now available for registration and access! <a href="https://www.canvas.net/browse/simmonsu/courses/rdmla-ai-for-librarians" target="_blank">here</a></p></b></h4>
 
