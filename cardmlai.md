@@ -23,7 +23,7 @@ Thanks to the generous sponsorship of Elsevier, RDMLA: AI for Librarians is comp
 <br>
 <hr>
 
-#### How to cite RDMLA:AI for Librarians content?
+ **How to cite RDMLA:AI for Librarians content?** 
 
 Below is an example demonstrating how to properly cite RDMLA: AI for Librarians content if you need to reference it in your writing or professional work.
 
