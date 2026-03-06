@@ -1,9 +1,9 @@
-- - - 
+---
 layout: page
 title: Events
 permalink: /events/
 redirect_from: /home/events/
-- - - 
+---
 
 #### Upcoming 2026 RDMLA Events
 
