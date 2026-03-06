@@ -5,6 +5,13 @@ permalink: /events/
 redirect_from: /home/events/
 ---
 
+#### Upcoming RDMLA Events
+
+- FNLM Showcase: Practical AI Use Cases for Medical Librarians, (April 28, 2026) | Webinar
+- CRECS; International Conference on Scientific Journals, (May 6-8, 2026) | Cuenca, Spain
+
+___
+
 #### Recent RDMLA Presentations
 
 The RDMLA team has presented at the following conferences.
@@ -13,32 +20,32 @@ The RDMLA team has presented at the following conferences.
 
  **2024 Events**
 
-  - University of Hong Kong, China (July 9, 2024).
+  - University of Hong Kong, (July 9, 2024) | China
     "Open Education and Competency-Based Training in Research Data Services: Lessons Learned." Invited talk to Faculty of Education. 
     -  <a href="https://drive.google.com/file/d/1dap4u0oHch2zZi4hJ3s6dlKCjyAk6rrI/view?usp=sharing" target="_blank">Summary of the Talk </a>
 
-  - Symposium in Open Science and Data Curation, Taipei, Taiwan (May 28, 2024).
+  - Symposium in Open Science and Data Curation, (May 28, 2024) | Taipei, Taiwan
     "Practical Implementation of Open Education and Competency-Based Training in Research Data Services: Lessons Learned from RDMLA and DSCPE." .
     - <a href="https://www.lib.ntu.edu.tw/events/2024_RDMLA/" target="_blank">Summary of the Talk </a>
 
-  - MLA Annual Conference, Portland (May 18-21, 2024)
+  - MLA Annual Conference, (May 18-21, 2024) | Portland 
  
-  - iConference, Changchun, China (April 24, 2024)
+  - iConference, Changchun, (April 24, 2024) | China 
     - <a href="https://www.ischools.org/iconference-agenda" target="_blank">Session Overview </a>
     
 ___
 **2023 Events**
 
-  - ASIS&T Annual Meeting (October 29, 2023) - Product Theater
+  - ASIS&T Annual Meeting (October 29, 2023) | Product Theater
     - <a href="https://www.asist.org/am23/2023-product-theater/" target="_blank">Product Theater</a>
 
-  - ALISE 2023 Annual Conference (October 3, 2023) – Presentation
+  - ALISE 2023 Annual Conference (October 3, 2023) | Presentation
     - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/2023_ALISE_Juried_Paper_Presentation.pdf" target="_blank">Presentation Slides</a>
 
-  - MLA SLA Annual Meeting (May 18, 2023) – Presentation
+  - MLA SLA Annual Meeting (May 18, 2023) | Presentation
     - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/Thomas_DSCPE_MLA23_Presentation.pdf" target="_blank">Presentation Slides</a>
 
-  - iSchools iConference (March 27, 2023) – Workshop
+  - iSchools iConference (March 27, 2023)| Workshop
     - <a href="https://github.com/RDMLA/rdmla.github.io/blob/master/images/presentations/2023/2023%20iConference%20workshop_data%20competencies.pdf" target="_blank">Presentation Slides</a>
 
 ___
