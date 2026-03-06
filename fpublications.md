@@ -6,20 +6,25 @@ redirect_from: /home/resources/
 ---
 #### Publications by the RDMLA Community
 ---
+2026 Article
 
-2023 Articles
+Elsevier Connect (2026, Feburary 26). <a href="https://www.elsevier.com/connect/discover-rdmlas-new-short-course-practical-ai-skills-for-librarians" target="_blank"> Discover RDMLA’s new short course: Practical AI Skills for Librarians www.elsevier.com/connect/discover-rdmlas-new-short-course-practical-ai-skills-for-librarians </a>
+ 
+---
+
+2023 Article
 
   - Tang, Rong, Zhan Hu, Elaine Martin, Ashley Thomas & Shabnam Shahvar. <a href="https://doi.org/10.21900/j.alise.2023.1276" target="_blank"><b>"Competency based education/training (CBE/CBT) in Data Services: Data Service Continuing Professional Education (DSCPE) and learning outcomes."</b></a> <i>2023: ALISE Proceedings</i> (September 29, 2023).
 
 ---
 
-2021 Articles
+2021 Article
 
   - Tang, Rong, Zhan Hu, Nicole Henry, and Ashley Thomas. <a href="https://doi.org/10.1080/19322909.2021.1937442" target="_blank"><b>"A Usability Evaluation of Research Data Management Librarian Academy (RDMLA): Examining the Impact of Learner Differences in Pedagogical Usability."</b></a> <i>Journal of Web Librarianship</i> 15, no. 3 (June 2021): 154-193.
 
 ---
 
-2020 Articles
+2020 Article
 
   - Thomas, Ashley, and Elaine R. Martin. <a href ="https://doi.org/10.1080/02763869.2020.1826185" target="_blank"><b>“Developing a Community of Practice: Building the Research Data Management Librarian Academy.”</b></a> <i>Medical Reference Services Quarterly</i> 39, no. 4 (October 21, 2020): 323–33.
 
