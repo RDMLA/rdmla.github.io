@@ -5,7 +5,7 @@ permalink: /events/
 redirect_from: /home/events/
 ---
 
-#### Upcoming RDMLA Events
+#### Upcoming 2026 RDMLA Events
 
 - FNLM Showcase: Practical AI Use Cases for Medical Librarians, (April 28, 2026) | Webinar
 - CRECS; International Conference on Scientific Journals, (May 6-8, 2026) | Cuenca, Spain
