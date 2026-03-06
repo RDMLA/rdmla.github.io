@@ -8,7 +8,7 @@ redirect_from: /home/resources/
 ---
 2026 Article
 
-Elsevier Connect (2026, Feburary 26). <a href="https://www.elsevier.com/connect/discover-rdmlas-new-short-course-practical-ai-skills-for-librarians" target="_blank"> Discover RDMLA’s new short course: Practical AI Skills for Librarians www.elsevier.com/connect/discover-rdmlas-new-short-course-practical-ai-skills-for-librarians </a>
+ - Elsevier Connect (2026, Feburary 26). <a href="https://www.elsevier.com/connect/discover-rdmlas-new-short-course-practical-ai-skills-for-librarians" target="_blank"> Discover RDMLA’s new short course: Practical AI Skills for Librarians www.elsevier.com/connect/discover-rdmlas-new-short-course-practical-ai-skills-for-librarians </a>
  
 ---
 
