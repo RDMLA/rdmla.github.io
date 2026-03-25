@@ -20,7 +20,6 @@ This event is sponsored by the Countway Library of Medicine Harvard Medical Scho
 <br>
 
 -  <b>CRECS; International Conference on Scientific Journals, (May 6 to 8, 2026) - Cuenca, Spain </b>
-
 ___
 
 #### Recent RDMLA Presentations
