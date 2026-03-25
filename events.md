@@ -7,7 +7,7 @@ redirect_from: /home/events/
 
 #### Upcoming 2026 RDMLA Events
 
--  FNLM Showcase: Practical AI Use Cases for Medical Librarians, (April 28, 2026) - Webinar
+- <b>FNLM Showcase: Practical AI Use Cases for Medical Librarians, (April 28, 2026) - Webinar</b>
   
 The RDMLA team has partnered with the Friends of the National Library of Medicine (FNLM) to organize a Webinar Showcase entitled: Practical AI Use Cases for Medical Librarians on Tuesday, April 28th, 1–2:30pm EDT. The purpose of this topic is to bring together library and information professionals to learn from each other about the use of AI tools through practical demonstrations. Our expert speakers will be demonstrating the ways they have incorporated AI tools into their workflows for a range of AI use cases, including: Administrative, Data Management, Information Literacy, Research Support, Archival Description, and Chatbot Creation. Two Q&A sessions will be arranged after the video presentations. 
 
@@ -16,9 +16,9 @@ This event is sponsored by the Countway Library of Medicine Harvard Medical Scho
 <p align="center"><img src="/images/display-images/flyerwebinar2026.jpg" width="50%"></p>
 
 
+<br>
 
-
--  CRECS; International Conference on Scientific Journals, (May 6 to 8, 2026) - Cuenca, Spain
+-  <b>CRECS; International Conference on Scientific Journals, (May 6 to 8, 2026) - Cuenca, Spain </b>
 
 ___
 
