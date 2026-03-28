@@ -7,6 +7,8 @@ redirect_from: /home/events/
 
 #### Upcoming 2026 RDMLA Events
 
+- <b>RDAP Summit; Practical Personilzed Impactful, (April 15, 2026) - Session 4B: <a href="https://rdapassociation.org/summit/schedule/" target="_blank">Providing Practical, Personalized, and Impactful Learning Experiences for Working Librarians on Research Data Services</a></b>
+
 - <b>FNLM Showcase: Practical AI Use Cases for Medical Librarians, (April 28, 2026) - Webinar</b>
 
   
