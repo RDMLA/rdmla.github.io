@@ -15,6 +15,7 @@ redirect_from: /home/events/
 <p>The RDMLA team has partnered with the Friends of the National Library of Medicine (FNLM) to organize a Webinar Showcase entitled: Practical AI Use Cases for Medical Librarians on Tuesday, April 28th, 1–2:30pm EDT. The purpose of this topic is to bring together library and information professionals to learn from each other about the use of AI tools through practical demonstrations. Our expert speakers will be demonstrating the ways they have incorporated AI tools into their workflows for a range of AI use cases, including: Administrative, Data Management, Information Literacy, Research Support, Archival Description, and Chatbot Creation. Two Q&A sessions will be arranged after the video presentations. 
 
 This event is sponsored by the Countway Library of Medicine Harvard Medical School, DSCPE, RDMLA, and Cypher Media. Sign up at Webinars: <a href="https://www.fnlm.org/product/practical-ai-use-cases-for-medical-librarians/" target="_blank">Friends of the National Library of Medicine</a></p>
+<p align="center"><b>All participants will receive a complimentary certificate of attendance.</b></p>
 <p align="center"> <img src="/images/display-images/Webinar-Medical Librarians Flyer Apr 2026 - FINAL.png" width="40%"></p>
 
 - <b>CRECS; International Conference on Scientific Journals, (May 6 to 8, 2026) - Cuenca, Spain </b>
