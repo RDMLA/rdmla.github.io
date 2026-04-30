@@ -15,8 +15,15 @@ The **“RDMLA: AI for Librarians”** is being offered as an extension of The R
 **"RDMLA: AI for Librarians"** introduces you to the fundamentals of AI while emphasizing ethical, responsible, and library-focused applications. The content is rooted in real-world scenarios you’ll encounter in library practice. Here are three units: 
 - AI Tools for Library Research – Explores how generative AI tools can support library research questions in innovative ways.
 - AI Ethics – Examines key ethical challenges, applies frameworks for responsible AI use, and outlines policy recommendations for AI integration in libraries.
-- AI Use Cases – Showcases how AI can streamline library workflows and enhance user services.
-And this is just the beginning, stay tuned for more AI Use Cases to be added in 2026!
+- AI Use Cases – Showcases how AI can streamline library workflows and enhance user services. The AI Use Case Unit includes the following sections:
+  
+  - Section 1: AI for Administrative Tasks in Libraries
+  - Section 2: Artificial Intelligence for Reference Services
+  - Section 3: AI Power Tools for Executive Assistants in Library Settings
+  - Section 4: Leveraging Generative AI for Research Data Management
+  - Section 5: Utilizing Generative AI for Information Literacy Instruction
+  - Section 6: AI-assisted Metadata Tools (New)
+
 
 Thanks to the generous sponsorship of Elsevier, RDMLA: AI for Librarians is completely free and available worldwide. All materials are hosted on the Canvas Network under a CC-BY-NC-SA license.
 
