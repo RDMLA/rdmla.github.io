@@ -22,7 +22,7 @@ The **“RDMLA: AI for Librarians”** is being offered as an extension of The R
   - Section 3: AI Power Tools for Executive Assistants in Library Settings
   - Section 4: Leveraging Generative AI for Research Data Management
   - Section 5: Utilizing Generative AI for Information Literacy Instruction
-  - Section 6: AI-assisted Metadata Tools (New)
+  - Section 6: AI-assisted Metadata Tools: Demo & Assessment (New)
 
 
 Thanks to the generous sponsorship of Elsevier, RDMLA: AI for Librarians is completely free and available worldwide. All materials are hosted on the Canvas Network under a CC-BY-NC-SA license.
