@@ -5,6 +5,17 @@ redirect_from: /home/
 
 <p align="center"><img src="images/icons_logos/rdmla_logo/RDMLALogo_Blue_450px.png" alt="RDMLA Logo"></p> <br>
 
+<h4 align="center" style="font-weight: 600;"><b>A New Milestone for RDMLA: Over 10K Learners Worldwide!</b></h4>
+
+We are thrilled to share an exciting milestone for the Research Data Management Librarian Academy (RDMLA)!
+
+More than 10,000 learners have now registered for and are using RDMLA to build their knowledge and skills in research data management.
+As our community continues to grow, we remain committed to providing free, high-quality educational resources that empower librarians, information professionals, and researchers around the world.
+
+Thank you for being part of the RDMLA journey. We look forward to continuing to learn, collaborate, and grow with you!
+
+<hr>
+
 The **Research Data Management Librarian Academy** (**RDMLA**) is a free online professional development program for librarians, information professionals, and other professionals who work in a research-intensive environment throughout the world. 
 
 RDMLA features a unique partnership between a LIS academic program, academic health sciences and research libraries, and Elsevier. 
