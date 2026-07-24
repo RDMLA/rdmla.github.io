@@ -9,7 +9,7 @@ redirect_from: /home/
 
 We are thrilled to share an exciting milestone for the Research Data Management Librarian Academy (RDMLA)!
 
-More than 10,000 learners have now registered for and are using RDMLA to build their knowledge and skills in research data management.
+More than 10,000 learners have now enrolled in RDMLA to build their knowledge and skills in research data management.
 As our community continues to grow, we remain committed to providing free, high-quality educational resources that empower librarians, information professionals, and researchers around the world.
 
 Thank you for being part of the RDMLA journey. We look forward to continuing to learn, collaborate, and grow with you!
