@@ -20,7 +20,7 @@ redirect_from: /home/Team/
 #### <b>Funding</b>
 <table>
 <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="images/team-photos/Ann_Gabriel.png" alt="Emily Singley Photo"></div><div><b>Ann Gabriel</b><br> Senior Vice President for Global Strategic Networks, Elsevier</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="images/team-photos/AnnGabriel.png" alt=" Ann Gabriel Photo"></div><div><b>Ann Gabriel</b><br> Senior Vice President for Global Strategic Networks, Elsevier</div></td></tr>
 </table>
  
 #### <b>RDMLA Staff</b>
