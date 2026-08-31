@@ -19,7 +19,7 @@ redirect_from: /home/Team/
 
 <table>
 <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Oklahoma.png" alt="The University of Oklahoma Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Luo.png" alt="Jiebei Luo Photo"></div><div><b>Jiebei Luo</b><br> RDMLA/DSCPE Co-Leader | Assistant Professor, School of Library and Information Studies, The University of Oklahoma </div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Luo.png" alt="Jiebei Luo Photo"></div><div><b>Jiebei Luo</b><br> RDMLA Co-Leader | Assistant Professor, School of Library and Information Studies, The University of Oklahoma </div></td></tr>
 </table>
 
 #### <b>Funding</b>
