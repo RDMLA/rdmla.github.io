@@ -38,7 +38,7 @@ redirect_from: /home/Team/
   </td></tr>
    <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Perry.png" alt="Perry Weidling Photo"></div><div> <b>Perry Weidling</b><br></div> 
  </td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="images/team-photos/2020-updates/ashley-thomas.jpg" alt="Ashley Thomas Photo"></div><div> <b>Ashley Thomas</b></div> 
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/ashleyt.png" alt="Ashley Thomas Photo"></div><div> <b>Ashley Thomas</b></div> 
   </td></tr>
 </table>
 
