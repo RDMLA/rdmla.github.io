@@ -22,19 +22,24 @@ redirect_from: /home/Team/
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Luo.png" alt="Jiebei Luo Photo"></div><div><b>Jiebei Luo</b><br> RDMLA Co-Leader | Assistant Professor, School of Library and Information Studies, The University of Oklahoma </div></td></tr>
 </table>
 
-#### <b>Funding</b>
+#### <b>Funded</b>
 <table>
 <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Anngabriel.png" alt=" Ann Gabriel Photo"></div><div><b>Ann Gabriel</b><br> Senior Vice President for Global Strategic Networks, Elsevier</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Anngabriel.png" alt=" Ann Gabriel Photo"></div><div><b>Ann Gabriel</b><br> Senior Vice President for Global Strategic Networks, Elsevier | Fall 2018 - Fall 2026 </div></td></tr>
 </table>
  
-#### <b>RDMLA Staff</b>
+#### <b>RDMLA Pst Staff</b>
 
 <table>
   <tr><td rowspan="2" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/shabnams.png" alt="Shabnam Shahvar Photo"></div><div> <b>Shabnam Shahvar</b><br> Project Research Assistant | Technology Coordinator, Countway Library </div> 
  </td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/SamanthaF1.png" alt="Samantha Friedman Photo"></div><div> <b>Samantha Friedman</b><br> Project Coordinator, Countway Library </div>
+  </td></tr>
+   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/perryw.png" alt="Perry Weidling Photo"></div><div> <b>Perry Weidling</b><br></div> 
+ </td></tr>
+
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="images/ashleyt.png" alt="Ashley Thomas Photo"></div><div> <b>Ashley Thomas</b></div> 
   </td></tr>
 </table>
 
