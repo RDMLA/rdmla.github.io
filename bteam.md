@@ -31,7 +31,7 @@ redirect_from: /home/Team/
 #### <b>RDMLA Past Staff</b>
 
 <table>
-  <tr><td rowspan="4" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
+  <tr><td rowspan="4" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></tr></td>
    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/shabnams.png" alt="Shabnam Shahvar Photo"></div><div> <b>Shabnam Shahvar</b><br> Project Research Assistant | Technology Coordinator, Countway Library | January 2023 - November 2026 </div> 
  </td></tr>
   <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/SamanthaF1.png" alt="Samantha Friedman Photo"></div><div> <b>Samantha Friedman</b><br> Project Coordinator, Countway Library | December 2024 - November 2026 </div>
@@ -41,8 +41,6 @@ redirect_from: /home/Team/
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/ashleyt.png" alt="Ashley Thomas Photo"></div><div> <b>Ashley Thomas</b></div> 
   </td></tr>
 </table>
-
-
 
 
 
