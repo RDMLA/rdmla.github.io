@@ -54,4 +54,4 @@ Creamer (2019). Unit 2: Navigating Research Culture [MOOC lecture]. In Research 
 
 
 <br>
-<b><p align="center"> "Our sincere thanks to Elsevier for generously sponsoring and supporting the RDMLA from Fall 2018 through Fall 2026."</p>
+<p align="center"> <b>"Our sincere thanks to Elsevier for generously sponsoring and supporting the RDMLA from Fall 2018 through Fall 2026."</b></p>
