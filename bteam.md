@@ -26,7 +26,7 @@ redirect_from: /home/Team/
 
 <table>
 <tr><td rowspan="1" width="20%"><img src="/images/icons_logos/partner_institutions_logos/Elsevier.png" alt="Elsevier Logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Anngabriel.png" alt="Ann Gabriel Photo"></div><br><b> Ann Gabriel</b><br> Senior Vice President for Global Strategic Networks, Elsevier | Fall 2018 - Fall 2026 </div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Anngabriel.png" alt="Ann Gabriel Photo"></div><br><b> Ann Gabriel</b><br> Senior Vice President for Global Strategic Networks, Elsevier | Fall 2018 - Fall 2026 </td></tr>
 </table>
 
  
