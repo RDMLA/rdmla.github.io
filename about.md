@@ -54,4 +54,4 @@ Creamer (2019). Unit 2: Navigating Research Culture [MOOC lecture]. In Research 
 
 
 <br>
-<h4><b><p align="center"> RDMLA is financially sponsored by <a href="https://www.elsevier.com/librarian/library-connect-academy#3-data-management-course" target="_blank">Elsevier</a></p>
+<h4><b><p align="center"> "Our sincere thanks to Elsevier for generously sponsoring and supporting the RDMLA from Fall 2018 through Fall 2026."</p>
