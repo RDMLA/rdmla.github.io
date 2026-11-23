@@ -28,18 +28,17 @@ redirect_from: /home/Team/
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/Anngabriel.png" alt=" Ann Gabriel Photo"></div><div><b>Ann Gabriel</b><br> Senior Vice President for Global Strategic Networks, Elsevier | Fall 2018 - Fall 2026 </div></td></tr>
 </table>
  
-#### <b>RDMLA Pst Staff</b>
+#### <b>RDMLA Past Staff</b>
 
 <table>
-  <tr><td rowspan="2" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
+  <tr><td rowspan="4" width="20%"><img src="/images/icons_logos/partner_institutions_logos/HMS.png" alt="Harvard Medical School Logo"></td>
    <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/shabnams.png" alt="Shabnam Shahvar Photo"></div><div> <b>Shabnam Shahvar</b><br> Project Research Assistant | Technology Coordinator, Countway Library </div> 
  </td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/SamanthaF1.png" alt="Samantha Friedman Photo"></div><div> <b>Samantha Friedman</b><br> Project Coordinator, Countway Library </div>
+  <td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/SamanthaF1.png" alt="Samantha Friedman Photo"></div><div> <b>Samantha Friedman</b><br> Project Coordinator, Countway Library </div>
   </td></tr>
-   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/perryw.png" alt="Perry Weidling Photo"></div><div> <b>Perry Weidling</b><br></div> 
+   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/team-photos/2020-updates/Perry.png" alt="Perry Weidling Photo"></div><div> <b>Perry Weidling</b><br></div> 
  </td></tr>
-
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="images/ashleyt.png" alt="Ashley Thomas Photo"></div><div> <b>Ashley Thomas</b></div> 
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="images/team-photos/2020-updates/ashley-thomas.jpg" alt="Ashley Thomas Photo"></div><div> <b>Ashley Thomas</b></div> 
   </td></tr>
 </table>
 
